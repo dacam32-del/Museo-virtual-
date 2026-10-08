@@ -2621,8 +2621,8 @@
    "origen": "Hess (gasolineras Hess, EE.UU.), juguete navideño de edición anual, 1993",
    "materiales": "Plástico, piezas cromadas, neumáticos de goma, barra de luces de plástico translúcido; sistema electrónico de luces y sirena a pilas",
    "marcas": "Patente trasera 'HESS 1993'; patente delantera 'HESS'; logos HESS en capó, maletero y puertas; 'GASOLINE' en los costados",
-   "estado": "Regular (suelto, sin caja; suciedad, rayones y manchas de pintura azul en las ventanas y roja en el parachoques trasero). Están los dos parachoques. Probado: los focos delanteros y la barra de luces encienden, pero parte de la barra está rota y la sirena/parlante no suena",
-   "descripcion": "Patrulla de juguete Hess de 1993. Desde los años 60, la cadena de gasolineras Hess, de Estados Unidos, vendía cada Navidad un vehículo de juguete de edición anual, que se convirtió en tradición y en objeto de colección. El de 1993 fue el primer auto de la serie: un sedán policial crema con franjas verdes, logos HESS, barra de luces en el techo y luces y sirena a pilas. Este ejemplar está suelto, sin caja, con suciedad, rayones y manchas de pintura. Probado: los focos y la barra de luces encienden, pero parte de la barra está rota y la sirena no suena.",
+   "estado": "Regular (suelto, sin caja; suciedad, rayones y manchas de pintura azul en las ventanas y roja en el parachoques trasero). Están los dos parachoques. Probado: los focos delanteros y la barra de luces encienden, pero parte de la barra está rota, la sección azul del centro no enciende y la sirena/parlante no suena",
+   "descripcion": "Patrulla de juguete Hess de 1993. Desde los años 60, la cadena de gasolineras Hess, de Estados Unidos, vendía cada Navidad un vehículo de juguete de edición anual, que se convirtió en tradición y en objeto de colección. El de 1993 fue el primer auto de la serie: un sedán policial crema con franjas verdes, logos HESS, barra de luces en el techo y luces y sirena a pilas. Este ejemplar está suelto, sin caja, con suciedad, rayones y manchas de pintura. Probado: los focos y la barra de luces encienden, pero parte de la barra está rota, la sección azul del centro no enciende y la sirena no suena.",
    "fotos": [
     "rx-085-1.jpg",
     "rx-085-2.jpg",
@@ -2646,7 +2646,12 @@
     ]
    },
    "factores": "Primer auto de la serie anual de juguetes Hess (1993), con coleccionistas en EE.UU.; se fabricó en grandes cantidades. Suelto y sin caja; las luces funcionan, pero la sirena no suena y la barra de luces está rota en parte, así que no es un ejemplar completo y funcionando, que es lo que buscan los coleccionistas.",
-   "confianza": "Media"
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-085.mp4",
+    "poster": "video/rx-085-poster.jpg",
+    "caption": "Video: luces y baliza funcionando"
+   }
   }
  ]
 }

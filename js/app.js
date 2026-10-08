@@ -46,7 +46,8 @@ function abrir(p){
   const msg=`Hola, me interesa la pieza ${p.id}: ${p.nombre} del Museo Virtual RetroXplay`;
   $('sheet').innerHTML=`<button class="close" aria-label="Cerrar">×</button>
    <div class="gal"><div class="main"><img id="mImg" src="images/full/${p.fotos[0]}" alt="${esc(p.nombre)}"></div>
-     ${p.fotos.length>1?`<div class="thumbs">${p.fotos.map((f,i)=>`<img src="images/thumb/${f}" data-f="${f}" class="${i?'':'on'}" alt="Foto ${i+1}">`).join('')}</div>`:''}</div>
+     ${p.fotos.length>1?`<div class="thumbs">${p.fotos.map((f,i)=>`<img src="images/thumb/${f}" data-f="${f}" class="${i?'':'on'}" alt="Foto ${i+1}">`).join('')}</div>`:''}
+     ${p.video&&p.video.src?`<figure class="vid"><video src="${esc(p.video.src)}"${p.video.poster?` poster="${esc(p.video.poster)}"`:''} controls muted playsinline preload="metadata"></video>${p.video.caption?`<figcaption>${esc(p.video.caption)}</figcaption>`:''}</figure>`:''}</div>
    <div class="info"><span class="eyebrow">${p.id} · ${esc(p.grupo)}</span>
      <h2 id="mTitle">${esc(p.nombre)}</h2>
      <p class="desc">${esc(p.descripcion)}</p>
