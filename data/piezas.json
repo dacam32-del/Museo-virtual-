@@ -3175,6 +3175,40 @@
    },
    "factores": "Es cobre chileno trabajado a mano, y la salamandra en miniatura es un souvenir reconocible. Le resta valor que no tiene marca, que la fecha no está confirmada, que tiene cardenillo y un hilo en la chimenea, y que hoy se siguen vendiendo miniaturas de cobre hechas a mano.",
    "confianza": "Baja"
+  },
+  {
+   "id": "RX-101",
+   "nombre": "Muñeca de reproducción del molde 252 de la S.F.B.J. (el 'Paris Pouty'), cabeza de biscuit, no es antigua",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Reproducción moderna (hacia 1970–1990) del molde 252 de la Société Française de Fabrication de Bébés et Jouets, el llamado Paris Pouty o Bébé boudeur, de alrededor de 1915. No es la muñeca francesa original. El dueño lee en la nuca '252' y 'PARIS'. En las fotos no se distingue S.F.B.J. ni un número de talla",
+   "materiales": "Cabeza de biscuit (porcelana sin esmalte), ojos azules insertados, pestañas pintadas, peluca rubia sintética, suéter tejido a mano en morado y blanco, falda plisada gris. Alto estimado 35 a 40 cm (no medido)",
+   "marcas": "252 / PARIS inciso en la nuca (según el dueño). No se ha leído S.F.B.J. ni un número de talla",
+   "estado": "Bueno: peluca sintética despeinada, ropa tejida a mano que no es de época. Sin roturas visibles en la cara",
+   "descripcion": "Muñeca de reproducción, no antigua, con cabeza de biscuit. La cara es la del molde 252 de la S.F.B.J. francesa, el llamado Paris Pouty: boca cerrada con puchero, ojos azules insertados, pestañas pintadas y cara redonda de niño. En la nuca se lee 252 y PARIS, según el dueño. A la original también le dicen S.F.B.J. y un número de talla, y eso aquí no se ha leído. Lleva peluca rubia sintética, un suéter tejido a mano en morado y blanco y una falda plisada gris. Mide unos 35 a 40 cm. Es una copia de las que se hicieron hacia 1970–1990, no la muñeca francesa de 1915.",
+   "fotos": [
+    "rx-101-1.jpg",
+    "rx-101-2.jpg",
+    "rx-101-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     25000,
+     45000
+    ],
+    "bueno": [
+     12000,
+     22000
+    ],
+    "regular": [
+     6000,
+     12000
+    ]
+   },
+   "factores": "La cara es la del Paris Pouty, un molde muy reproducido. Le resta valor que es una reproducción sin firma de artista, con peluca sintética y ropa tejida en casa. Una S.F.B.J. 252 original, marcada S.F.B.J. 252 Paris, vale miles de dólares, y esta no lo es.",
+   "confianza": "Media"
   }
  ]
 }
