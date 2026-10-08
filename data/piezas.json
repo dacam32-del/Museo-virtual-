@@ -3108,6 +3108,41 @@
    },
    "factores": "Marca y licencia oficiales (New Era y MLB) y un logo clásico de los Phillies. Le resta valor que es un modelo moderno producido en gran cantidad y que hoy se vende nuevo, además de las manchas leves, el enganche del panel trasero y el uso de la cinta interior.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-099",
+   "nombre": "CD '80s Superhits Collection' de Music Brokers (Argentina, 2009), digipak sellado de fábrica. x10, precio por unidad: 5 del volumen 5 y 5 del volumen 6",
+   "categoria": "Música / CD",
+   "grupo": "Música",
+   "origen": "Music Brokers, Argentina, © 2009. Serie de 6 volúmenes (catálogos MBB6062 a MBB6067). Volumen 5: MBB6066. Volumen 6: MBB6067. Compilación moderna, no una antigüedad",
+   "materiales": "CD en digipak de cartón, sellado de fábrica",
+   "marcas": "Portada: '80s Superhits Collection'. Volumen 6 lleva el número 6 en la portada; el verde no imprime el número, pero el código de barras 7798141331819 corresponde al volumen 5. Volumen 6: código 7798141331826. Contraportada: ©2009 Music Brokers, Made in Argentina",
+   "estado": "Excelente: sellados de fábrica, sin abrir. Hay 5 ejemplares iguales del volumen 5 y 5 del volumen 6",
+   "descripcion": "Compilación en CD '80s Superhits Collection', de Music Brokers (Argentina, 2009), en digipak con el dibujo del Pac-Man. La serie tiene 6 volúmenes. El verde es el volumen 5 (código 7798141331819) y el lima es el volumen 6 (código 7798141331826, con el número 6 en la portada). Traen 14 temas de los años 80 cada uno, entre ellos Kim Carnes, Starship, The Church y Stray Cats en el 5, e Information Society, Quiet Riot, Debbie Gibson y Grandmaster Flash en el 6. Hay 10 discos sellados de fábrica: 5 de cada volumen. El precio es por unidad. Es una compilación moderna, no una antigüedad.",
+   "fotos": [
+    "rx-099-1.jpg",
+    "rx-099-2.jpg",
+    "rx-099-3.jpg",
+    "rx-099-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     3000,
+     5000
+    ],
+    "bueno": [
+     1500,
+     3000
+    ],
+    "regular": [
+     1000,
+     1500
+    ]
+   },
+   "factores": "Están sellados, que es lo mejor para un CD. Le resta mucho valor que es una compilación económica de 2009, fabricada en cantidad, con poca demanda de coleccionistas: en Discogs ninguno de los 6 volúmenes tiene un ejemplar a la venta.",
+   "confianza": "Baja"
   }
  ]
 }
