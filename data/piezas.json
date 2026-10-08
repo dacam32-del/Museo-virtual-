@@ -3209,6 +3209,44 @@
    },
    "factores": "La cara es la del Paris Pouty, un molde muy reproducido. Le resta valor que es una reproducción sin firma de artista, con peluca sintética y ropa tejida en casa. Una S.F.B.J. 252 original, marcada S.F.B.J. 252 Paris, vale miles de dólares, y esta no lo es.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-102",
+   "nombre": "LP 'I successi dell'estate '64' (Arc ALP 11001, Italia, 1964), solo el disco, sin carátula",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Arc, sello de RCA Italiana, Italia, 1964. Compilación mono. Catálogo ALP 11001. Matrices PKAP 22440 (lado 1) y PKAP 22441 (lado 2)",
+   "materiales": "Vinilo de 12 pulgadas, mono, etiqueta verde lima. Sin carátula",
+   "marcas": "Etiqueta: 'arc', ALP 11001, PKAP 22440, LATO 1, BIEM, E.M. RCA, 'Fabbricato in Italia'. Artistas del lado 1: Dino, Jenny Luna, Louiselle, Roby Ferrante, Oscar, Luigi Chiocca, Giancarlo Guardabassi",
+   "estado": "Bueno: el vinilo se probó en un tocadiscos y suena bien; se ve brillante, plano y sin rayas evidentes. Sin carátula (pendiente)",
+   "descripcion": "Disco de vinilo italiano 'I successi dell'estate '64', una recopilación de los hits del verano de 1964 publicada por Arc, un sello de RCA Italiana. Es mono, con etiqueta verde lima, número ALP 11001. En el lado 1 cantan Dino, Jenny Luna, Louiselle, Roby Ferrante, Oscar, Luigi Chiocca y Giancarlo Guardabassi. Se probó en un tocadiscos y suena bien. Está sin carátula: si aparece, vale más.",
+   "fotos": [
+    "rx-102-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     15000
+    ],
+    "bueno": [
+     3000,
+     6000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Es un LP italiano de 1964 del sello Arc, con temas de la época y a Lucio Dalla y The Rokes en el lado 2. Le resta valor que es una compilación común, mono, y que está sin carátula. Con la carátula el precio sube.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-102.mp4",
+    "poster": "video/rx-102-poster.jpg",
+    "caption": "Probado: suena bien",
+    "audio": true
+   }
   }
  ]
 }
