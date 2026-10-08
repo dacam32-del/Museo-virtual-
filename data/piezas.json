@@ -2760,6 +2760,42 @@
    },
    "factores": "Muñequitas de fines de los 80 o comienzos de los 90 sin abrir, escasas en blíster; siete modelos distintos juntos son atractivos para un coleccionista, aunque es una marca menor. Cada cartón trae solo la muñeca, sin mascota ni vehículo. Precio por unidad: las 7 suman $105.000–$175.000.",
    "confianza": "Baja-media"
+  },
+  {
+   "id": "RX-089",
+   "nombre": "Tractor de camión cabina sobre motor Marx de acero prensado, color magenta (sin remolque)",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Louis Marx & Co. (EE.UU.), probablemente de su línea pequeña de acero prensado fabricada en Japón, c.1970–1975",
+   "materiales": "Acero prensado pintado, parrilla y parachoques metálicos plateados, ventanas de plástico transparente, neumáticos de plástico negro con tapas blancas, ejes de acero",
+   "marcas": "'MARX' en la placa plateada de la parrilla",
+   "estado": "Bueno, con desgaste de uso: roces de pintura y puntos de óxido en el enganche y en los bordes, ventanas rayadas. Ruedas completas. Se vende sin remolque",
+   "descripcion": "Tractor de camión con cabina sobre motor, de acero prensado, de Louis Marx & Co., la juguetera estadounidense. Es de los años 70. Coincide con un tractor Marx de 1971 hecho en Japón que se vende con la misma carrocería en azul, del que este ejemplar sería una variante magenta. Tiene placa plateada 'MARX' en la parrilla, parachoques cromado, ventanas de plástico, neumáticos negros con tapas blancas y una quinta rueda con ranura en forma de cerradura para enganchar el remolque, que no viene. Muestra el desgaste de un juguete usado: roces de pintura, algo de óxido en el enganche y en los bordes, y ventanas rayadas.",
+   "fotos": [
+    "rx-089-1.jpg",
+    "rx-089-2.jpg",
+    "rx-089-3.jpg",
+    "rx-089-4.jpg",
+    "rx-089-5.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     35000,
+     55000
+    ],
+    "bueno": [
+     20000,
+     35000
+    ],
+    "regular": [
+     10000,
+     20000
+    ]
+   },
+   "factores": "Marca muy coleccionada y acero prensado de los años 70. El color magenta es poco común. Le resta valor que está suelto, sin remolque ni caja, y que tiene roces y óxido.",
+   "confianza": "Baja"
   }
  ]
 }
