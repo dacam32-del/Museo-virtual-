@@ -2483,6 +2483,70 @@
    },
    "factores": "Merchandising Coca-Cola con demanda constante, pero fue producción masiva; la etiqueta conservada suma.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-081",
+   "nombre": "Candelero rústico de hierro con platillo y anillo de transporte",
+   "categoria": "Iluminación antigua",
+   "grupo": "Hogar y herramientas",
+   "origen": "Probable fabricación artesanal o de taller, Chile/Europa, fines s.XIX–mediados s.XX",
+   "materiales": "Hierro/acero, alambre",
+   "marcas": "Sin marcas visibles",
+   "estado": "Regular (óxido y pátina; anillo sujeto con alambre enrollado)",
+   "descripcion": "Candelero rústico de hierro con portavela en forma de copa, platillo para recoger la cera, vástago largo y base abombada con un pequeño botón. Un anillo sujeto al vástago con alambre enrollado permite tomarlo o colgarlo. Este tipo de candelero sencillo, hecho en taller, se usó en casas de campo, bodegas y talleres antes de la luz eléctrica. No tiene marcas visibles.",
+   "fotos": [
+    "rx-081-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     45000,
+     80000
+    ],
+    "bueno": [
+     25000,
+     45000
+    ],
+    "regular": [
+     12000,
+     25000
+    ]
+   },
+   "factores": "Iluminación antigua hecha a mano, con atractivo rústico; sin marcas, de fecha incierta y con una reparación de alambre, por eso vale menos que los candeleros de forja de los siglos XVIII y XIX.",
+   "confianza": "Baja-media"
+  },
+  {
+   "id": "RX-082",
+   "nombre": "Pino de bowling auténtico con calcomanía 'Happy Birthday'",
+   "categoria": "Deportes / Decoración",
+   "grupo": "Publicidad y souvenirs",
+   "origen": "Pino reglamentario de bowling de diez pinos, probable EE.UU., fines s.XX",
+   "materiales": "Madera dura (arce) con recubrimiento plástico, calcomanía",
+   "marcas": "Sin marcas visibles; dos franjas moradas en el cuello",
+   "estado": "Bueno (marcas leves de uso; calcomanía completa)",
+   "descripcion": "Pino auténtico de bowling de diez pinos: madera dura con recubrimiento plástico blanco y dos franjas en el cuello, como los que se usan en las boleras. Una vez retirados del juego, muchos se reciclan como decoración o recuerdo; este lleva una calcomanía 'Happy Birthday' con dibujos de bowling. No tiene marcas visibles.",
+   "fotos": [
+    "rx-082-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     18000,
+     28000
+    ],
+    "bueno": [
+     10000,
+     18000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Pino reglamentario retirado de una bolera, usado como decoración; abundante y sin marca. La calcomanía de cumpleaños le da un toque de recuerdo, pero no aumenta su valor de colección.",
+   "confianza": "Media"
   }
  ]
 }
