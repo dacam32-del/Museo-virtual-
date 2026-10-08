@@ -3383,14 +3383,14 @@
    "origen": "Philips, Francia, 1986. (P) 1986 Phonogram S.A. Paris. Catálogo 884 481-7",
    "materiales": "Vinilo de 7 pulgadas, 45 rpm, estéreo, con la funda ilustrada original (retrato de Serge Lama)",
    "marcas": "Etiqueta Philips: 'PAS VRAIMAMBEAU' 4:45 (S. Lama / M. Guillaume), 'MAMAN CHAUVRIER' 3:10 (S. Lama / Y. Gilbert), 884 481-7, (P) 1986 Phonogram S.A. Paris, 16 P.E.S.L. Chappell S.A. En la etiqueta del lado 1, sticker amarillo 'SP 2834'. Misma serie de marcas que RX-104 y RX-105: archivo de una radio o de un dueño anterior; no se identificó la emisora",
-   "estado": "Regular: el lado A se probó y suena bien. En el video del lado B el disco gira visiblemente descentrado: el brazo se mueve y el tono se bambolea (wow). Puede ser un prensado o un agujero descentrado de ese lado, o que el disco no haya quedado bien puesto. El dueño lo va a repetir. La funda tiene marca de anillo en el reverso, arrugas y el borde agrietado. Si el lado B suena parejo en la nueva prueba, el estado y el precio suben",
-   "descripcion": "Sencillo de 7 pulgadas de Serge Lama, 'Pas Vraimambeau', de 1986, en Philips (número 884 481-7), hecho en Francia. El lado B es 'Maman Chauvier'. Trae la funda ilustrada, con el retrato de Lama; el reverso tiene marca de anillo, arrugas y el borde agrietado. El lado A se probó y suena bien. En el video del lado B el disco gira descentrado y el tono se bambolea; puede ser el prensado, el agujero o que no haya quedado bien puesto. Si al repetir la prueba el lado B suena parejo, el precio sube. En la etiqueta del lado 1 hay un sticker amarillo 'SP 2834', marca de un dueño anterior o de una radio.",
+   "estado": "Bueno: los dos lados se probaron y suenan bien. El bamboleo del lado B era el disco mal puesto, no un defecto del prensado. La funda tiene marca de anillo en el reverso, arrugas y el borde agrietado. En la etiqueta del lado 1 hay un sticker amarillo 'SP 2834', marca de un dueño anterior o de una radio",
+   "descripcion": "Sencillo de 7 pulgadas de Serge Lama, 'Pas Vraimambeau', de 1986, en Philips (número 884 481-7), hecho en Francia. El lado B es 'Maman Chauvier'. Trae la funda ilustrada, con el retrato de Lama; el reverso tiene marca de anillo, arrugas y el borde agrietado. Los dos lados se probaron y suenan bien. En la etiqueta del lado 1 hay un sticker amarillo 'SP 2834', marca de un dueño anterior o de una radio.",
    "fotos": [
     "rx-106-1.jpg",
     "rx-106-2.jpg"
    ],
    "tasado": true,
-   "estado_pieza": "Regular",
+   "estado_pieza": "Bueno",
    "precios": {
     "excelente": [
      5000,
@@ -3405,7 +3405,7 @@
      3000
     ]
    },
-   "factores": "Sencillo francés de 1986 con la funda original. Le restan el bamboleo del lado B (sin confirmar si es del disco) y el desgaste de la funda, con marca de anillo y bordes agrietados.",
+   "factores": "Sencillo francés de 1986 con la funda original. Los dos lados suenan. Le restan el desgaste de la funda (marca de anillo, arrugas y borde agrietado) y el sticker de radio.",
    "confianza": "Media",
    "video": {
     "src": "video/rx-106.mp4",
@@ -3413,6 +3413,41 @@
     "caption": "Probado: lado A suena bien",
     "audio": true
    }
+  },
+  {
+   "id": "RX-107",
+   "nombre": "Mario Kart 7, Nintendo 3DS, USA (2011), completo: caja, carátula, manual y cartucho",
+   "categoria": "Videojuegos",
+   "grupo": "Videojuegos",
+   "origen": "Nintendo, 2011, versión USA / NTSC. Cartucho hecho en Japón. Lanzamiento USA: 4 de diciembre de 2011",
+   "materiales": "Cartucho de Nintendo 3DS, caja blanca de plástico con carátula y manual de instrucciones",
+   "marcas": "Cartucho: NINTENDO 3DS, MARIOKART 7, ESRB E (Everyone), LNA-CTR-AMKE-USA. Caja: CTR-P-AMKE, UPC 045496741747, Made in Japan",
+   "estado": "Bueno: completo (caja original, carátula, manual y cartucho). La caja y la carátula se ven limpias. El juego no se probó en una consola",
+   "descripcion": "Mario Kart 7 para Nintendo 3DS, versión USA de 2011, completo: caja blanca original con la carátula, manual y cartucho. La caja y la carátula se ven limpias. El juego no se probó en una consola. El cartucho dice LNA-CTR-AMKE-USA y la caja CTR-P-AMKE.",
+   "fotos": [
+    "rx-107-1.jpg",
+    "rx-107-2.jpg",
+    "rx-107-3.jpg",
+    "rx-107-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     25000,
+     34000
+    ],
+    "bueno": [
+     14000,
+     18000
+    ],
+    "regular": [
+     10000,
+     14000
+    ]
+   },
+   "factores": "Es un Mario Kart 7 de 3DS muy común, pero está completo (caja, carátula y manual). Le resta que el cartucho no se probó.",
+   "confianza": "Media"
   }
  ]
 }
