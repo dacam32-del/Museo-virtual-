@@ -3288,6 +3288,45 @@
     "caption": "Probado: suena bien (lado A, Remedy)",
     "audio": true
    }
+  },
+  {
+   "id": "RX-104",
+   "nombre": "Single 7'' Jorge Rigo, 'Mujer Tirana' (TH-Rodven 1315, Estados Unidos, 1988), los dos lados con el mismo tema, sin funda ilustrada",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "TH-Rodven / TH Records Inc., fabricado y distribuido en Hialeah Gardens, Florida (10124 NW 80 Ave.). © 1988. El tema está en el LP Rigo III (TH-2508, 1988). Este sencillo 1315 no aparece en Discogs",
+   "materiales": "Vinilo de 7 pulgadas, 45 rpm, estéreo. Funda genérica negra de papel o plástico, sin funda ilustrada",
+   "marcas": "Etiqueta: 'TH-Rodven 1315', 'JORGE RIGO', 'MUJER TIRANA', crédito '(Las Diegos)' (en una cara se lee parecido a Los Diegos), LADO A y LADO B, 45 STEREO, 'MFG. & DIST. TH RECORDS, INC.', Hialeah Gardens, FLA. 33016. En el lado A: sticker amarillo 'SP 3083', 'SP 3083' escrito a mano en azul y '23 MAY 1988' en morado. Parecen marcas de archivo de una radio o de un dueño anterior; no se identificó la emisora",
+   "estado": "Bueno: se probó el lado B y suena, sin saltos. Hay un siseo y un crujido leves y constantes, sin golpes fuertes; el sonido del video es fino por el parlante chico del tocadiscos. El vinilo se ve brillante, sin deformación ni rayas profundas. Sin funda ilustrada",
+   "descripcion": "Sencillo de 7 pulgadas de Jorge Rigo, 'Mujer Tirana', de 1988, en el sello TH-Rodven (número 1315), fabricado en Hialeah Gardens, Florida. Los dos lados traen el mismo tema, como en muchas copias para la radio, aunque no está catalogado como promo. Se probó el lado B: suena, sin saltos, con un siseo y un crujido leves. La etiqueta del lado A tiene un sticker amarillo 'SP 3083' y la fecha '23 MAY 1988' escrita a mano, marcas de un dueño anterior o de una radio. Va en una funda genérica, sin funda ilustrada.",
+   "fotos": [
+    "rx-104-1.jpg",
+    "rx-104-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     6000,
+     10000
+    ],
+    "bueno": [
+     3000,
+     6000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Es un sencillo de merengue de 1988, y que los dos lados traigan el mismo tema lo hace más de radio que de venta al público. Le resta valor que no está catalogado, que no tiene funda ilustrada y que la etiqueta del lado A tiene sticker y escrituras.",
+   "confianza": "Baja",
+   "video": {
+    "src": "video/rx-104.mp4",
+    "poster": "video/rx-104-poster.jpg",
+    "caption": "Probado: suena (lado B)",
+    "audio": true
+   }
   }
  ]
 }
