@@ -2547,6 +2547,39 @@
    },
    "factores": "Pino reglamentario retirado de una bolera, usado como decoración; abundante y sin marca. La calcomanía de cumpleaños le da un toque de recuerdo, pero no aumenta su valor de colección.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-083",
+   "nombre": "Cartucho Nintendo NES 'Teenage Mutant Ninja Turtles II: The Arcade Game' (Konami/Ultra, 1990)",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Konami (sello Ultra Games), fabricado en Japón para Nintendo NES (NTSC, EE.UU.), 1990",
+   "materiales": "Plástico gris, placa de circuito, etiqueta de papel; funda protectora negra",
+   "marcas": "Etiqueta 'TMNT II The Arcade Game' con sello de calidad Nintendo; reverso 'CAUTION' REV-A, ©Nintendo 1985, 'Pat. Pend. Made in Japan'",
+   "estado": "Bueno (cartucho suelto, sin caja ni manual; etiqueta frontal limpia y con colores vivos; con funda). Probado, funciona",
+   "descripcion": "Cartucho original de Nintendo NES con Teenage Mutant Ninja Turtles II: The Arcade Game, la adaptación de Konami (publicada con su sello Ultra Games en 1990) del popular arcade de las Tortugas Ninja de 1989. Es un beat 'em up para uno o dos jugadores en cooperativo, con las cuatro tortugas y dos niveles nuevos que no estaban en el arcade. Se vende suelto, sin caja ni manual, con su funda protectora negra. Probado, funciona.",
+   "fotos": [
+    "rx-083-1.jpg",
+    "rx-083-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     30000
+    ],
+    "bueno": [
+     13000,
+     20000
+    ],
+    "regular": [
+     8000,
+     12000
+    ]
+   },
+   "factores": "Juego original de NES de una licencia muy querida (Konami, 1990) y probado; se produjo en grandes cantidades, así que suelto y sin caja vale moderado. La caja y el manual lo multiplicarían.",
+   "confianza": "Media-alta"
   }
  ]
 }
