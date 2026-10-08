@@ -3336,14 +3336,14 @@
    "origen": "CBS, prensado en Holanda (CBS Haarlem), 1989. En Discogs figura como Francia, pero las notas dicen Made in Holland. (P) 1989 Bel Air Studio. Catálogo CBS 654862 7",
    "materiales": "Vinilo de 7 pulgadas, 45 rpm, estéreo, con la funda ilustrada original (foto en blanco y negro del dúo)",
    "marcas": "Etiqueta roja CBS: 'DEBUT DE SOIREE', 'JARDINS D'ENFANTS' 4:21, 'CROCODILES CAUCHEMAR' 3:19, CBS 654862 7, Made in Holland, Bel Air Studio. En la etiqueta, escrito a mano, 'SP 3221' y un sello de fecha que se lee '10 JUL 1989'. En el borde derecho de la funda, sticker 'SP 3221'. Parecen marcas de archivo de una radio o de un dueño anterior; no se identificó la emisora",
-   "estado": "Regular: el lado A se probó y suena bien, sin saltos ni crujido. El lado B se traba: la aguja se queda en un loop (puede ser una raya o suciedad; no se probó si una limpieza lo arregla). El vinilo se ve plano. La funda tiene desgaste en bordes y esquinas, y arrugas. Si el salto del lado B desaparece al limpiarlo, el estado y el precio suben",
-   "descripcion": "Sencillo de 7 pulgadas de Début de Soirée, 'Jardins d'enfants', de 1989, en CBS (número 654862 7), prensado en Holanda. El lado B es 'Crocodiles Cauchemar'. Trae la funda ilustrada, con la foto en blanco y negro del dúo. El lado A se probó y suena bien. El lado B se traba y la aguja se queda dando vueltas; puede ser una raya o suciedad, y no se sabe si una limpieza lo arregla. La funda está gastada en los bordes. En la etiqueta hay un 'SP 3221' escrito a mano y un sello de fecha, marcas de un dueño anterior o de una radio. Si el lado B deja de saltar, el precio sube.",
+   "estado": "Bueno: los dos lados se probaron y suenan bien, sin saltos ni loop. El vinilo se ve plano. La funda tiene desgaste en bordes y esquinas, y arrugas. En la etiqueta hay 'SP 3221' escrito a mano y un sello de fecha que se lee '10 JUL 1989'; en el borde de la funda, un sticker 'SP 3221'. Son marcas de un dueño anterior o de una radio",
+   "descripcion": "Sencillo de 7 pulgadas de Début de Soirée, 'Jardins d'enfants', de 1989, en CBS (número 654862 7), prensado en Holanda. El lado B es 'Crocodiles Cauchemar'. Trae la funda ilustrada, con la foto en blanco y negro del dúo. Los dos lados se probaron y suenan bien, sin saltos. La funda está gastada en los bordes. En la etiqueta hay un 'SP 3221' escrito a mano y un sello de fecha, marcas de un dueño anterior o de una radio.",
    "fotos": [
     "rx-105-1.jpg",
     "rx-105-2.jpg"
    ],
    "tasado": true,
-   "estado_pieza": "Regular",
+   "estado_pieza": "Bueno",
    "precios": {
     "excelente": [
      3000,
@@ -3358,11 +3358,58 @@
      1500
     ]
    },
-   "factores": "Es un sencillo europeo de 1989 muy común, y viene con la funda ilustrada. Le resta valor el salto del lado B, el desgaste de la funda y las marcas de radio en la etiqueta.",
+   "factores": "Es un sencillo europeo de 1989 muy común, y viene con la funda ilustrada. Los dos lados suenan. Le restan un poco el desgaste de la funda y las marcas de radio en la etiqueta.",
+   "confianza": "Media",
+   "video": [
+    {
+     "src": "video/rx-105.mp4",
+     "poster": "video/rx-105-poster.jpg",
+     "caption": "Probado: lado A suena bien",
+     "audio": true
+    },
+    {
+     "src": "video/rx-105b.mp4",
+     "poster": "video/rx-105b-poster.jpg",
+     "caption": "Probado: lado B suena bien",
+     "audio": true
+    }
+   ]
+  },
+  {
+   "id": "RX-106",
+   "nombre": "Single 7'' Serge Lama, 'Pas Vraimambeau' / 'Maman Chauvier' (Philips 884 481-7, Francia, 1986), con funda ilustrada",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Philips, Francia, 1986. (P) 1986 Phonogram S.A. Paris. Catálogo 884 481-7",
+   "materiales": "Vinilo de 7 pulgadas, 45 rpm, estéreo, con la funda ilustrada original (retrato de Serge Lama)",
+   "marcas": "Etiqueta Philips: 'PAS VRAIMAMBEAU' 4:45 (S. Lama / M. Guillaume), 'MAMAN CHAUVRIER' 3:10 (S. Lama / Y. Gilbert), 884 481-7, (P) 1986 Phonogram S.A. Paris, 16 P.E.S.L. Chappell S.A. En la etiqueta del lado 1, sticker amarillo 'SP 2834'. Misma serie de marcas que RX-104 y RX-105: archivo de una radio o de un dueño anterior; no se identificó la emisora",
+   "estado": "Regular: el lado A se probó y suena bien. En el video del lado B el disco gira visiblemente descentrado: el brazo se mueve y el tono se bambolea (wow). Puede ser un prensado o un agujero descentrado de ese lado, o que el disco no haya quedado bien puesto. El dueño lo va a repetir. La funda tiene marca de anillo en el reverso, arrugas y el borde agrietado. Si el lado B suena parejo en la nueva prueba, el estado y el precio suben",
+   "descripcion": "Sencillo de 7 pulgadas de Serge Lama, 'Pas Vraimambeau', de 1986, en Philips (número 884 481-7), hecho en Francia. El lado B es 'Maman Chauvier'. Trae la funda ilustrada, con el retrato de Lama; el reverso tiene marca de anillo, arrugas y el borde agrietado. El lado A se probó y suena bien. En el video del lado B el disco gira descentrado y el tono se bambolea; puede ser el prensado, el agujero o que no haya quedado bien puesto. Si al repetir la prueba el lado B suena parejo, el precio sube. En la etiqueta del lado 1 hay un sticker amarillo 'SP 2834', marca de un dueño anterior o de una radio.",
+   "fotos": [
+    "rx-106-1.jpg",
+    "rx-106-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     5000,
+     8000
+    ],
+    "bueno": [
+     3000,
+     5500
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Sencillo francés de 1986 con la funda original. Le restan el bamboleo del lado B (sin confirmar si es del disco) y el desgaste de la funda, con marca de anillo y bordes agrietados.",
    "confianza": "Media",
    "video": {
-    "src": "video/rx-105.mp4",
-    "poster": "video/rx-105-poster.jpg",
+    "src": "video/rx-106.mp4",
+    "poster": "video/rx-106-poster.jpg",
     "caption": "Probado: lado A suena bien",
     "audio": true
    }
