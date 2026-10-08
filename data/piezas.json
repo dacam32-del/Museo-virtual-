@@ -2652,6 +2652,46 @@
     "poster": "video/rx-085-poster.jpg",
     "caption": "Video: luces y baliza funcionando"
    }
+  },
+  {
+   "id": "RX-086",
+   "nombre": "LP 'Bye Bye Birdie' – Original Broadway Cast (Columbia Masterworks KOS 2025, estéreo, EE.UU. 1960)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Columbia Masterworks, EE.UU., 1960 (primera época de la edición estéreo)",
+   "materiales": "Vinilo (\"Nonbreakable\"), carátula doble (gatefold) de cartón laminado con librillo interior impreso",
+   "marcas": "KOS 2025; 'Nonbreakable'; matrices de etiqueta XSM 49658 / XSM 49659; etiqueta gris y negra Columbia Masterworks con los ojos CBS y flechas 'Stereo ← CBS → Fidelity'; 'Made in U.S.A.'; banda STEREO en la portada (versión mono: KOL 5510)",
+   "estado": "Bueno (disco VG/VG+, con marcas superficiales leves; carátula VG/VG+, con desgaste de estante). Incluye el librillo interior con la sinopsis y las fotos de la obra. Probado, suena bien (según el dueño)",
+   "descripcion": "Grabación original del elenco de Broadway de Bye Bye Birdie (1960), el musical de Charles Strouse y Lee Adams sobre un ídolo del rock and roll llamado a hacer el servicio militar, inspirado en el caso de Elvis Presley. Cantan Chita Rivera, Dick Van Dyke, Paul Lynde y Kay Medford; la obra estrenó en abril de 1960 en el Martin Beck Theatre de Nueva York. Es la edición estéreo de Columbia Masterworks (KOS 2025), con la etiqueta 'Stereo Fidelity' de la época, en carátula doble con librillo interior que trae la sinopsis y fotos de la obra. Según el dueño, suena bien.",
+   "fotos": [
+    "rx-086-1.jpg",
+    "rx-086-2.jpg",
+    "rx-086-3.jpg",
+    "rx-086-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     15000,
+     25000
+    ],
+    "bueno": [
+     6000,
+     12000
+    ],
+    "regular": [
+     2000,
+     5000
+    ]
+   },
+   "factores": "Grabación original de Broadway de 1960 (Chita Rivera, Dick Van Dyke), en prensaje estadounidense estéreo de primera época. El librillo completo es un plus, pero se editó en grandes cantidades y hay muchas copias, así que su valor es moderado.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-086.mp4",
+    "poster": "video/rx-086-poster.jpg",
+    "caption": "Video: librillo interior con fotos de la obra"
+   }
   }
  ]
 }
