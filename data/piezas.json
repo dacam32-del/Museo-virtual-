@@ -1,0 +1,1512 @@
+{
+ "actualizado": "2026-10-08",
+ "moneda": "CLP",
+ "piezas": [
+  {
+   "id": "RX-002",
+   "nombre": "Detalles de bandeja y cubierto plateado (EPNS 'Silver Plate')",
+   "categoria": "Platería / Metal",
+   "grupo": "Platería y metales",
+   "origen": "Probable Inglaterra o EE.UU., s.XX",
+   "materiales": "Metal plateado",
+   "marcas": "'...SILVER PLATE' en mango",
+   "estado": "Indeterminado (solo acercamientos)",
+   "descripcion": "Acercamientos de un borde de bandeja y de un mango de cubierto con la inscripción 'Silver Plate'. El metal plateado (electrodepositado sobre una base de otra aleación) se popularizó desde mediados del siglo XIX como alternativa accesible a la plata maciza.",
+   "fotos": [
+    "rx-002-1.jpg",
+    "rx-002-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-003",
+   "nombre": "Cámara compacta Vivitar de rollo 35 mm (lila, años 90)",
+   "categoria": "Fotografía",
+   "grupo": "Electrónica retro",
+   "origen": "Vivitar, Asia, década 1990",
+   "materiales": "Plástico",
+   "marcas": "Logo Vivitar",
+   "estado": "Indeterminado (#003 es arte promocional, no foto real)",
+   "descripcion": "Cámara compacta de rollo de 35 mm en plástico lila, del tipo 'point and shoot' que Vivitar comercializó masivamente en los años 90. Pieza retro de interés para la fotografía analógica actual.",
+   "fotos": [
+    "rx-003-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-004",
+   "nombre": "Single 45 rpm Columbia (artista sin identificar)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Columbia, Latinoamérica, años 60–70",
+   "materiales": "Vinilo, funda papel",
+   "marcas": "Etiqueta Columbia",
+   "estado": "Regular a bueno",
+   "descripcion": "Single de 45 rpm del sello Columbia en funda de época. Los singles de 7 pulgadas fueron el formato principal para difundir éxitos radiales en Latinoamérica entre los años 60 y 80.",
+   "fotos": [
+    "rx-004-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-005",
+   "nombre": "Single 45 rpm Madonna 'Límite' (Borderline) / Patti Austin 'Solero' – promo Perú 1984",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Warner Bros. / El Virrey Industrias Musicales, Perú, 1984",
+   "materiales": "Vinilo, funda genérica",
+   "marcas": "F-WBR 0029354.2; Stereo; 1984",
+   "estado": "Bueno",
+   "descripcion": "Single promocional peruano de 1984 prensado por El Virrey Industrias Musicales para Warner Bros., con 'Límite' (Borderline) de Madonna en la cara 1 y 'Solero' de Patti Austin en la cara 2. Los discos promocionales se repartían a radios y no se vendían al público, por lo que circularon en cantidades menores.",
+   "fotos": [
+    "rx-005-1.jpg",
+    "rx-005-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     50000,
+     100000
+    ],
+    "bueno": [
+     25000,
+     50000
+    ],
+    "regular": [
+     10000,
+     20000
+    ]
+   },
+   "factores": "Rareza alta (promo Perú con cara B de Patti Austin, no catalogada) y fuerte demanda de coleccionistas de Madonna.",
+   "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-006",
+   "nombre": "Single 45 rpm Yaco Monti",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Odeon, Argentina/Chile, años 70",
+   "materiales": "Vinilo, funda Odeon/Philips",
+   "marcas": "Etiqueta Odeon",
+   "estado": "Regular",
+   "descripcion": "Single de 45 rpm de Yaco Monti, cantante melódico argentino muy popular en Chile en los años 70, en funda de época.",
+   "fotos": [
+    "rx-006-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-007",
+   "nombre": "Single 45 rpm Queen 'Back Chat (Charla pesada)' / 'Staying Power' – Perú 1982",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "EMI, Perú, 1982",
+   "materiales": "Vinilo, funda plástica",
+   "marcas": "EMI 01.21.2029",
+   "estado": "Bueno",
+   "descripcion": "Edición peruana de EMI (1982) del single de Queen 'Back Chat' (traducido como 'Charla pesada'), con 'Staying Power' ('Poder de quedarse') en la cara B, ambas del álbum Hot Space. Las ediciones latinoamericanas con títulos traducidos son buscadas por coleccionistas de la banda.",
+   "fotos": [
+    "rx-007-1.jpg",
+    "rx-007-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     60000
+    ],
+    "bueno": [
+     8000,
+     25000
+    ],
+    "regular": [
+     3000,
+     8000
+    ]
+   },
+   "factores": "Prensaje peruano de Queen con demanda internacional; el valor depende de la variante de etiqueta y del estado.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-008",
+   "nombre": "Casete Riccardo Cocciante",
+   "categoria": "Música / Casetes",
+   "grupo": "Música",
+   "origen": "Italia/Latinoamérica, años 70–80",
+   "materiales": "Plástico, papel",
+   "marcas": "'Quality Recording'",
+   "estado": "Bueno",
+   "descripcion": "Casete del cantautor italiano Riccardo Cocciante, figura de la balada romántica de los años 70 y 80 con gran éxito en versiones en español.",
+   "fotos": [
+    "rx-008-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-009",
+   "nombre": "Cámara digital Sony Cyber-shot 12.1 MP con caja",
+   "categoria": "Electrónica / Fotografía",
+   "grupo": "Electrónica retro",
+   "origen": "Sony, Japón/China, c.2009–2011",
+   "materiales": "Plástico, metal",
+   "marcas": "Sony Cyber-shot 12.1",
+   "estado": "Bueno",
+   "descripcion": "Cámara digital compacta Sony Cyber-shot de 12,1 megapíxeles con su caja, representativa de la era de las compactas digitales (c. 2009–2011), hoy revalorizadas por la estética 'Y2K'.",
+   "fotos": [
+    "rx-009-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-010",
+   "nombre": "Cámara digital Canon PowerShot con cargador",
+   "categoria": "Electrónica / Fotografía",
+   "grupo": "Electrónica retro",
+   "origen": "Canon, Japón/China, c.2010",
+   "materiales": "Plástico, metal",
+   "marcas": "Canon",
+   "estado": "Bueno",
+   "descripcion": "Cámara digital compacta Canon PowerShot con cargador, de la generación de compactas con zoom de inicios de la década de 2010.",
+   "fotos": [
+    "rx-010-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-011",
+   "nombre": "Cubo rompecabezas 'Wonderful Puzzle' (tipo cubo Rubik)",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Asia, década 1980",
+   "materiales": "Plástico, cartón",
+   "marcas": "'wonderful puzzle'",
+   "estado": "Regular (caja desgastada)",
+   "descripcion": "Cubo rompecabezas tipo Rubik vendido como 'Wonderful Puzzle', una de las muchas versiones genéricas que surgieron tras la fiebre del cubo a comienzos de los años 80.",
+   "fotos": [
+    "rx-011-1.jpg",
+    "rx-011-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-012",
+   "nombre": "Celular Nokia 5110/5120 (azul)",
+   "categoria": "Electrónica / Telefonía",
+   "grupo": "Electrónica retro",
+   "origen": "Nokia, Finlandia, 1998–2000",
+   "materiales": "Plástico",
+   "marcas": "Nokia, 'Digital'",
+   "estado": "Bueno",
+   "descripcion": "Teléfono móvil Nokia de la serie 5110/5120 (fines de los 90), famoso por su resistencia, sus carcasas intercambiables y el juego Snake.",
+   "fotos": [
+    "rx-012-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     35000,
+     60000
+    ],
+    "bueno": [
+     15000,
+     30000
+    ],
+    "regular": [
+     5000,
+     12000
+    ]
+   },
+   "factores": "Celular icónico de alta producción; la nostalgia mantiene la demanda, pero no es raro.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-013",
+   "nombre": "Figura de acción robot morado/rojo (años 90–2000)",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Asia, c.1995–2005",
+   "materiales": "Plástico",
+   "marcas": "No visibles",
+   "estado": "Bueno",
+   "descripcion": "Figura de acción de robot articulado en plástico morado y rojo, típica de las líneas de juguetes de robots de los años 90 y 2000.",
+   "fotos": [
+    "rx-013-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-014",
+   "nombre": "Aldaba (llamador de puerta) de bronce estilo georgiano",
+   "categoria": "Herrajes / Decoración",
+   "grupo": "Hogar y herramientas",
+   "origen": "Inglaterra, estilo georgiano, probable s.XX",
+   "materiales": "Bronce/latón",
+   "marcas": "No visibles",
+   "estado": "Regular (pátina, desgaste de dorado)",
+   "descripcion": "Aldaba o llamador de puerta de bronce con remate en forma de urna, un diseño de estilo georgiano inglés que se siguió produciendo durante el siglo XX.",
+   "fotos": [
+    "rx-014-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-015",
+   "nombre": "Plancha antigua de hierro fundido con asa",
+   "categoria": "Hogar antiguo",
+   "grupo": "Hogar y herramientas",
+   "origen": "Europa/América, fines s.XIX–inicios s.XX",
+   "materiales": "Hierro fundido",
+   "marcas": "No visibles",
+   "estado": "Regular (óxido, asa con pintura gastada)",
+   "descripcion": "Plancha de hierro fundido con asa, utilizada calentándola sobre el fuego o la cocina antes de la llegada de la plancha eléctrica. Objeto cotidiano de fines del siglo XIX e inicios del XX, hoy muy usado en decoración rústica.",
+   "fotos": [
+    "rx-015-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     50000,
+     70000
+    ],
+    "bueno": [
+     25000,
+     45000
+    ],
+    "regular": [
+     10000,
+     20000
+    ]
+   },
+   "factores": "Antigüedad (fines s.XIX–inicios s.XX) y demanda decorativa; el óxido y la falta de marca de fundición limitan el valor.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-016",
+   "nombre": "Single 45 rpm RCA (etiqueta roja) en funda RCA S.A. Electrónica",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "RCA, Chile, años 60–70",
+   "materiales": "Vinilo, funda papel",
+   "marcas": "RCA S.A. Electrónica",
+   "estado": "Regular",
+   "descripcion": "Single de 45 rpm del sello RCA dentro de su funda original 'RCA S.A. Electrónica', la filial que fabricaba discos en Chile.",
+   "fotos": [
+    "rx-016-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-017",
+   "nombre": "Álbum de láminas 'Predators Vulcano Battle'",
+   "categoria": "Coleccionables / Papel",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Chile/Latinoamérica, años 2000",
+   "materiales": "Papel",
+   "marcas": "Predators",
+   "estado": "Bueno",
+   "descripcion": "Álbum de láminas 'Predators Vulcano Battle' con su portada original, de la tradición de álbumes coleccionables de kioscos.",
+   "fotos": [
+    "rx-017-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-018",
+   "nombre": "Cómic Marvel 'Deadpool Kills the Marvel Universe Again'",
+   "categoria": "Cómics",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Marvel, EE.UU., 2017",
+   "materiales": "Papel",
+   "marcas": "Marvel",
+   "estado": "Bueno",
+   "descripcion": "Cómic de Marvel 'Deadpool Kills the Marvel Universe Again' (2017), secuela de la popular miniserie en la que Deadpool enfrenta a todo el universo Marvel.",
+   "fotos": [
+    "rx-018-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-019",
+   "nombre": "Single 45 rpm Elton John 'Canción de amor' (Love Song)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "RCA, Chile, c.1971",
+   "materiales": "Vinilo",
+   "marcas": "RCA, código de bodega",
+   "estado": "Regular",
+   "descripcion": "Single chileno de RCA con 'Canción de amor' (Love Song) de Elton John, de la época de sus primeros éxitos internacionales a comienzos de los años 70.",
+   "fotos": [
+    "rx-019-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-020",
+   "nombre": "Single 45 rpm José Luis Rodríguez 'Mujer gitana' (promocional)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Chile, años 70",
+   "materiales": "Vinilo, funda genérica",
+   "marcas": "Promoción",
+   "estado": "Regular",
+   "descripcion": "Single promocional de 'Mujer gitana' interpretado por José Luis Rodríguez 'El Puma', ídolo de la canción romántica latinoamericana.",
+   "fotos": [
+    "rx-020-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-021",
+   "nombre": "Single 45 rpm Los Wawanco 'Lloran, lloran las mujeres'",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Chile/Argentina, años 60–70",
+   "materiales": "Vinilo",
+   "marcas": "Venta prohibida (promo)",
+   "estado": "Regular",
+   "descripcion": "Single de Los Wawanco, conjunto pionero de la cumbia en Argentina y Chile, con 'Lloran, lloran las mujeres'.",
+   "fotos": [
+    "rx-021-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-022",
+   "nombre": "Single 45 rpm Julio Jaramillo 'Me duele el corazón' (vals)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "CRC, Chile, años 60",
+   "materiales": "Vinilo",
+   "marcas": "CRC 8018-B",
+   "estado": "Regular",
+   "descripcion": "Single del sello chileno CRC con el vals 'Me duele el corazón' de Julio Jaramillo, el 'Ruiseñor de América', cuya música marcó a varias generaciones.",
+   "fotos": [
+    "rx-022-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-023",
+   "nombre": "Single 45 rpm Raphael '¡Brillaba!'",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "IRT, Chile, años 60–70",
+   "materiales": "Vinilo, funda IRT",
+   "marcas": "IRT 10.098",
+   "estado": "Regular",
+   "descripcion": "Single del sello IRT con '¡Brillaba!' de Raphael, el cantante español que vivió enorme popularidad en Chile durante los años 60 y 70.",
+   "fotos": [
+    "rx-023-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-024",
+   "nombre": "Single 45 rpm Al Bano y Romina 'A las siete' (promo)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "EMI-Odeon, Chile, 1970s",
+   "materiales": "Vinilo",
+   "marcas": "EMI 1504 'Venta prohibida'",
+   "estado": "Regular",
+   "descripcion": "Single promocional de EMI con 'A las siete' de Al Bano y Romina Power, dúo italiano muy exitoso en el mundo hispano.",
+   "fotos": [
+    "rx-024-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-025",
+   "nombre": "Single 45 rpm Lucho Gatica 'Un poco más'",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Odeon/EMI, Chile, años 50–60",
+   "materiales": "Vinilo",
+   "marcas": "Odeon",
+   "estado": "Regular",
+   "descripcion": "Single del sello Odeon con 'Un poco más' de Lucho Gatica, el gran bolerista chileno de proyección internacional.",
+   "fotos": [
+    "rx-025-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-026",
+   "nombre": "Single 45 rpm Leonardo Favio 'Porque mentiste gitana'",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "CBS, Chile, años 60–70",
+   "materiales": "Vinilo",
+   "marcas": "CBS",
+   "estado": "Regular",
+   "descripcion": "Single de CBS con 'Porque mentiste gitana' de Leonardo Favio, cantante y cineasta argentino.",
+   "fotos": [
+    "rx-026-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-027",
+   "nombre": "Single 45 rpm Joan Baez 'In the Quiet Morning' (A&M/CBS)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "A&M bajo licencia CBS, Chile, 1972",
+   "materiales": "Vinilo, funda CBS",
+   "marcas": "A&M 1972",
+   "estado": "Bueno",
+   "descripcion": "Single de A&M fabricado en Chile bajo licencia de CBS (1972), con 'In the Quiet Morning' interpretado por Joan Baez.",
+   "fotos": [
+    "rx-027-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-028",
+   "nombre": "Single 45 rpm Miguel Gallardo 'Una vez más'",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "EMI, Perú, 1980s",
+   "materiales": "Vinilo",
+   "marcas": "EMI Ind. Peruana 01.21.1595",
+   "estado": "Regular",
+   "descripcion": "Single peruano de EMI con 'Una vez más' de Miguel Gallardo, cantautor español de baladas de los años 70 y 80.",
+   "fotos": [
+    "rx-028-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-029",
+   "nombre": "Single 45 rpm Al Bano 'Música'",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "EMI/U.O.N., Chile, 1970s",
+   "materiales": "Vinilo",
+   "marcas": "EMI 8886",
+   "estado": "Regular",
+   "descripcion": "Single de EMI con 'Música' de Al Bano, en funda de época.",
+   "fotos": [
+    "rx-029-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-030",
+   "nombre": "Single 45 rpm Tavares 'El loco del año' (promo)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Capitol, Chile, 1970s",
+   "materiales": "Vinilo",
+   "marcas": "Capitol Disco Promocional",
+   "estado": "Regular",
+   "descripcion": "Single promocional de Capitol con 'El loco del año' de Tavares, grupo estadounidense de soul y disco.",
+   "fotos": [
+    "rx-030-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-031",
+   "nombre": "Single 45 rpm Raphael 'Si no muere el amor'",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Asfona, Chile, años 60",
+   "materiales": "Vinilo",
+   "marcas": "Asfona 10.427",
+   "estado": "Regular",
+   "descripcion": "Single del sello chileno Asfona con 'Si no muere el amor' de Raphael.",
+   "fotos": [
+    "rx-031-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-032",
+   "nombre": "Single 45 rpm Antonio Aguilar 'Amor de los dos' (promo)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Musart, México/Chile",
+   "materiales": "Vinilo",
+   "marcas": "Musart",
+   "estado": "Regular",
+   "descripcion": "Single promocional del sello mexicano Musart con 'Amor de los dos' de Antonio Aguilar, figura de la música ranchera.",
+   "fotos": [
+    "rx-032-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-033",
+   "nombre": "Single 45 rpm Adamo 'Y después' (1971)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Odeon, Chile, 1971",
+   "materiales": "Vinilo",
+   "marcas": "Odeon 8875",
+   "estado": "Regular",
+   "descripcion": "Single de Odeon (1971) con 'Y después' de Salvatore Adamo, cantautor belga-italiano de enorme éxito en Chile.",
+   "fotos": [
+    "rx-033-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-034",
+   "nombre": "Single 45 rpm Las Adelitas 'Presumido' (1971)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Polydor, Chile, 1971",
+   "materiales": "Vinilo",
+   "marcas": "Polydor 2064 027",
+   "estado": "Regular",
+   "descripcion": "Single de Polydor (1971) con 'Presumido' de Las Adelitas con Los Diamantes del Norte.",
+   "fotos": [
+    "rx-034-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-035",
+   "nombre": "Single 45 rpm Los Cuatro de Chile (título poco legible)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Chile, años 60",
+   "materiales": "Vinilo",
+   "marcas": "Etiqueta gris",
+   "estado": "Regular",
+   "descripcion": "Single de Los Cuatro de Chile, conjunto vocal folclórico chileno; el título de la etiqueta se ve poco legible en la foto.",
+   "fotos": [
+    "rx-035-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-036",
+   "nombre": "Single 45 rpm Stevie Wonder 'Si me quieres de verdad' (If You Really Love Me)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Tamla/Motown, Chile, c.1971",
+   "materiales": "Vinilo",
+   "marcas": "Tamla, U.O.N.",
+   "estado": "Regular",
+   "descripcion": "Single chileno del sello Tamla (Motown) con 'Si me quieres de verdad' (If You Really Love Me) de Stevie Wonder, de comienzos de los años 70.",
+   "fotos": [
+    "rx-036-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-037",
+   "nombre": "Single 45 rpm Los 4 Cuartos 'Bailaré'",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Chile, años 60",
+   "materiales": "Vinilo",
+   "marcas": "515.057",
+   "estado": "Regular",
+   "descripcion": "Single de Los 4 Cuartos, uno de los grupos de la Nueva Ola chilena de los años 60, con 'Bailaré'.",
+   "fotos": [
+    "rx-037-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-038",
+   "nombre": "Single 45 rpm Los Hermanos Bustos 'El compadre guatón' (promo)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Andes, Chile",
+   "materiales": "Vinilo",
+   "marcas": "Andes 21488, Venta prohibida",
+   "estado": "Regular",
+   "descripcion": "Single promocional del sello Andes con 'El compadre guatón' de Los Hermanos Bustos, conjunto de música popular y ranchera chilena.",
+   "fotos": [
+    "rx-038-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-039",
+   "nombre": "Single 45 rpm Manolo Otero (promocional)",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "EMI, Chile, 1970s",
+   "materiales": "Vinilo",
+   "marcas": "EMI 'Disco promocional venta prohibida'",
+   "estado": "Regular",
+   "descripcion": "Single promocional de EMI de Manolo Otero, cantante español de baladas de los años 70.",
+   "fotos": [
+    "rx-039-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-040",
+   "nombre": "Single 45 rpm Antonio Aguilar 'Corrido de Lucio Vázquez'",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Musart, México, años 60",
+   "materiales": "Vinilo",
+   "marcas": "45.1268",
+   "estado": "Bueno",
+   "descripcion": "Single de Musart con 'Corrido de Lucio Vázquez' de Antonio Aguilar con mariachi.",
+   "fotos": [
+    "rx-040-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-041",
+   "nombre": "Juego de mesa 'Grand Prix' (Ravensburger)",
+   "categoria": "Juegos de mesa",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Ravensburger, Alemania, años 80–90",
+   "materiales": "Cartón",
+   "marcas": "Ravensburger",
+   "estado": "Regular (caja con desgaste)",
+   "descripcion": "Juego de mesa de carreras 'Grand Prix' de Ravensburger, editorial alemana de juegos fundada en el siglo XIX.",
+   "fotos": [
+    "rx-041-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-042",
+   "nombre": "Fulminantes '72 Shots Super Ring 8 Shot Caps' en blíster",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Asia, años 70–80",
+   "materiales": "Plástico, cartón",
+   "marcas": "72 Shots 59¢",
+   "estado": "Bueno (nuevo de bodega)",
+   "descripcion": "Blíster de fulminantes '72 Shots Super Ring 8 Shot Caps' para pistolas de juguete, sin usar; un artículo de bazar típico de las décadas de 1970 y 1980.",
+   "fotos": [
+    "rx-042-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-043",
+   "nombre": "Moledora de carne manual 'Made in England'",
+   "categoria": "Cocina antigua",
+   "grupo": "Hogar y herramientas",
+   "origen": "Inglaterra, mediados s.XX",
+   "materiales": "Aluminio/hierro, madera",
+   "marcas": "MADE IN ENGLAND",
+   "estado": "Bueno",
+   "descripcion": "Moledora de carne manual de prensa a mesa, fabricada en Inglaterra, del tipo usado en las cocinas domésticas a mediados del siglo XX.",
+   "fotos": [
+    "rx-043-1.jpg",
+    "rx-043-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     30000,
+     50000
+    ],
+    "bueno": [
+     15000,
+     30000
+    ],
+    "regular": [
+     6000,
+     12000
+    ]
+   },
+   "factores": "Utensilio inglés de mediados del s.XX; la marca, que esté completo y que funcione definen el precio; demanda rústica.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-044",
+   "nombre": "Celular Samsung de tapa plateado (c.2003)",
+   "categoria": "Electrónica / Telefonía",
+   "grupo": "Electrónica retro",
+   "origen": "Samsung, Corea, c.2002–2005",
+   "materiales": "Plástico",
+   "marcas": "Samsung",
+   "estado": "Regular (sticker añadido)",
+   "descripcion": "Teléfono celular Samsung de tapa en color plateado, de la generación de móviles con pantalla monocromática o de color básico de comienzos de los 2000.",
+   "fotos": [
+    "rx-044-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-045",
+   "nombre": "Buggy de juguete azul con caja (Flower Power)",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Asia, años 70–80",
+   "materiales": "Plástico",
+   "marcas": "No visibles",
+   "estado": "Bueno",
+   "descripcion": "Buggy de juguete azul con decoración de flor, con su caja, que evoca la estética 'flower power' de los buggies playeros de los años 70.",
+   "fotos": [
+    "rx-045-1.jpg",
+    "rx-045-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-046",
+   "nombre": "Juguete a pilas 'Climbing Tumble' Super Buggy con caja",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Botoy, Hong Kong/Taiwán, c.1980",
+   "materiales": "Plástico, cartón",
+   "marcas": "Battery Operated Climbing Tumble",
+   "estado": "Bueno (caja con desgaste)",
+   "descripcion": "Juguete a pilas 'Climbing Tumble' Super Buggy con su caja, capaz de trepar y voltearse; fabricado por Botoy hacia 1980.",
+   "fotos": [
+    "rx-046-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     35000
+    ],
+    "bueno": [
+     10000,
+     20000
+    ],
+    "regular": [
+     3000,
+     8000
+    ]
+   },
+   "factores": "Juguete Botoy de los 80 con caja original (suma valor); demanda nostálgica moderada.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-047",
+   "nombre": "Máquina de coser antigua de manivela (hierro fundido)",
+   "categoria": "Máquinas antiguas",
+   "grupo": "Hogar y herramientas",
+   "origen": "Probable Alemania o Inglaterra, c.1880–1910",
+   "materiales": "Hierro fundido, acero, base de madera",
+   "marcas": "No visibles (óxido)",
+   "estado": "Regular (óxido avanzado, falta pintura/calcomanías)",
+   "descripcion": "Máquina de coser de manivela en hierro fundido sobre base de madera, de un tipo producido sobre todo en Alemania e Inglaterra entre fines del siglo XIX e inicios del XX. Presenta óxido avanzado y no se ven marcas del fabricante.",
+   "fotos": [
+    "rx-047-1.jpg",
+    "rx-047-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     250000,
+     450000
+    ],
+    "bueno": [
+     120000,
+     220000
+    ],
+    "regular": [
+     40000,
+     90000
+    ]
+   },
+   "factores": "Antigüedad alta (s.XIX tardío) y demanda decorativa; el óxido y la falta de marca visible bajan el valor.",
+   "confianza": "Baja-media"
+  },
+  {
+   "id": "RX-048",
+   "nombre": "Botón metálico con perfil de emperador romano",
+   "categoria": "Mercería antigua / Numismática",
+   "grupo": "Platería y metales",
+   "origen": "Europa, probable s.XIX–XX (imitación de moneda)",
+   "materiales": "Metal plateado/cobre",
+   "marcas": "Leyenda tipo moneda",
+   "estado": "Regular (desgaste, pátina)",
+   "descripcion": "Botón metálico con perfil de emperador al estilo de las monedas romanas. Los botones con motivos clásicos fueron un recurso decorativo frecuente en la indumentaria europea.",
+   "fotos": [
+    "rx-048-1.jpg",
+    "rx-048-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-049",
+   "nombre": "Mazo/martillo de madera antiguo",
+   "categoria": "Herramientas",
+   "grupo": "Hogar y herramientas",
+   "origen": "Probable Chile/Europa, s.XX",
+   "materiales": "Madera, metal",
+   "marcas": "No visibles",
+   "estado": "Regular",
+   "descripcion": "Mazo de madera con cabeza reforzada, herramienta de carpintería o uso doméstico.",
+   "fotos": [
+    "rx-049-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-050",
+   "nombre": "Calendarios perpetuos de escritorio 'Holland' (2 unidades)",
+   "categoria": "Souvenirs / Decoración",
+   "grupo": "Publicidad y souvenirs",
+   "origen": "Holanda, c.1960–1970",
+   "materiales": "Metal cromado, lámina esmaltada/plástico",
+   "marcas": "HOLLAND; mes en holandés (MRT)",
+   "estado": "Bueno",
+   "descripcion": "Dos calendarios perpetuos de escritorio cromados, souvenirs de Holanda de los años 60–70 con escenas de molinos, tulipanes y trajes típicos. Los meses aparecen en neerlandés (MRT = marzo).",
+   "fotos": [
+    "rx-050-1.jpg",
+    "rx-050-2.jpg",
+    "rx-050-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     50000,
+     90000
+    ],
+    "bueno": [
+     30000,
+     50000
+    ],
+    "regular": [
+     10000,
+     20000
+    ]
+   },
+   "factores": "Souvenir de los 60 con mecanismo y diseño decorativo; demanda mid-century moderada. Precio por el par.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-051",
+   "nombre": "Reloj Casio JC-11 'Jog & Walk' (módulo 880)",
+   "categoria": "Relojes",
+   "grupo": "Electrónica retro",
+   "origen": "Casio, Japón, 1988",
+   "materiales": "Resina, acero",
+   "marcas": "CASIO JC-11, Japan",
+   "estado": "Bueno (funciona; correa negra posiblemente no original)",
+   "descripcion": "Reloj digital Casio JC-11 'Jog & Walk' de 1988 (módulo 880), con contador de calorías y ritmo y la clásica animación del 'hombre corriendo'.",
+   "fotos": [
+    "rx-051-1.jpg",
+    "rx-051-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     120000,
+     220000
+    ],
+    "bueno": [
+     70000,
+     120000
+    ],
+    "regular": [
+     30000,
+     60000
+    ]
+   },
+   "factores": "Casio de 1988 con el 'running man' animado, buscado por coleccionistas; correa no original y rayas le bajan el valor.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-052",
+   "nombre": "Jarro cervecero Frankenmuth 'The City with Bavarian Hospitality'",
+   "categoria": "Cerámica / Souvenirs",
+   "grupo": "Porcelana y cerámica",
+   "origen": "EE.UU. (Michigan), años 70–90",
+   "materiales": "Cerámica esmaltada",
+   "marcas": "Frankenmuth",
+   "estado": "Bueno",
+   "descripcion": "Jarro cervecero souvenir de Frankenmuth, Michigan, la ciudad de tradición bávara conocida como 'The City with Bavarian Hospitality'.",
+   "fotos": [
+    "rx-052-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-053",
+   "nombre": "Florero de cerámica pintado a mano (girasoles)",
+   "categoria": "Cerámica",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Latinoamérica, s.XX",
+   "materiales": "Cerámica/terracota pintada",
+   "marcas": "No visibles",
+   "estado": "Regular (pintura parcial)",
+   "descripcion": "Florero de cerámica con decoración pintada a mano de girasoles.",
+   "fotos": [
+    "rx-053-1.jpg",
+    "rx-053-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-054",
+   "nombre": "Bowl 'Willow pattern' azul y blanco 'Made in England'",
+   "categoria": "Loza",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Inglaterra, mediados s.XX",
+   "materiales": "Loza vidriada",
+   "marcas": "MADE IN ENGLAND (impreso)",
+   "estado": "Bueno (restos de etiqueta en base)",
+   "descripcion": "Bowl de loza con el clásico diseño 'Willow' (sauce) en azul y blanco, marcado 'Made in England'. El diseño Willow, de inspiración china, fue creado en Inglaterra a fines del siglo XVIII y lo han producido muchas fábricas desde entonces.",
+   "fotos": [
+    "rx-054-1.jpg",
+    "rx-054-2.jpg",
+    "rx-054-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     15000,
+     25000
+    ],
+    "bueno": [
+     8000,
+     14000
+    ],
+    "regular": [
+     2000,
+     5000
+    ]
+   },
+   "factores": "Diseño clásico Willow, muy producido; el sello inglés y que no tenga despiques le suman valor.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-055",
+   "nombre": "Bowl de restaurante Walker China (Bedford, Ohio)",
+   "categoria": "Loza de hotel/restaurante",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Walker China, EE.UU., c.1940–1970",
+   "materiales": "Loza vitrificada",
+   "marcas": "Walker China Bedford Ohio Vitrified",
+   "estado": "Bueno",
+   "descripcion": "Bowl de loza vitrificada de restaurante de Walker China (Bedford, Ohio), fábrica conocida por su vajilla para hoteles, restaurantes y cafeterías estadounidenses.",
+   "fotos": [
+    "rx-055-1.jpg",
+    "rx-055-2.jpg",
+    "rx-055-3.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-056",
+   "nombre": "Taza mug alta de espantapájaros (otoño)",
+   "categoria": "Cerámica",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Asia, años 90–2000",
+   "materiales": "Cerámica",
+   "marcas": "No visibles",
+   "estado": "Bueno",
+   "descripcion": "Taza mug alta decorada con un espantapájaros y motivos de otoño.",
+   "fotos": [
+    "rx-056-1.jpg",
+    "rx-056-2.jpg",
+    "rx-056-3.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-057",
+   "nombre": "Cofre-joyero de porcelana triangular 'Fine China GDR'",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "RDA (Alemania Oriental), c.1960–1989",
+   "materiales": "Porcelana, dorado",
+   "marcas": "Corona con 'PM', Fine China GDR 11",
+   "estado": "Bueno",
+   "descripcion": "Pequeño joyero triangular de porcelana con tapa, decorado con motivos florales dorados y marcado 'Fine China GDR' (República Democrática Alemana, 1949–1990).",
+   "fotos": [
+    "rx-057-1.jpg",
+    "rx-057-2.jpg",
+    "rx-057-3.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-058",
+   "nombre": "Joyero ovalado Crown Staffordshire 'The gift is small but Love is all'",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Crown Staffordshire, Inglaterra, c.1970–1990",
+   "materiales": "Porcelana fina (bone china), dorado",
+   "marcas": "Fine Bone China Crown Staffordshire Est.1801 England",
+   "estado": "Excelente",
+   "descripcion": "Joyero ovalado de porcelana fina (bone china) de Crown Staffordshire, Inglaterra, con flores y la inscripción 'The gift is small, but Love is all', un regalo clásico.",
+   "fotos": [
+    "rx-058-1.jpg",
+    "rx-058-2.jpg",
+    "rx-058-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     30000,
+     45000
+    ],
+    "bueno": [
+     18000,
+     30000
+    ],
+    "regular": [
+     6000,
+     12000
+    ]
+   },
+   "factores": "Marca reconocida (Crown Staffordshire) y buen estado; es una pieza de regalo moderna, no antigua.",
+   "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-059",
+   "nombre": "Par de gatos de porcelana con escudo (crested china) Ilfracombe",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Gran Bretaña, c.1900–1930",
+   "materiales": "Porcelana",
+   "marcas": "BRITISH MANUFACTURE; escudo de Ilfracombe",
+   "estado": "Bueno",
+   "descripcion": "Par de gatos de porcelana blanca con el escudo de Ilfracombe (Devon). La 'crested china', recuerdos de porcelana con el escudo de una ciudad, tuvo su apogeo en Gran Bretaña entre 1880 y 1930.",
+   "fotos": [
+    "rx-059-1.jpg",
+    "rx-059-2.jpg",
+    "rx-059-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     45000,
+     75000
+    ],
+    "bueno": [
+     25000,
+     45000
+    ],
+    "regular": [
+     10000,
+     20000
+    ]
+   },
+   "factores": "Crested china británica de inicios del s.XX con escudo de localidad; si viene en par y sin daños, vale más.",
+   "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-060",
+   "nombre": "Botella de vidrio prensado decorativa",
+   "categoria": "Vidrio",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Probable s.XX",
+   "materiales": "Vidrio prensado",
+   "marcas": "No visibles",
+   "estado": "Bueno",
+   "descripcion": "Botella decorativa de vidrio prensado con relieves geométricos y florales.",
+   "fotos": [
+    "rx-060-1.jpg",
+    "rx-060-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-061",
+   "nombre": "Jarrita/cremera de porcelana con flores",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "s.XX",
+   "materiales": "Porcelana",
+   "marcas": "No visibles",
+   "estado": "Bueno",
+   "descripcion": "Jarrita o cremera de porcelana blanca con decoración floral y pie.",
+   "fotos": [
+    "rx-061-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-062",
+   "nombre": "Copa-taza de porcelana con aves (pericos)",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "s.XX",
+   "materiales": "Porcelana, filo dorado",
+   "marcas": "No visibles",
+   "estado": "Bueno",
+   "descripcion": "Copa-taza de porcelana con pie, decorada con pericos y filo dorado.",
+   "fotos": [
+    "rx-062-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-063",
+   "nombre": "Juego de bowls Royal China 'Currier & Ives' azul",
+   "categoria": "Loza",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Royal China Co., Sebring Ohio, EE.UU., 1950–1980",
+   "materiales": "Loza",
+   "marcas": "(no fotografiada)",
+   "estado": "Bueno",
+   "descripcion": "Bowls de la vajilla 'Currier & Ives' azul de Royal China Co. (Sebring, Ohio), con grabados de escenas rurales estadounidenses del siglo XIX. En los años 50 se regalaba como promoción en supermercados de EE.UU.",
+   "fotos": [
+    "rx-063-1.jpg",
+    "rx-063-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     30000,
+     45000
+    ],
+    "bueno": [
+     18000,
+     30000
+    ],
+    "regular": [
+     6000,
+     12000
+    ]
+   },
+   "factores": "Vajilla americana de los 50–70 coleccionable; se vende mejor en set y sin despiques. Precio por 3 bowls.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-064",
+   "nombre": "Bandeja redonda de lata con ramo de flores",
+   "categoria": "Hogar / Latas",
+   "grupo": "Hogar y herramientas",
+   "origen": "s.XX, probable Inglaterra o Asia",
+   "materiales": "Hojalata litografiada",
+   "marcas": "No visibles",
+   "estado": "Regular (rayones en reverso)",
+   "descripcion": "Bandeja redonda de hojalata litografiada con un ramo de flores.",
+   "fotos": [
+    "rx-064-1.jpg",
+    "rx-064-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-065",
+   "nombre": "Camión de madera artesanal 'Hand crafted by Allen J. Miller'",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "EE.UU., artesanal, s.XX",
+   "materiales": "Madera",
+   "marcas": "HAND CRAFTED BY ALLEN J MILLER",
+   "estado": "Bueno",
+   "descripcion": "Camión de juguete de madera tallada con la marca 'Hand crafted by Allen J. Miller', una pieza artesanal.",
+   "fotos": [
+    "rx-065-1.jpg",
+    "rx-065-2.jpg",
+    "rx-065-3.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-066",
+   "nombre": "Lote de tapas/tazos Milo Caps (Xtreme, Energy, Fútbol)",
+   "categoria": "Coleccionables",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Nestlé Milo, Chile, c.2000",
+   "materiales": "Plástico, papel",
+   "marcas": "Nestlé MILO",
+   "estado": "Bueno",
+   "descripcion": "Lote de tapas coleccionables Milo Caps (series Xtreme, Energy y Fútbol), promoción de Nestlé de la época de la fiebre de los tazos.",
+   "fotos": [
+    "rx-066-1.jpg",
+    "rx-066-2.jpg",
+    "rx-066-3.jpg",
+    "rx-066-4.jpg",
+    "rx-066-5.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-067",
+   "nombre": "Plato oval de peltre con borde ondulado",
+   "categoria": "Metal / Peltre",
+   "grupo": "Platería y metales",
+   "origen": "Europa, s.XX",
+   "materiales": "Peltre",
+   "marcas": "No visibles en fotos",
+   "estado": "Bueno",
+   "descripcion": "Plato oval de peltre con borde ondulado. El peltre, aleación con base de estaño, se ha usado en vajilla desde la época romana.",
+   "fotos": [
+    "rx-067-1.jpg",
+    "rx-067-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-068",
+   "nombre": "Helicóptero de juguete 'Convertible Helicopter'",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Asia, años 80–90",
+   "materiales": "Plástico",
+   "marcas": "Convertible Helicopter",
+   "estado": "Bueno",
+   "descripcion": "Helicóptero de juguete 'Convertible Helicopter' en plástico azul con cabina roja.",
+   "fotos": [
+    "rx-068-1.jpg",
+    "rx-068-2.jpg",
+    "rx-068-3.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-069",
+   "nombre": "Calculadora Casio Memory-8F (pantalla VFD)",
+   "categoria": "Electrónica / Calculadoras",
+   "grupo": "Electrónica retro",
+   "origen": "Casio, Japón, c.1975–1976",
+   "materiales": "Plástico",
+   "marcas": "CASIO MEMORY-8F Made in Japan",
+   "estado": "Bueno (enciende)",
+   "descripcion": "Calculadora de bolsillo Casio Memory-8F (c. 1975–1976) con pantalla fluorescente verde (VFD), fabricada en Japón durante el auge de las calculadoras electrónicas.",
+   "fotos": [
+    "rx-069-1.jpg",
+    "rx-069-2.jpg",
+    "rx-069-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     40000,
+     60000
+    ],
+    "bueno": [
+     20000,
+     35000
+    ],
+    "regular": [
+     8000,
+     15000
+    ]
+   },
+   "factores": "Calculadora VFD japonesa de los 70 con demanda retro; que funcione y tenga estuche suma valor.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-070",
+   "nombre": "Tenedor(es) plateados con mango ornamentado",
+   "categoria": "Platería / Cubiertos",
+   "grupo": "Platería y metales",
+   "origen": "Probable EE.UU./Inglaterra, s.XX",
+   "materiales": "Metal plateado",
+   "marcas": "No legibles",
+   "estado": "Bueno",
+   "descripcion": "Tenedor de metal plateado con mango ornamentado.",
+   "fotos": [
+    "rx-070-1.jpg",
+    "rx-070-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-071",
+   "nombre": "Cucharita souvenir 'Toronto Canada' esmaltada",
+   "categoria": "Platería / Souvenirs",
+   "grupo": "Platería y metales",
+   "origen": "Canadá, mediados s.XX",
+   "materiales": "Metal plateado, esmalte",
+   "marcas": "TORONTO CANADA",
+   "estado": "Bueno",
+   "descripcion": "Cucharita souvenir de Toronto, Canadá, con hoja de arce esmaltada. Las cucharitas de recuerdo fueron un coleccionable muy popular durante el siglo XX.",
+   "fotos": [
+    "rx-071-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-072",
+   "nombre": "Cuchara ornamentada (plateado oscurecido)",
+   "categoria": "Platería / Cubiertos",
+   "grupo": "Platería y metales",
+   "origen": "Probable EE.UU., c.1900–1950",
+   "materiales": "Metal plateado",
+   "marcas": "No legibles",
+   "estado": "Regular (oxidación)",
+   "descripcion": "Cuchara de metal plateado con mango de relieve floral, con la oxidación natural del metal.",
+   "fotos": [
+    "rx-072-1.jpg",
+    "rx-072-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-073",
+   "nombre": "Cuchara 'Rogers & Bro' con mango ornamentado",
+   "categoria": "Platería / Cubiertos",
+   "grupo": "Platería y metales",
+   "origen": "Rogers & Bro, EE.UU., c.1900–1950",
+   "materiales": "Metal plateado",
+   "marcas": "ROGERS & BRO",
+   "estado": "Bueno",
+   "descripcion": "Cuchara de la marca Rogers & Bro con mango ornamentado. Las firmas Rogers fueron de las grandes productoras de cubiertos plateados de EE.UU.",
+   "fotos": [
+    "rx-073-1.jpg",
+    "rx-073-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-074",
+   "nombre": "Calculadora programable Casio FX-802P con impresora y funda",
+   "categoria": "Electrónica / Calculadoras",
+   "grupo": "Electrónica retro",
+   "origen": "Casio, Japón, c.1981–1983",
+   "materiales": "Plástico, metal",
+   "marcas": "CASIO FX-802P",
+   "estado": "Bueno (sin prueba de impresión)",
+   "descripcion": "Calculadora programable Casio FX-802P (c. 1981–1983) con impresora integrada y funda; se programaba en BASIC, como una pequeña computadora de bolsillo.",
+   "fotos": [
+    "rx-074-1.jpg",
+    "rx-074-2.jpg",
+    "rx-074-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     50000,
+     80000
+    ],
+    "bueno": [
+     25000,
+     45000
+    ],
+    "regular": [
+     10000,
+     20000
+    ]
+   },
+   "factores": "Calculadora programable con impresora de 1981–83 y demanda de nicho; el precio depende de que imprima.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-075",
+   "nombre": "Taza y platillo de porcelana floral 'Made in China'",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "China, años 70–90",
+   "materiales": "Porcelana",
+   "marcas": "Sello rojo chino",
+   "estado": "Bueno",
+   "descripcion": "Taza y platillo de porcelana con decoración floral, marcados con un sello rojo de fabricación china.",
+   "fotos": [
+    "rx-075-1.jpg",
+    "rx-075-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-076",
+   "nombre": "Bandeja de lata ondulada con flores",
+   "categoria": "Hogar / Latas",
+   "grupo": "Hogar y herramientas",
+   "origen": "s.XX",
+   "materiales": "Hojalata litografiada",
+   "marcas": "No visibles",
+   "estado": "Regular",
+   "descripcion": "Bandeja de hojalata de borde ondulado con estampado floral.",
+   "fotos": [
+    "rx-076-1.jpg",
+    "rx-076-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-077",
+   "nombre": "Berbiquí (taladro manual de carpintero)",
+   "categoria": "Herramientas",
+   "grupo": "Hogar y herramientas",
+   "origen": "Europa/EE.UU., mediados s.XX",
+   "materiales": "Acero, madera",
+   "marcas": "No visibles",
+   "estado": "Regular",
+   "descripcion": "Berbiquí, taladro manual de carpintero que se acciona girando la manivela.",
+   "fotos": [
+    "rx-077-1.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-078",
+   "nombre": "Frasco/envase de cerveza Cristal",
+   "categoria": "Publicidad / Envases",
+   "grupo": "Publicidad y souvenirs",
+   "origen": "CCU, Chile, años 80–90",
+   "materiales": "Vidrio, etiqueta",
+   "marcas": "CRISTAL; 'Envase'",
+   "estado": "Bueno",
+   "descripcion": "Frasco de vidrio con la etiqueta de cerveza Cristal, marca emblemática de CCU en Chile.",
+   "fotos": [
+    "rx-078-1.jpg",
+    "rx-078-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-079",
+   "nombre": "Cartera/estuche verde agua vintage",
+   "categoria": "Moda vintage",
+   "grupo": "Moda vintage",
+   "origen": "s.XX, c.1960–1980",
+   "materiales": "Cuero sintético",
+   "marcas": "Placa dorada",
+   "estado": "Bueno",
+   "descripcion": "Cartera o estuche rígido color verde agua con placa dorada, de estilo vintage.",
+   "fotos": [
+    "rx-079-1.jpg",
+    "rx-079-2.jpg"
+   ],
+   "tasado": false
+  },
+  {
+   "id": "RX-080",
+   "nombre": "Peluche oso polar Coca-Cola con antorcha olímpica",
+   "categoria": "Publicidad / Coca-Cola",
+   "grupo": "Publicidad y souvenirs",
+   "origen": "Coca-Cola, c.1996–2002",
+   "materiales": "Felpa",
+   "marcas": "Etiqueta Coca-Cola",
+   "estado": "Bueno (con etiqueta)",
+   "descripcion": "Peluche del oso polar de Coca-Cola, personaje publicitario de la marca desde 1993, con antorcha olímpica y su etiqueta.",
+   "fotos": [
+    "rx-080-1.jpg",
+    "rx-080-2.jpg",
+    "rx-080-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     15000,
+     25000
+    ],
+    "bueno": [
+     8000,
+     15000
+    ],
+    "regular": [
+     3000,
+     6000
+    ]
+   },
+   "factores": "Merchandising Coca-Cola con demanda constante, pero fue producción masiva; la etiqueta conservada suma.",
+   "confianza": "Media-baja"
+  }
+ ]
+}
