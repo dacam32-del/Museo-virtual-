@@ -2796,6 +2796,38 @@
    },
    "factores": "Marca muy coleccionada y acero prensado de los años 70. El color magenta es poco común. Le resta valor que está suelto, sin remolque ni caja, y que tiene roces y óxido.",
    "confianza": "Baja"
+  },
+  {
+   "id": "RX-090",
+   "nombre": "Hebilla de cinturón en forma de rosa, metal fundido color bronce envejecido",
+   "categoria": "Moda vintage",
+   "grupo": "Moda vintage",
+   "origen": "Fabricante desconocido. Estilo de las hebillas florales de fantasía; podría ser de los años 70, pero también hay producción actual muy parecida en zamak (aleación de zinc) con baño bronce viejo. Época no confirmada",
+   "materiales": "Metal fundido color bronce o latón con pátina (sin confirmar si es latón macizo o zamak con baño bronce)",
+   "marcas": "Sin marcas (reverso sin texto ni sello, según el dueño)",
+   "estado": "Bueno: pátina pareja y brillo de roce en los relieves. Sin quebraduras visibles. Mide unos 6–7 cm",
+   "descripcion": "Hebilla de cinturón fundida en forma de rosa, con los pétalos en relieve girando en espiral hacia el centro y pétalos externos anchos y planos que forman el contorno. Tiene una pátina color bronce envejecido, con brillo de roce en las partes altas, y cabe en la palma de la mano (unos 6–7 cm). El reverso no tiene marcas. El estilo recuerda a las hebillas florales de fantasía de los años 70, pero como hoy se fabrican diseños muy parecidos en metal con baño bronce viejo, su época no está confirmada.",
+   "fotos": [
+    "rx-090-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     35000
+    ],
+    "bueno": [
+     12000,
+     22000
+    ],
+    "regular": [
+     5000,
+     12000
+    ]
+   },
+   "factores": "Diseño decorativo de rosa grande en relieve y pátina natural agradable. Le resta valor que no tiene marca ni firma, y que hay hebillas actuales muy parecidas y baratas. Si se confirma latón macizo antiguo, sube hacia el tramo alto.",
+   "confianza": "Baja"
   }
  ]
 }
