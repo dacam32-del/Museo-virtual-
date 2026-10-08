@@ -3249,6 +3249,45 @@
    },
    "factores": "La cara es la del Paris Pouty, un molde muy reproducido. Le resta valor que es una reproducción sin firma de artista, con peluca sintética y ropa tejida en casa. Una S.F.B.J. 252 original, marcada S.F.B.J. 252 Paris, vale miles de dólares, y esta no lo es.",
    "confianza": "Media-alta"
+  },
+  {
+   "id": "RX-103",
+   "nombre": "Single 7'' The Black Crowes, 'Remedy' / 'Darling Of The Underground Press' (Def American 866 838-7, Alemania, 1992), sin funda ilustrada",
+   "categoria": "Discos de vinilo",
+   "grupo": "Música",
+   "origen": "Def American Recordings, prensado en Alemania, 1992. Sencillo de 7 pulgadas, 45 rpm, estéreo. Catálogo 866 838-7 (también DEFA 16). LC 7181. Tomado del álbum The Southern Harmony And Musical Companion",
+   "materiales": "Vinilo de 7 pulgadas. Sin la funda ilustrada original; va en una funda de papel genérica roja de EMI/Odeon, dentro de una bolsa plástica",
+   "marcas": "Lado A: 'BLACK CROWES', 'REMEDY', (P) 1992 Def American Recordings Inc., 45 STEREO, 866 838-7, BIEM, STEMRA, Made in Germany, LC 7181. Lado B: 'Darling Of The Underground Press'. Hay marcas de resaltador verde sobre BLACK CROWES y REMEDY",
+   "estado": "Bueno: se probó el lado A (Remedy) y suena limpio, sin saltos, sin crujido fuerte ni distorsión. El vinilo se ve brillante y plano. La etiqueta del lado A tiene marcas de resaltador verde de un dueño anterior. Sin funda ilustrada",
+   "descripcion": "Sencillo de 7 pulgadas de The Black Crowes, 'Remedy', de 1992, en el sello Def American (número 866 838-7), prensado en Alemania. El lado B es 'Darling Of The Underground Press'. Se probó el lado A y suena bien, sin saltos. La etiqueta de Remedy tiene marcas de resaltador verde de un dueño anterior. No trae la funda ilustrada original: está en una funda de papel genérica. Con esa funda valdría más.",
+   "fotos": [
+    "rx-103-1.jpg",
+    "rx-103-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     10000,
+     18000
+    ],
+    "bueno": [
+     4000,
+     8000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Remedy fue el sencillo más conocido de The Black Crowes en 1992. Le resta valor que falta la funda ilustrada original y que la etiqueta del lado A tiene resaltador verde. El disco en sí suena bien.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-103.mp4",
+    "poster": "video/rx-103-poster.jpg",
+    "caption": "Probado: suena bien (lado A, Remedy)",
+    "audio": true
+   }
   }
  ]
 }
