@@ -42,7 +42,7 @@ function abrir(p){
   const est=p.tasado?p.estado_pieza.toLowerCase():null;
   const precios=p.tasado?`<div class="prices">${['excelente','bueno','regular'].map(k=>
       `<div class="price${k===est?' cur':''}"><small>${k}</small><b>${rango(p.precios[k])}</b>${k===est?'<em>● Estado de esta pieza</em>':''}</div>`).join('')}</div>`
-    :`<div class="pending">Valorización en proceso</div>`;
+    :`<div class="pending">Valorización en proceso${p.nota_valor?`<br><small>${esc(p.nota_valor.replace(/^Sin precio: ?/,''))}</small>`:''}</div>`;
   const msg=`Hola, me interesa la pieza ${p.id}: ${p.nombre} del Museo Virtual RetroXplay`;
   $('sheet').innerHTML=`<button class="close" aria-label="Cerrar">×</button>
    <div class="gal"><div class="main"><img id="mImg" src="images/full/${p.fotos[0]}" alt="${esc(p.nombre)}"></div>

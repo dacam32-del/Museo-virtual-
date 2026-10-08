@@ -16,7 +16,8 @@
     "rx-002-1.jpg",
     "rx-002-2.jpg"
    ],
-   "tasado": false
+   "tasado": false,
+   "nota_valor": "Sin precio: las fotos son solo acercamientos y no permiten identificar la pieza."
   },
   {
    "id": "RX-003",
@@ -31,22 +32,56 @@
    "fotos": [
     "rx-003-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     40000,
+     70000
+    ],
+    "bueno": [
+     18000,
+     30000
+    ],
+    "regular": [
+     6000,
+     12000
+    ]
+   },
+   "factores": "Cámara de película de los 90 con demanda creciente por la fotografía analógica; que funcione es clave.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-004",
-   "nombre": "Single 45 rpm Columbia (artista sin identificar)",
+   "nombre": "EP 45 rpm Los Bravos 'Los chicos con las chicas' (Columbia, España 1967)",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
-   "origen": "Columbia, Latinoamérica, años 60–70",
+   "origen": "Columbia, España, 1967",
    "materiales": "Vinilo, funda papel",
-   "marcas": "Etiqueta Columbia",
-   "estado": "Regular a bueno",
-   "descripcion": "Single de 45 rpm del sello Columbia en funda de época. Los singles de 7 pulgadas fueron el formato principal para difundir éxitos radiales en Latinoamérica entre los años 60 y 80.",
+   "marcas": "SCGE 81274; Depósito legal S.S. 268-1967",
+   "estado": "Regular (etiqueta con desprendimientos)",
+   "descripcion": "EP español de 1967 (Columbia SCGE 81274) de Los Bravos, la banda de 'Black Is Black', con 'Los chicos con las chicas', 'Al ponerse el sol', 'Bye Bye Baby' y 'Ven cuando te llame'. Fue uno de los grupos españoles de mayor éxito internacional de los años 60.",
    "fotos": [
     "rx-004-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     12000,
+     20000
+    ],
+    "bueno": [
+     5000,
+     10000
+    ],
+    "regular": [
+     1500,
+     4000
+    ]
+   },
+   "factores": "Grupo muy popular de los 60, pero edición muy abundante (cientos a la venta); la etiqueta dañada baja el valor.",
+   "confianza": "Media"
   },
   {
    "id": "RX-005",
@@ -83,18 +118,35 @@
   },
   {
    "id": "RX-006",
-   "nombre": "Single 45 rpm Yaco Monti",
+   "nombre": "Single 45 rpm Yaco Monti 'Volverás con el verano' / 'Mira cómo son las cosas' (1967)",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
-   "origen": "Odeon, Argentina/Chile, años 70",
+   "origen": "Odeon, Chile, 1967",
    "materiales": "Vinilo, funda Odeon/Philips",
-   "marcas": "Etiqueta Odeon",
+   "marcas": "MSOD 8668; del LP LDC-36622; nombre manuscrito en la etiqueta",
    "estado": "Regular",
-   "descripcion": "Single de 45 rpm de Yaco Monti, cantante melódico argentino muy popular en Chile en los años 70, en funda de época.",
+   "descripcion": "Single chileno de Odeon (1967, MSOD 8668) de Yaco Monti, cantante melódico argentino muy popular en Chile, con 'Volverás con el verano' y 'Mira cómo son las cosas', temas de su LP 'Con todo mi corazón para ti'. La etiqueta tiene un nombre escrito a mano por un antiguo dueño.",
    "fotos": [
     "rx-006-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     10000,
+     18000
+    ],
+    "bueno": [
+     5000,
+     10000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Prensaje chileno original de 1967 de un ídolo romántico; poco común, pero de demanda moderada y con firma manuscrita.",
+   "confianza": "Baja-media"
   },
   {
    "id": "RX-007",
@@ -142,7 +194,24 @@
    "fotos": [
     "rx-008-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     4000,
+     7000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Casete de un artista popular; formato de nicho con demanda baja salvo ediciones raras.",
+   "confianza": "Media"
   },
   {
    "id": "RX-009",
@@ -157,7 +226,24 @@
    "fotos": [
     "rx-009-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     70000,
+     110000
+    ],
+    "bueno": [
+     40000,
+     70000
+    ],
+    "regular": [
+     15000,
+     30000
+    ]
+   },
+   "factores": "Compacta digital de 2009–2011 revalorizada por la moda 'digicam Y2K'; caja y funcionamiento suman mucho.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-010",
@@ -172,7 +258,24 @@
    "fotos": [
     "rx-010-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     80000,
+     150000
+    ],
+    "bueno": [
+     45000,
+     80000
+    ],
+    "regular": [
+     15000,
+     30000
+    ]
+   },
+   "factores": "Compacta Canon con zoom, demanda por moda digicam; el valor depende mucho del modelo exacto y de que funcione.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-011",
@@ -188,7 +291,24 @@
     "rx-011-1.jpg",
     "rx-011-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     25000,
+     45000
+    ],
+    "bueno": [
+     10000,
+     20000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Clon taiwanés del cubo Rubik de los 80, curioso para coleccionistas; la caja original suma, pero está gastada.",
+   "confianza": "Media"
   },
   {
    "id": "RX-012",
@@ -235,7 +355,24 @@
    "fotos": [
     "rx-013-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     35000
+    ],
+    "bueno": [
+     10000,
+     20000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Juguete de los 2000 de producción masiva; demanda nostálgica baja-moderada y marca no confirmada.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-014",
@@ -250,7 +387,24 @@
    "fotos": [
     "rx-014-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     25000,
+     45000
+    ],
+    "bueno": [
+     15000,
+     25000
+    ],
+    "regular": [
+     6000,
+     12000
+    ]
+   },
+   "factores": "Diseño georgiano muy reproducido; solo una pieza antigua comprobada (s.XIX) alcanza valores altos.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-015",
@@ -285,21 +439,6 @@
    "confianza": "Media"
   },
   {
-   "id": "RX-016",
-   "nombre": "Single 45 rpm RCA (etiqueta roja) en funda RCA S.A. Electrónica",
-   "categoria": "Discos de vinilo",
-   "grupo": "Música",
-   "origen": "RCA, Chile, años 60–70",
-   "materiales": "Vinilo, funda papel",
-   "marcas": "RCA S.A. Electrónica",
-   "estado": "Regular",
-   "descripcion": "Single de 45 rpm del sello RCA dentro de su funda original 'RCA S.A. Electrónica', la filial que fabricaba discos en Chile.",
-   "fotos": [
-    "rx-016-1.jpg"
-   ],
-   "tasado": false
-  },
-  {
    "id": "RX-017",
    "nombre": "Álbum de láminas 'Predators Vulcano Battle'",
    "categoria": "Coleccionables / Papel",
@@ -312,7 +451,8 @@
    "fotos": [
     "rx-017-1.jpg"
    ],
-   "tasado": false
+   "tasado": false,
+   "nota_valor": "Sin precio: no se encontraron ventas comparables del álbum Predators 'Vulcano Battle'; falta saber cuántas láminas tiene."
   },
   {
    "id": "RX-018",
@@ -327,7 +467,24 @@
    "fotos": [
     "rx-018-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     3000,
+     6000
+    ],
+    "regular": [
+     1000,
+     2000
+    ]
+   },
+   "factores": "Cómic moderno (2017) de tirada amplia; demanda ligada al personaje.",
+   "confianza": "Media"
   },
   {
    "id": "RX-019",
@@ -342,7 +499,24 @@
    "fotos": [
     "rx-019-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     15000,
+     25000
+    ],
+    "bueno": [
+     8000,
+     14000
+    ],
+    "regular": [
+     3000,
+     6000
+    ]
+   },
+   "factores": "Primer éxito de Elton John en prensaje chileno de 1971; buscado por coleccionistas del artista.",
+   "confianza": "Media"
   },
   {
    "id": "RX-020",
@@ -357,22 +531,56 @@
    "fotos": [
     "rx-020-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     6000,
+     10000
+    ],
+    "bueno": [
+     3000,
+     6000
+    ],
+    "regular": [
+     1000,
+     3000
+    ]
+   },
+   "factores": "Artista muy popular pero con discos abundantes; promo de fines de los 80, demanda baja.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-021",
    "nombre": "Single 45 rpm Los Wawanco 'Lloran, lloran las mujeres'",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
-   "origen": "Chile/Argentina, años 60–70",
+   "origen": "EMI Odeon Chilena, Chile, 1980",
    "materiales": "Vinilo",
-   "marcas": "Venta prohibida (promo)",
+   "marcas": "Promoción venta prohibida; 32C 006-482998",
    "estado": "Regular",
    "descripcion": "Single de Los Wawanco, conjunto pionero de la cumbia en Argentina y Chile, con 'Lloran, lloran las mujeres'.",
    "fotos": [
     "rx-021-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     10000,
+     18000
+    ],
+    "bueno": [
+     5000,
+     10000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Cumbia clásica con demanda en Chile; disco promocional (no vendido al público).",
+   "confianza": "Baja-media"
   },
   {
    "id": "RX-022",
@@ -381,13 +589,31 @@
    "grupo": "Música",
    "origen": "CRC, Chile, años 60",
    "materiales": "Vinilo",
-   "marcas": "CRC 8018-B",
+   "marcas": "CRC 8018-B; funda RCA S.A. Electrónica",
    "estado": "Regular",
-   "descripcion": "Single del sello chileno CRC con el vals 'Me duele el corazón' de Julio Jaramillo, el 'Ruiseñor de América', cuya música marcó a varias generaciones.",
+   "descripcion": "Single del sello chileno CRC (8018-B) con el vals 'Me duele el corazón' de Julio Jaramillo, el 'Ruiseñor de América', guardado en una funda de RCA S.A. Electrónica. Su música marcó a varias generaciones en Chile y Ecuador.",
    "fotos": [
-    "rx-022-1.jpg"
+    "rx-022-1.jpg",
+    "rx-022-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     12000,
+     20000
+    ],
+    "bueno": [
+     6000,
+     12000
+    ],
+    "regular": [
+     2000,
+     5000
+    ]
+   },
+   "factores": "Prensaje chileno temprano (sello CRC) del 'Ruiseñor de América'; demanda sostenida en Latinoamérica.",
+   "confianza": "Baja-media"
   },
   {
    "id": "RX-023",
@@ -402,22 +628,56 @@
    "fotos": [
     "rx-023-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     20000,
+     30000
+    ],
+    "bueno": [
+     10000,
+     18000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Prensaje chileno de 1964 de Raphael, poco común (pocos ejemplares registrados).",
+   "confianza": "Media"
   },
   {
    "id": "RX-024",
-   "nombre": "Single 45 rpm Al Bano y Romina 'A las siete' (promo)",
+   "nombre": "Single 45 rpm Al Bano 'Granada' / Al Bano y Romina 'A las siete' (promo, Chile 1979)",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
-   "origen": "EMI-Odeon, Chile, 1970s",
+   "origen": "EMI-Odeon, Chile, 1979",
    "materiales": "Vinilo",
-   "marcas": "EMI 1504 'Venta prohibida'",
+   "marcas": "EMI 1504; 'Venta prohibida – Promocional'",
    "estado": "Regular",
-   "descripcion": "Single promocional de EMI con 'A las siete' de Al Bano y Romina Power, dúo italiano muy exitoso en el mundo hispano.",
+   "descripcion": "Single promocional chileno de EMI (1979, n.º 1504) con 'Granada' de Al Bano en una cara y 'A las siete' de Al Bano y Romina Power en la otra; el dúo italiano fue muy exitoso en el mundo hispano.",
    "fotos": [
     "rx-024-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     8000,
+     14000
+    ],
+    "bueno": [
+     4000,
+     8000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Disco promocional chileno de dúo popular; ediciones abundantes en el mundo hispano y demanda moderada.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-025",
@@ -432,7 +692,24 @@
    "fotos": [
     "rx-025-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     10000,
+     18000
+    ],
+    "bueno": [
+     5000,
+     10000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Ícono del bolero chileno; los singles originales tienen demanda local estable.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-026",
@@ -447,7 +724,24 @@
    "fotos": [
     "rx-026-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     8000,
+     14000
+    ],
+    "bueno": [
+     4000,
+     8000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Prensaje chileno de 1971 de artista de culto; pocas ventas registradas.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-027",
@@ -462,22 +756,56 @@
    "fotos": [
     "rx-027-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     30000
+    ],
+    "bueno": [
+     10000,
+     20000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Prensaje chileno escaso (1972) con cara B 'Song of Bangladesh'; interés de coleccionistas de folk.",
+   "confianza": "Media"
   },
   {
    "id": "RX-028",
-   "nombre": "Single 45 rpm Miguel Gallardo 'Una vez más'",
+   "nombre": "Single 45 rpm Miguel Gallardo 'Una vez más' (cara B de 'Saldré a buscar el amor', Perú 1978)",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
-   "origen": "EMI, Perú, 1980s",
+   "origen": "EMI, Perú, 1978",
    "materiales": "Vinilo",
    "marcas": "EMI Ind. Peruana 01.21.1595",
    "estado": "Regular",
-   "descripcion": "Single peruano de EMI con 'Una vez más' de Miguel Gallardo, cantautor español de baladas de los años 70 y 80.",
+   "descripcion": "Single peruano de EMI (1978) con 'Una vez más', cara B del éxito 'Saldré a buscar el amor' de Miguel Gallardo, cantautor español de baladas.",
    "fotos": [
     "rx-028-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     5000,
+     8000
+    ],
+    "bueno": [
+     2500,
+     5000
+    ],
+    "regular": [
+     1000,
+     2000
+    ]
+   },
+   "factores": "Balada de los 70 muy editada; cara B; demanda baja.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-029",
@@ -492,22 +820,56 @@
    "fotos": [
     "rx-029-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     8000,
+     14000
+    ],
+    "bueno": [
+     4000,
+     8000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Prensaje chileno de 1970; artista popular con demanda moderada.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-030",
-   "nombre": "Single 45 rpm Tavares 'El loco del año' (promo)",
+   "nombre": "Single 45 rpm Tavares 'El loco del año' (Fool of the Year) – promo Chile 1977",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
-   "origen": "Capitol, Chile, 1970s",
+   "origen": "Capitol, Chile, 1977",
    "materiales": "Vinilo",
-   "marcas": "Capitol Disco Promocional",
+   "marcas": "Capitol 1280; S 93703; Disco promocional venta prohibida",
    "estado": "Regular",
-   "descripcion": "Single promocional de Capitol con 'El loco del año' de Tavares, grupo estadounidense de soul y disco.",
+   "descripcion": "Single promocional chileno de Capitol (1977, n.º 1280) con 'El loco del año' (Fool of the Year), cara B de 'Whodunit', del grupo estadounidense de soul y disco Tavares, producido por Freddie Perren.",
    "fotos": [
     "rx-030-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     15000,
+     25000
+    ],
+    "bueno": [
+     8000,
+     14000
+    ],
+    "regular": [
+     3000,
+     6000
+    ]
+   },
+   "factores": "Soul/disco de 1977 en promo chilena; el soul tiene demanda internacional.",
+   "confianza": "Media"
   },
   {
    "id": "RX-031",
@@ -522,22 +884,56 @@
    "fotos": [
     "rx-031-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     10000,
+     18000
+    ],
+    "bueno": [
+     5000,
+     10000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Prensaje chileno de Raphael (sello Asfona), artista con coleccionistas fieles.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-032",
    "nombre": "Single 45 rpm Antonio Aguilar 'Amor de los dos' (promo)",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
-   "origen": "Musart, México/Chile",
+   "origen": "Musart (lic. EMI Odeon Chilena), Chile, 1981",
    "materiales": "Vinilo",
-   "marcas": "Musart",
+   "marcas": "EMI 19076 B; Venta prohibida – Promoción",
    "estado": "Regular",
    "descripcion": "Single promocional del sello mexicano Musart con 'Amor de los dos' de Antonio Aguilar, figura de la música ranchera.",
    "fotos": [
     "rx-032-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     6000,
+     10000
+    ],
+    "bueno": [
+     3000,
+     6000
+    ],
+    "regular": [
+     1000,
+     3000
+    ]
+   },
+   "factores": "Ranchera de 1981 en promo chilena; demanda baja-moderada.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-033",
@@ -552,7 +948,24 @@
    "fotos": [
     "rx-033-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     12000,
+     20000
+    ],
+    "bueno": [
+     6000,
+     12000
+    ],
+    "regular": [
+     2000,
+     5000
+    ]
+   },
+   "factores": "Prensaje chileno de 1971 de un artista muy querido en Chile; pocos ejemplares registrados.",
+   "confianza": "Media"
   },
   {
    "id": "RX-034",
@@ -567,22 +980,56 @@
    "fotos": [
     "rx-034-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     6000,
+     10000
+    ],
+    "bueno": [
+     3000,
+     6000
+    ],
+    "regular": [
+     1000,
+     3000
+    ]
+   },
+   "factores": "Música ranchera de 1971 prensada en Chile; demanda local baja.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-035",
-   "nombre": "Single 45 rpm Los Cuatro de Chile (título poco legible)",
+   "nombre": "Single 45 rpm Los Cuatro de Chile 'Malezas'",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
    "origen": "Chile, años 60",
    "materiales": "Vinilo",
-   "marcas": "Etiqueta gris",
+   "marcas": "Etiqueta gris; arr. Horacio Saavedra",
    "estado": "Regular",
-   "descripcion": "Single de Los Cuatro de Chile, conjunto vocal folclórico chileno; el título de la etiqueta se ve poco legible en la foto.",
+   "descripcion": "Single con 'Malezas' (Juan Carlos Gil – Ariel Arancibia) de Los Cuatro de Chile, conjunto vocal folclórico chileno, con arreglos de Horacio Saavedra.",
    "fotos": [
     "rx-035-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     8000,
+     15000
+    ],
+    "bueno": [
+     4000,
+     8000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Folclor chileno de los 60 de un conjunto reconocido; disco poco documentado.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-036",
@@ -591,28 +1038,62 @@
    "grupo": "Música",
    "origen": "Tamla/Motown, Chile, c.1971",
    "materiales": "Vinilo",
-   "marcas": "Tamla, U.O.N.",
+   "marcas": "Tamla SM-113; Jobete Music; U.O.N.",
    "estado": "Regular",
-   "descripcion": "Single chileno del sello Tamla (Motown) con 'Si me quieres de verdad' (If You Really Love Me) de Stevie Wonder, de comienzos de los años 70.",
+   "descripcion": "Single chileno del sello Tamla (Motown, SM-113) con 'Si me quieres de verdad' (If You Really Love Me) de Stevie Wonder, de 1971–72. No aparece catalogado en las bases de datos de coleccionistas.",
    "fotos": [
     "rx-036-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     15000,
+     30000
+    ],
+    "bueno": [
+     8000,
+     15000
+    ],
+    "regular": [
+     3000,
+     6000
+    ]
+   },
+   "factores": "Prensaje chileno de Motown de inicios de los 70, no catalogado en Discogs: puede ser escaso y la demanda internacional por Stevie Wonder es alta.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-037",
    "nombre": "Single 45 rpm Los 4 Cuartos 'Bailaré'",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
-   "origen": "Chile, años 60",
+   "origen": "Polydor, Chile, años 60",
    "materiales": "Vinilo",
-   "marcas": "515.057",
+   "marcas": "615.053 Fab. Chilena",
    "estado": "Regular",
-   "descripcion": "Single de Los 4 Cuartos, uno de los grupos de la Nueva Ola chilena de los años 60, con 'Bailaré'.",
+   "descripcion": "Single chileno de Polydor (615.053) de Los 4 Cuartos, uno de los grupos de la Nueva Ola chilena de los años 60, con 'Bailaré' y 'Viva mi compañera'.",
    "fotos": [
     "rx-037-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     10000,
+     18000
+    ],
+    "bueno": [
+     5000,
+     10000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Nueva Ola chilena de los 60 de un grupo con seguidores; prensaje Polydor poco común.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-038",
@@ -627,22 +1108,56 @@
    "fotos": [
     "rx-038-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     6000,
+     10000
+    ],
+    "bueno": [
+     3000,
+     6000
+    ],
+    "regular": [
+     1000,
+     3000
+    ]
+   },
+   "factores": "Música popular chilena en disco promocional; demanda local baja.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-039",
-   "nombre": "Single 45 rpm Manolo Otero (promocional)",
+   "nombre": "Single 45 rpm Manolo Otero 'Aún' (Oh! Why) – promo 1976",
    "categoria": "Discos de vinilo",
    "grupo": "Música",
    "origen": "EMI, Chile, 1970s",
    "materiales": "Vinilo",
-   "marcas": "EMI 'Disco promocional venta prohibida'",
+   "marcas": "EMI-Odeon 1976; Disco promocional venta prohibida",
    "estado": "Regular",
-   "descripcion": "Single promocional de EMI de Manolo Otero, cantante español de baladas de los años 70.",
+   "descripcion": "Single promocional de EMI-Odeon (1976) con 'Aún' (Oh! Why) de Manolo Otero, cantante español de baladas de los años 70.",
    "fotos": [
     "rx-039-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     8000,
+     15000
+    ],
+    "bueno": [
+     4000,
+     8000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Balada de 1976 en promo; artista popular con discos abundantes.",
+   "confianza": "Baja-media"
   },
   {
    "id": "RX-040",
@@ -657,7 +1172,24 @@
    "fotos": [
     "rx-040-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     14000
+    ],
+    "bueno": [
+     4000,
+     8000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Corrido con mariachi de un ícono ranchero; edición de los 60, demanda moderada.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-041",
@@ -672,7 +1204,24 @@
    "fotos": [
     "rx-041-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     25000,
+     35000
+    ],
+    "bueno": [
+     14000,
+     25000
+    ],
+    "regular": [
+     5000,
+     10000
+    ]
+   },
+   "factores": "Juego clásico de Ravensburger (1975) con demanda nostálgica; que esté completo es decisivo.",
+   "confianza": "Media"
   },
   {
    "id": "RX-042",
@@ -687,7 +1236,24 @@
    "fotos": [
     "rx-042-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     5000,
+     8000
+    ],
+    "bueno": [
+     3000,
+     5000
+    ],
+    "regular": [
+     1000,
+     2000
+    ]
+   },
+   "factores": "Artículo de bazar sin usar (old stock); valor bajo, interés nostálgico.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-043",
@@ -724,34 +1290,68 @@
   },
   {
    "id": "RX-044",
-   "nombre": "Celular Samsung de tapa plateado (c.2003)",
+   "nombre": "Celular Samsung de tapa plateado con sticker Smartcom (c.2002–2004)",
    "categoria": "Electrónica / Telefonía",
    "grupo": "Electrónica retro",
    "origen": "Samsung, Corea, c.2002–2005",
    "materiales": "Plástico",
-   "marcas": "Samsung",
+   "marcas": "Samsung; sticker Smartcom (operador chileno)",
    "estado": "Regular (sticker añadido)",
-   "descripcion": "Teléfono celular Samsung de tapa en color plateado, de la generación de móviles con pantalla monocromática o de color básico de comienzos de los 2000.",
+   "descripcion": "Teléfono celular Samsung de tapa en color plateado, de comienzos de los 2000, con un sticker de Smartcom, operador chileno de telefonía móvil de esa época.",
    "fotos": [
     "rx-044-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     25000,
+     45000
+    ],
+    "bueno": [
+     12000,
+     25000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Celular de tapa de inicios de los 2000; el sticker de Smartcom (operador chileno ya desaparecido) le da nostalgia local.",
+   "confianza": "Media"
   },
   {
    "id": "RX-045",
-   "nombre": "Buggy de juguete azul con caja (Flower Power)",
+   "nombre": "Juguete a pilas Botoy 'Dune Buggy' Flower Power con caja",
    "categoria": "Juguetes",
    "grupo": "Juguetes y coleccionables",
-   "origen": "Asia, años 70–80",
+   "origen": "Botoy, Hong Kong/Taiwán, c.1980",
    "materiales": "Plástico",
-   "marcas": "No visibles",
+   "marcas": "Caja ilustrada",
    "estado": "Bueno",
-   "descripcion": "Buggy de juguete azul con decoración de flor, con su caja, que evoca la estética 'flower power' de los buggies playeros de los años 70.",
+   "descripcion": "Buggy a pilas 'Climbing Tumble' de Botoy en su versión 'Dune Buggy' azul con decoración de flor, con su caja; trepa y se voltea. Evoca la estética 'flower power' de los buggies playeros. Fabricado hacia 1980.",
    "fotos": [
     "rx-045-1.jpg",
     "rx-045-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     30000,
+     45000
+    ],
+    "bueno": [
+     15000,
+     28000
+    ],
+    "regular": [
+     5000,
+     10000
+    ]
+   },
+   "factores": "Juguete Botoy de c.1980 con caja; el diseño 'flower power' es menos común que el Super Buggy.",
+   "confianza": "Media"
   },
   {
    "id": "RX-046",
@@ -832,7 +1432,24 @@
     "rx-048-1.jpg",
     "rx-048-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     6000,
+     10000
+    ],
+    "bueno": [
+     2000,
+     5000
+    ],
+    "regular": [
+     1000,
+     2000
+    ]
+   },
+   "factores": "Botón decorativo de estilo clásico, muy reproducido; valor bajo salvo antigüedad comprobada.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-049",
@@ -847,7 +1464,24 @@
    "fotos": [
     "rx-049-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     10000,
+     15000
+    ],
+    "bueno": [
+     5000,
+     9000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Herramienta de uso común; vale sobre todo como decoración rústica.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-050",
@@ -929,7 +1563,24 @@
    "fotos": [
     "rx-052-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     18000,
+     30000
+    ],
+    "bueno": [
+     10000,
+     18000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Souvenir estadounidense de los 70–90; demanda baja, sin tapa de peltre.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-053",
@@ -945,7 +1596,24 @@
     "rx-053-1.jpg",
     "rx-053-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     20000,
+     35000
+    ],
+    "bueno": [
+     10000,
+     20000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Pieza decorativa pintada a mano sin firma; la pintura parcial baja el valor.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-054",
@@ -996,7 +1664,24 @@
     "rx-055-2.jpg",
     "rx-055-3.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     15000,
+     22000
+    ],
+    "bueno": [
+     9000,
+     15000
+    ],
+    "regular": [
+     3000,
+     6000
+    ]
+   },
+   "factores": "Loza de restaurante americana con logo, buscada por coleccionistas de 'restaurant ware'.",
+   "confianza": "Media"
   },
   {
    "id": "RX-056",
@@ -1013,24 +1698,58 @@
     "rx-056-2.jpg",
     "rx-056-3.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     4000,
+     7000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Taza decorativa moderna sin marca; valor de uso y decoración de temporada.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-057",
-   "nombre": "Cofre-joyero de porcelana triangular 'Fine China GDR'",
+   "nombre": "Cofre-joyero de porcelana triangular Martinroda 'Fine China GDR'",
    "categoria": "Porcelana",
    "grupo": "Porcelana y cerámica",
-   "origen": "RDA (Alemania Oriental), c.1960–1989",
+   "origen": "Martinroda, Turingia (RDA), c.1960–1989",
    "materiales": "Porcelana, dorado",
-   "marcas": "Corona con 'PM', Fine China GDR 11",
+   "marcas": "Corona con 'PM' (Porzellanfabrik Martinroda), Fine China GDR 11",
    "estado": "Bueno",
-   "descripcion": "Pequeño joyero triangular de porcelana con tapa, decorado con motivos florales dorados y marcado 'Fine China GDR' (República Democrática Alemana, 1949–1990).",
+   "descripcion": "Pequeño joyero triangular de porcelana con tapa y flores doradas, con la marca de la corona y 'PM' de la Porzellanfabrik Martinroda (Turingia) y 'Fine China GDR', de la época de la República Democrática Alemana (1949–1990).",
    "fotos": [
     "rx-057-1.jpg",
     "rx-057-2.jpg",
     "rx-057-3.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     25000,
+     40000
+    ],
+    "bueno": [
+     14000,
+     25000
+    ],
+    "regular": [
+     5000,
+     10000
+    ]
+   },
+   "factores": "Porcelana de la RDA con marca identificada (Martinroda); demanda moderada de coleccionistas.",
+   "confianza": "Media"
   },
   {
    "id": "RX-058",
@@ -1114,7 +1833,24 @@
     "rx-060-1.jpg",
     "rx-060-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     18000,
+     30000
+    ],
+    "bueno": [
+     10000,
+     18000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Vidrio prensado decorativo sin marca; valor decorativo.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-061",
@@ -1129,7 +1865,24 @@
    "fotos": [
     "rx-061-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     15000,
+     22000
+    ],
+    "bueno": [
+     8000,
+     14000
+    ],
+    "regular": [
+     3000,
+     6000
+    ]
+   },
+   "factores": "Porcelana floral sin marca visible; demanda de vajilla vintage moderada.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-062",
@@ -1144,7 +1897,24 @@
    "fotos": [
     "rx-062-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     35000
+    ],
+    "bueno": [
+     10000,
+     20000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Porcelana decorativa con aves; sin marca, vale menos que piezas firmadas (Limoges).",
+   "confianza": "Baja"
   },
   {
    "id": "RX-063",
@@ -1193,7 +1963,24 @@
     "rx-064-1.jpg",
     "rx-064-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     18000,
+     30000
+    ],
+    "bueno": [
+     10000,
+     18000
+    ],
+    "regular": [
+     3000,
+     7000
+    ]
+   },
+   "factores": "Bandeja litografiada decorativa; los rayones del reverso bajan el valor.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-065",
@@ -1210,7 +1997,24 @@
     "rx-065-2.jpg",
     "rx-065-3.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     50000,
+     90000
+    ],
+    "bueno": [
+     25000,
+     50000
+    ],
+    "regular": [
+     10000,
+     20000
+    ]
+   },
+   "factores": "Juguete artesanal firmado, pieza única de arte popular; el fabricante no está documentado.",
+   "confianza": "Baja-media"
   },
   {
    "id": "RX-066",
@@ -1229,7 +2033,8 @@
     "rx-066-4.jpg",
     "rx-066-5.jpg"
    ],
-   "tasado": false
+   "tasado": false,
+   "nota_valor": "Sin precio: no se encontraron ventas con precio de tapas Milo Caps (solo anuncios sin precio); falta la cantidad."
   },
   {
    "id": "RX-067",
@@ -1245,7 +2050,24 @@
     "rx-067-1.jpg",
     "rx-067-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     40000,
+     70000
+    ],
+    "bueno": [
+     20000,
+     40000
+    ],
+    "regular": [
+     8000,
+     15000
+    ]
+   },
+   "factores": "Peltre con borde ondulado; la marca en el reverso podría subir el valor.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-068",
@@ -1262,7 +2084,8 @@
     "rx-068-2.jpg",
     "rx-068-3.jpg"
    ],
-   "tasado": false
+   "tasado": false,
+   "nota_valor": "Sin precio: no se identificó la marca ni hay comparables del 'Convertible Helicopter'."
   },
   {
    "id": "RX-069",
@@ -1312,7 +2135,24 @@
     "rx-070-1.jpg",
     "rx-070-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     5000,
+     8000
+    ],
+    "bueno": [
+     2500,
+     5000
+    ],
+    "regular": [
+     1000,
+     2000
+    ]
+   },
+   "factores": "Cubierto plateado suelto, muy abundante; se valora más en juego.",
+   "confianza": "Media"
   },
   {
    "id": "RX-071",
@@ -1327,7 +2167,24 @@
    "fotos": [
     "rx-071-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     10000,
+     15000
+    ],
+    "bueno": [
+     6000,
+     10000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Coleccionable de viaje; si fuera de plata ley valdría bastante más.",
+   "confianza": "Media"
   },
   {
    "id": "RX-072",
@@ -1343,7 +2200,24 @@
     "rx-072-1.jpg",
     "rx-072-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     5000,
+     8000
+    ],
+    "bueno": [
+     2500,
+     5000
+    ],
+    "regular": [
+     1000,
+     2000
+    ]
+   },
+   "factores": "Cuchara plateada sin marca legible y oxidada; valor bajo.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-073",
@@ -1359,7 +2233,24 @@
     "rx-073-1.jpg",
     "rx-073-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     4000,
+     8000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Marca reconocida (Rogers & Bro); el patrón ornamentado tiene demanda moderada.",
+   "confianza": "Media"
   },
   {
    "id": "RX-074",
@@ -1409,7 +2300,24 @@
     "rx-075-1.jpg",
     "rx-075-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     10000,
+     15000
+    ],
+    "bueno": [
+     5000,
+     9000
+    ],
+    "regular": [
+     2000,
+     3000
+    ]
+   },
+   "factores": "Porcelana china de exportación de fines del s.XX, abundante; valor decorativo.",
+   "confianza": "Baja-media"
   },
   {
    "id": "RX-076",
@@ -1425,7 +2333,24 @@
     "rx-076-1.jpg",
     "rx-076-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     18000,
+     30000
+    ],
+    "bueno": [
+     10000,
+     18000
+    ],
+    "regular": [
+     3000,
+     7000
+    ]
+   },
+   "factores": "Bandeja litografiada decorativa; el desgaste baja el valor.",
+   "confianza": "Media-baja"
   },
   {
    "id": "RX-077",
@@ -1440,7 +2365,24 @@
    "fotos": [
     "rx-077-1.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     18000,
+     28000
+    ],
+    "bueno": [
+     10000,
+     16000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Herramienta manual antigua con demanda de carpinteros y decoración rústica.",
+   "confianza": "Media"
   },
   {
    "id": "RX-078",
@@ -1456,7 +2398,24 @@
     "rx-078-1.jpg",
     "rx-078-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     15000
+    ],
+    "bueno": [
+     4000,
+     8000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Envase publicitario de una marca chilena emblemática; demanda local de nicho.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-079",
@@ -1472,7 +2431,24 @@
     "rx-079-1.jpg",
     "rx-079-2.jpg"
    ],
-   "tasado": false
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     35000,
+     60000
+    ],
+    "bueno": [
+     18000,
+     35000
+    ],
+    "regular": [
+     6000,
+     12000
+    ]
+   },
+   "factores": "Accesorio vintage de estilo 60–70; marca y estado interior definen el valor.",
+   "confianza": "Baja"
   },
   {
    "id": "RX-080",
