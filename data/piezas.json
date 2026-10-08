@@ -2862,6 +2862,39 @@
    },
    "factores": "Marca de diseño conocida y hecho en Italia, con un dibujo navideño simpático de estilo acuarela. Le resta valor que es una pieza decorativa reciente, se vende sola y no como set. Está impecable.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-092",
+   "nombre": "Batidor manual de manivela A&J / EKCO (Chicago, EE.UU.), mango de madera roja",
+   "categoria": "Cocina antigua",
+   "grupo": "Hogar y herramientas",
+   "origen": "EKCO Products Company, Chicago (EE.UU.), con la marca A&J (A&J Manufacturing, de Binghamton, Nueva York, comprada por Ekco en 1929). Fechado c.1944–1963: la empresa usó el nombre 'Ekco Products Company' desde 1944, y la zona postal 'Chicago 39' se usó desde 1943 hasta la llegada del código ZIP en 1963. Probablemente años 40–50",
+   "materiales": "Armazón de acero cromado con eje de mango acanalado, rueda dentada de acero, mango superior de madera pintada de rojo, perilla de manivela de madera natural, aspas de acero",
+   "marcas": "Logo A&J en rombo en la rueda dentada; 'EKCO PRODUCTS COMPANY CHICAGO 39 ILL. MADE IN U.S.A.'",
+   "estado": "Bueno. Probado, funciona bien: la manivela gira suave. Pintura roja del mango superior gastada, con la madera a la vista; puntos de óxido leve en la rueda dentada; cromado con roces de uso",
+   "descripcion": "Batidor manual de manivela, con dos aspas, de la marca A&J, fabricado por EKCO Products Company en Chicago. Ekco había comprado en 1929 a A&J, la gran fábrica de utensilios de cocina de Binghamton, Nueva York. La rueda dentada lleva el logo A&J en rombo y la leyenda 'EKCO PRODUCTS COMPANY CHICAGO 39 ILL. MADE IN U.S.A.'. El número de zona postal '39' se usó entre 1943 y 1963, antes del código ZIP, y el nombre Ekco Products Company es de 1944 en adelante, así que es de los años 40 o 50. Tiene armazón cromado, mango superior de madera pintada de rojo y perilla de madera natural. Probado, funciona bien: la manivela gira suave. Muestra desgaste de uso en la pintura roja y puntos de óxido leve en la rueda.",
+   "fotos": [
+    "rx-092-1.jpg",
+    "rx-092-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     30000
+    ],
+    "bueno": [
+     12000,
+     20000
+    ],
+    "regular": [
+     5000,
+     10000
+    ]
+   },
+   "factores": "Marca clásica de utensilios de cocina estadounidenses de mediados del siglo XX; probado y funciona bien. El mango rojo es muy buscado para decoración de cocina vintage. Le resta valor el desgaste de la pintura y el óxido leve, y que es un modelo producido en gran cantidad.",
+   "confianza": "Media"
   }
  ]
 }
