@@ -3143,6 +3143,38 @@
    },
    "factores": "Están sellados, que es lo mejor para un CD. Le resta mucho valor que es una compilación económica de 2009, fabricada en cantidad, con poca demanda de coleccionistas: en Discogs ninguno de los 6 volúmenes tiene un ejemplar a la venta.",
    "confianza": "Baja"
+  },
+  {
+   "id": "RX-100",
+   "nombre": "Miniatura de salamandra (estufa a leña) de cobre martillado, artesanía chilena, sin marcas",
+   "categoria": "Platería / Souvenirs",
+   "grupo": "Platería y metales",
+   "origen": "Artesanía en cobre al estilo de los souvenirs chilenos. Sin marcas ni firma. La fecha no se puede precisar: este tipo de miniatura se hizo desde mediados del siglo XX y se sigue haciendo; lo más probable es la segunda mitad del siglo XX (hacia 1960–1980), pero podría ser más nueva",
+   "materiales": "Cobre martillado y repujado, con un poco de cardenillo verde. Alto estimado 15 a 18 cm (no medido)",
+   "marcas": "Sin marcas. El dueño confirma que no hay letras ni sellos en ninguna parte",
+   "estado": "Bueno: pátina y manchas de cardenillo, propias del cobre. Un hilo o cinta alrededor del tubo de la chimenea. Sin golpes grandes",
+   "descripcion": "Miniatura de una salamandra, la estufa a leña de cuerpo redondo y chimenea, hecha en cobre martillado al estilo de la artesanía chilena de souvenirs. Tiene la boca del hogar abierta, con un arco de cobre adentro, la base acampanada y un tubo de chimenea con un sombrerete cónico sostenido por dos alambres. Mide unos 15 a 18 cm. No tiene marcas. El cobre muestra manchas de cardenillo verde, que es la pátina natural del metal, y un hilo alrededor de la chimenea. La fecha no está confirmada: estas miniaturas se hicieron sobre todo en la segunda mitad del siglo XX y se siguen haciendo.",
+   "fotos": [
+    "rx-100-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     10000,
+     16000
+    ],
+    "bueno": [
+     6000,
+     12000
+    ],
+    "regular": [
+     3000,
+     6000
+    ]
+   },
+   "factores": "Es cobre chileno trabajado a mano, y la salamandra en miniatura es un souvenir reconocible. Le resta valor que no tiene marca, que la fecha no está confirmada, que tiene cardenillo y un hilo en la chimenea, y que hoy se siguen vendiendo miniaturas de cobre hechas a mano.",
+   "confianza": "Baja"
   }
  ]
 }
