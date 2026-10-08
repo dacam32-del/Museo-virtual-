@@ -3458,7 +3458,7 @@
    "materiales": "Cartucho gris de NES y funda de polvo negra original de Nintendo. Sin caja ni manual",
    "marcas": "Etiqueta: 'The Original!', DONKEY KONG JR., ARCADE CLASSICS SERIES, ENTERTAINMENT SYSTEM, sello redondo Official Nintendo Seal, logo Nintendo. Dorso grabado: 'Nintendo / PAT. PEND. MADE IN JAPAN'. Etiqueta CAUTION. Tornillos en las esquinas y el del centro (carcasa de 5 tornillos)",
    "estado": "Bueno: probado y funcionando. La etiqueta del frente está limpia y entera. El plástico de atrás tiene suciedad general y rayones (se puede limpiar). La etiqueta de precaución tiene rayitas pequeñas. Trae la funda negra original. Sin caja ni manual",
-   "descripcion": "Donkey Kong Jr. para el NES, versión USA de 1986, de la serie Arcade Classics. La etiqueta dice 'The Original!' y trae el sello redondo Official Nintendo Seal. El dorso dice 'Pat. Pend. Made in Japan' y se ven tornillos en las esquinas y en el centro: es la carcasa temprana de 5 tornillos, no la de 3. Cartucho gris, probado y funcionando, con la funda negra original de Nintendo. No trae caja ni manual. La etiqueta de adelante está limpia; el plástico de atrás tiene suciedad y rayas, y la etiqueta de precaución tiene rayitas.",
+   "descripcion": "Donkey Kong Jr. para el NES, versión USA de 1986, de la serie Arcade Classics. La etiqueta dice 'The Original!' y trae el sello redondo Official Nintendo Seal. El dorso dice 'Pat. Pend. Made in Japan' y se ven tornillos en las esquinas y en el centro: es la carcasa temprana de 5 tornillos, no la de 3. Cartucho gris, probado y funcionando, con la funda negra original de Nintendo. No trae caja ni manual. La etiqueta de adelante está limpia; el plástico de atrás tiene suciedad y rayas, y la etiqueta de precaución tiene rayitas. Los videos del dueño lo muestran funcionando en una tele de tubo, con el control del NES.",
    "fotos": [
     "rx-108-1.jpg",
     "rx-108-2.jpg"
@@ -3480,7 +3480,21 @@
     ]
    },
    "factores": "Es el cartucho temprano de 5 tornillos, probado, con la funda original y la etiqueta limpia. Suelto no vale más que un cartucho común: la prima está en la caja. Le restan la suciedad y los rayones del plástico, y que no trae caja ni manual.",
-   "confianza": "Media"
+   "confianza": "Media",
+   "video": [
+    {
+     "src": "video/rx-108.mp4",
+     "poster": "video/rx-108-poster.jpg",
+     "caption": "Probado: funcionando en consola",
+     "audio": true
+    },
+    {
+     "src": "video/rx-108b.mp4",
+     "poster": "video/rx-108b-poster.jpg",
+     "caption": "Jugando el primer nivel",
+     "audio": true
+    }
+   ]
   }
  ]
 }
