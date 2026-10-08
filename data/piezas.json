@@ -2928,6 +2928,47 @@
    },
    "factores": "Moneda de plata 900 auténtica, con valor de plata de unos $21.000 (8-oct-2026); el diseño Walking Liberty es de los más apreciados de EE.UU. Al estar montada y con dorado selectivo vale menos que una moneda suelta de colección. Se vende como joya, al valor de la plata más un recargo de joyería.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-094",
+   "nombre": "Caja musical navideña Enesco 'Mouse Music Box' (Item No. 614, 1989): ratones en una bota de porcelana bisque, con caja original",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Enesco Imports Corp. (EE.UU.), © 1989, hecha a mano en Taiwán (R.O.C.)",
+   "materiales": "Porcelana bisque pintada a mano, mecanismo musical de cuerda con parte giratoria, base con llave de cuerda; caja de cartón original",
+   "marcas": "Caja: 'Mouse Music Box', 'Hand Painted Bisque Porcelain', 'Plays Deck the Halls', 'Item No. 614', © Enesco Imports Corp. 1989, Taiwan R.O.C. Base: sello Enesco/Taiwan (parcialmente visible)",
+   "estado": "Excelente. Probada, funciona: toca la música y el ratón de arriba gira. El dueño la describe impecable; solo tiene una pequeña mancha oscura en el costado de la bota, junto a la corona. Incluye caja original con desgaste de estante: cantos rozados, pliegues y pequeñas roturas en las solapas",
+   "descripcion": "Caja musical navideña 'Mouse Music Box' de Enesco (Item No. 614, © Enesco Imports Corp. 1989), de porcelana bisque pintada a mano en Taiwán. Tiene forma de bota café claro con cordones rojos. Arriba asoma un ratón gris con gorra escocesa y una estrella dorada en las manos, que gira mientras suena la música, junto a un arbolito de Navidad. Al costado, otro ratón con gorro morado sostiene una corona navideña. Al darle cuerda toca 'Deck the Halls'. Probada, funciona: suena la música y el ratón gira. Se conserva casi impecable y viene con su caja original ilustrada, que tiene desgaste de estante.",
+   "fotos": [
+    "rx-094-1.jpg",
+    "rx-094-2.jpg",
+    "rx-094-3.jpg",
+    "rx-094-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     25000,
+     38000
+    ],
+    "bueno": [
+     15000,
+     25000
+    ],
+    "regular": [
+     6000,
+     12000
+    ]
+   },
+   "factores": "Caja musical navideña de Enesco de fines de los 80, completa con su caja original y funcionando. La porcelana bisque pintada a mano con ratones es muy buscada para decoración navideña vintage. Le resta valor que fue producida en serie y que la caja tiene desgaste.",
+   "confianza": "Media-baja",
+   "video": {
+    "src": "video/rx-094.mp4",
+    "poster": "video/rx-094-poster.jpg",
+    "caption": "Funcionando: toca Deck the Halls y el ratón gira",
+    "audio": true
+   }
   }
  ]
 }
