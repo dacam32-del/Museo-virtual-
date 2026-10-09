@@ -3497,6 +3497,40 @@
      "audio": true
     }
    ]
+  },
+  {
+   "id": "RX-109",
+   "nombre": "Jarrón chino de porcelana pintado a mano, pájaro y flores de ciruelo, con caja original (exportación, c. 1970–1990)",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "República Popular China, porcelana de exportación. Fecha probable c. 1970–1990, estimada por las marcas y no confirmada: el sello de la base usa caracteres simplificados (中国制造), que son posteriores a 1956, y la etiqueta de la caja usa los tradicionales (中國製造), que se siguieron usando en etiquetas de exportación. El formato bilingüe 'HAND PAINTED PORCELAIN / MADE IN CHINA' es típico de ese período. No tiene marca de fábrica",
+   "materiales": "Porcelana blanca vidriada, decoración pintada a mano con esmaltes y filetes dorados. Caja de cartón original",
+   "marcas": "Base: sello circular negro 'HAND PAINTED PORCELAIN / 中国制造 / MADE IN CHINA'. Caja: etiqueta '中國製造 MADE IN CHINA' (rota)",
+   "estado": "Excelente: según el dueño, nunca se usó (stock antiguo en su caja original). En las fotos no se ven saltaduras, trizaduras ni desgaste del dorado. La etiqueta de la caja está rota. Alto aproximado 18–20 cm, estimado por la foto, no medido",
+   "descripcion": "Jarrón chino de porcelana de exportación, forma balaustre, pintado a mano con un pájaro en una rama y flores rojas de ciruelo (prunus) sobre fondo blanco, con un lavado verde pálido en la base. Tiene filete dorado en el borde y en el pie. En la base, sello circular 'HAND PAINTED PORCELAIN / 中国制造 / MADE IN CHINA'. Viene en su caja de cartón original, con una etiqueta '中國製造 MADE IN CHINA' rota. El dueño dice que nunca se usó. Mide unos 18–20 cm de alto (aproximado, estimado por la foto con la mano). Es una pieza decorativa de exportación de la República Popular China, probablemente de los años 70 a 90.",
+   "fotos": [
+    "rx-109-1.jpg",
+    "rx-109-2.jpg",
+    "rx-109-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     18000,
+     28000
+    ],
+    "bueno": [
+     12000,
+     18000
+    ],
+    "regular": [
+     6000,
+     10000
+    ]
+   },
+   "factores": "Es una pieza decorativa de exportación, hecha en serie, de tamaño chico y con decoración sencilla. Le suman que esté sin uso, en su caja original y con el sello completo. No es antigua ni tiene marca de fábrica.",
+   "confianza": "Media-baja"
   }
  ]
 }
