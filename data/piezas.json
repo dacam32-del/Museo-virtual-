@@ -3531,6 +3531,40 @@
    },
    "factores": "Es una pieza decorativa de exportación, hecha en serie, de tamaño chico y con decoración sencilla. Le suman que esté sin uso, en su caja original y con el sello completo. No es antigua ni tiene marca de fábrica.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-110",
+   "nombre": "Jarrón chino de porcelana de Gaopi (Dabu, Guangdong), flor pintada a mano y poema caligrafiado, con caja original (c. 1970–1990)",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Gaopi, condado de Dabu, Guangdong, República Popular China: porcelana de exportación. Gaopi es el principal pueblo ceramista de Dabu, conocido como 'pueblo de la porcelana azul y blanca de China', y la mayor parte de su producción se exporta. Fecha probable c. 1970–1990, estimada y no confirmada: firma en caracteres simplificados (广东), poema y sello de la base en tradicionales (中國, 說), con sello bilingüe de exportación",
+   "materiales": "Porcelana blanca vidriada, decoración y caligrafía pintadas a mano, filetes dorados. Caja de cartón original",
+   "marcas": "Base: sello rojo circular 'HAND PAINTED PORCELAIN / 中國高陂 / MADE IN CHINA' (la parte en chino, en letra de sello, se lee 中國高陂, 'China, Gaopi'). Cuerpo: poema '洛陽千古斗春芳 / 至今人尚說花王', firmado '广东高陂' con dos sellos rojos. Caja: etiqueta '中國製造 MADE IN CHINA'",
+   "estado": "Excelente: según el dueño, nunca se usó (stock antiguo en su caja original). En las fotos no se ven saltaduras, trizaduras ni desgaste del dorado. Alto aproximado 15–18 cm, estimado por la foto, no medido",
+   "descripcion": "Jarrón chino de porcelana de exportación, más chico, forma balaustre, con filete dorado en el borde y en el pie. Por un lado tiene pintada a mano una flor rosada parecida a un crisantemo, con hojas verdes. Por el otro, un poema caligrafiado en negro, '洛陽千古斗春芳 / 至今人尚說花王' ('En Luoyang, desde siempre se disputa la gloria de la primavera; hasta hoy la gente habla del rey de las flores'), que alude a la peonía de Luoyang. Está firmado '广东高陂' (Gaopi, Guangdong) con sellos rojos. En la base, sello rojo circular 'HAND PAINTED PORCELAIN / 中國高陂 / MADE IN CHINA'. Gaopi, en el condado de Dabu, es un centro de porcelana de exportación conocido. Viene en su caja original con etiqueta '中國製造 MADE IN CHINA'. El dueño dice que nunca se usó. Probablemente de los años 70 a 90.",
+   "fotos": [
+    "rx-110-1.jpg",
+    "rx-110-2.jpg",
+    "rx-110-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     18000,
+     28000
+    ],
+    "bueno": [
+     12000,
+     18000
+    ],
+    "regular": [
+     6000,
+     10000
+    ]
+   },
+   "factores": "Es una pieza decorativa de exportación hecha en serie, de tamaño chico. Le suman la caligrafía, el centro de origen identificado (Gaopi), que esté sin uso y en su caja. No es antigua.",
+   "confianza": "Media-baja"
   }
  ]
 }
