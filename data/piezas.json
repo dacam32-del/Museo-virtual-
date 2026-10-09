@@ -1401,8 +1401,8 @@
    "origen": "Vendida en Chile por Burmeister y Cía., casa comercial alemana de Valparaíso fundada en 1857 por Augusto Burmeister (en 1892 en Esmeralda 117 y Plaza Aníbal Pinto 47–51, con oficina en Hamburgo; sus continuadores siguieron como Jacob y Cía.). La casa importaba y vendía máquinas de coser desde fines del siglo XIX, del tipo 'sistema Singer'. Fabricante no identificado: la placa es del importador, no de la fábrica; probablemente europea (posiblemente alemana), de fines del siglo XIX o inicios del XX",
    "materiales": "Hierro fundido, acero, base de madera",
    "marcas": "Placa ovalada de bronce del importador: 'BURMEISTER Y Cª', monograma en letra cursiva 'B y Cía' y 'VALPARAÍSO' abajo. Placa metálica rectangular ornamentada con tabla de agujas e hilos: Nº de aguja 9 – hilo 150–200; 10 – 100–150; 11 – 80–100; 12 – 60–80; 13 – 40–60; 14 – 30–40; 15 – 20–30 (las últimas cifras están gastadas). No se ve nombre de fábrica ni número de serie",
-   "estado": "Regular (óxido avanzado, falta pintura/calcomanías)",
-   "descripcion": "Máquina de coser de manivela en hierro fundido sobre base de madera, de fines del siglo XIX o inicios del XX. Lleva una placa ovalada de bronce de Burmeister y Cía., Valparaíso, la casa comercial alemana fundada en el puerto en 1857 que importaba y vendía máquinas de coser en Chile; el Museo de la Educación Gabriela Mistral conserva una máquina de la misma casa, 'sistema Singer', usada en la Escuela Normal Nº 1 de Niñas. También tiene una placa ornamentada con la tabla de agujas e hilos (agujas Nº 9 a 15, para hilos del 150–200 al 20–30). La placa es del importador, así que el fabricante no está identificado. Presenta óxido avanzado y perdió la pintura y las calcomanías.",
+   "estado": "Regular (óxido avanzado, falta pintura/calcomanías). Mecanismo probado: gira y mueve la aguja (sin aceitar, suena metálico); los mecanismos de abajo están más limpios que la parte de arriba",
+   "descripcion": "Máquina de coser de manivela en hierro fundido sobre base de madera, de fines del siglo XIX o inicios del XX. Lleva una placa ovalada de bronce de Burmeister y Cía., Valparaíso, la casa comercial alemana fundada en el puerto en 1857 que importaba y vendía máquinas de coser en Chile; el Museo de la Educación Gabriela Mistral conserva una máquina de la misma casa, 'sistema Singer', usada en la Escuela Normal Nº 1 de Niñas. También tiene una placa ornamentada con la tabla de agujas e hilos (agujas Nº 9 a 15, para hilos del 150–200 al 20–30). La placa es del importador, así que el fabricante no está identificado. Presenta óxido avanzado y perdió la pintura y las calcomanías, pero el mecanismo está probado: la manivela gira y la aguja sube y baja, aunque sin aceitar suena metálico. Por abajo los mecanismos están más limpios que arriba.",
    "fotos": [
     "rx-047-1.jpg",
     "rx-047-2.jpg",
@@ -1421,12 +1421,26 @@
      220000
     ],
     "regular": [
-     50000,
-     90000
+     70000,
+     100000
     ]
    },
-   "factores": "Antigüedad alta (fines del siglo XIX o inicios del XX) y demanda decorativa. La placa de Burmeister y Cía. de Valparaíso le da procedencia chilena e interés histórico local: es la misma casa importadora de una máquina que guarda el Museo de la Educación Gabriela Mistral. El óxido avanzado, la pintura perdida y que no se conozca el fabricante bajan el valor.",
-   "confianza": "Media-baja"
+   "factores": "Antigüedad alta (fines del siglo XIX o inicios del XX) y demanda decorativa. La placa de Burmeister y Cía. de Valparaíso le da procedencia chilena e interés histórico local: es la misma casa importadora de una máquina que guarda el Museo de la Educación Gabriela Mistral. El mecanismo está probado: la manivela gira y la aguja sube y baja. El óxido avanzado, la pintura perdida y que no se conozca el fabricante bajan el valor.",
+   "confianza": "Media-baja",
+   "video": [
+    {
+     "src": "video/rx-047.mp4",
+     "poster": "video/rx-047-poster.jpg",
+     "caption": "Prueba: la manivela gira y la aguja sube y baja",
+     "audio": true
+    },
+    {
+     "src": "video/rx-047-2.mp4",
+     "poster": "video/rx-047-2-poster.jpg",
+     "caption": "Detalle de la placa Burmeister y Cía, Valparaíso, y de los mecanismos de abajo",
+     "audio": false
+    }
+   ]
   },
   {
    "id": "RX-048",
