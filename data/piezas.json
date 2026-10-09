@@ -3636,6 +3636,39 @@
    },
    "factores": "Es un juego común de DS con licencia de Harry Potter. Le suma estar completo con todos los impresos y en buen estado; le resta que no se probó.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-113",
+   "nombre": "Super Mario Land, Nintendo Game Boy, USA (1989), cartucho suelto",
+   "categoria": "Videojuegos",
+   "grupo": "Videojuegos",
+   "origen": "Nintendo, 1989, versión USA / NTSC. Cartucho hecho en Japón. Lanzamiento USA: 1 de agosto de 1989, uno de los juegos de lanzamiento de la Game Boy",
+   "materiales": "Cartucho gris de Game Boy con etiqueta de papel. Sin caja ni manual",
+   "marcas": "Frente: Nintendo GAME BOY, DMG-ML-USA, MADE IN JAPAN, 'THIS SIDE OUT', sello de calidad Nintendo. Reverso: 'MADE IN JAPAN / PAT. PEND.' en relieve",
+   "estado": "Regular: solo el cartucho. La etiqueta está muy gastada y desteñida, con pérdida de superficie, manchas y un pequeño agujero o perforación cerca del centro. La carcasa tiene suciedad, rayones y una raya en el reverso, y el borde del agujero del tornillo está gastado. No se probó en una consola",
+   "descripcion": "Super Mario Land para Game Boy, versión USA de 1989 (DMG-ML-USA), uno de los juegos de lanzamiento de la consola. Es solo el cartucho, sin caja ni manual. Al reverso dice 'MADE IN JAPAN / PAT. PEND.' en relieve. La etiqueta está muy gastada y desteñida, con manchas, partes perdidas y un pequeño agujero cerca del centro. La carcasa tiene suciedad y rayones, y el borde del agujero del tornillo está gastado. No se probó en una consola.",
+   "fotos": [
+    "rx-113-1.jpg",
+    "rx-113-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     22000,
+     28000
+    ],
+    "bueno": [
+     15000,
+     20000
+    ],
+    "regular": [
+     8000,
+     12000
+    ]
+   },
+   "factores": "Es un clásico de lanzamiento de la Game Boy, muy buscado, pero se fabricó en grandes cantidades. El valor de un cartucho suelto depende mucho de la etiqueta; esta está muy dañada y el juego no se probó, así que vale bastante menos que uno con etiqueta limpia.",
+   "confianza": "Media"
   }
  ]
 }
