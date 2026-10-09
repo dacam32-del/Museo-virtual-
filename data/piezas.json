@@ -3857,6 +3857,40 @@
    },
    "factores": "Es un cuadro decorativo moderno, no una antigüedad ni una pintura original: una lámina impresa pegada sobre tablero. Le suman el tema clásico de Chaplin, que la ilustración es de un artista chileno y que viene listo para colgar; le restan que no tiene marco y que los bordes del tablero están gastados.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-119",
+   "nombre": "Despertador infantil mecánico a cuerda con payaso en la esfera, caja metálica roja, con su caja original 'ALARM'",
+   "categoria": "Relojes",
+   "grupo": "Electrónica retro",
+   "origen": "Fabricante no confirmado: la esfera y el reverso no tienen marca visible, y la caja original solo dice 'ALARM' en inglés, con el logo de un gallo negro enroscado alrededor de un reloj dentro de un círculo. Los despertadores chinos de exportación 'Golden Rooster' (fábrica de relojes de Tianjin) usaban un gallo, pero su logo documentado (gallo frente a un sol naciente) no coincide con este; también podría ser de Europa del Este. Probablemente años 70–80 (estimado por el estilo)",
+   "materiales": "Caja de metal esmaltado rojo con pie acampanado, bisel cromado, cristal, esfera impresa, agujas luminiscentes; caja de cartón original",
+   "marcas": "Esfera: payaso con traje verde, corbatín de lunares y pantalón a cuadros que sostiene el '12' y va sentado en una rueda azul y blanca; números amarillos con puntos rojos. Reverso: dos llaves de cuerda tipo mariposa, perillas de ajuste y símbolos en relieve (campana, llave), sin marca ni país. Caja: 'ALARM' y logo de gallo con reloj en círculo blanco sobre fondo naranja",
+   "estado": "Bueno: esmalte rojo y cromado en buen estado, esfera limpia con colores vivos y alguna mancha leve; la caja original tiene desgaste en los bordes. Funcionamiento por confirmar (no se sabe aún si anda y si suena la alarma)",
+   "descripcion": "Despertador infantil mecánico a cuerda, con caja de metal esmaltado rojo, pie acampanado y bisel cromado. En la esfera, un payaso de traje verde y pantalón a cuadros sostiene el número 12 y va sentado sobre una rueda azul y blanca; los números son amarillos con puntos rojos y las agujas son luminiscentes. Por detrás tiene dos llaves de cuerda tipo mariposa. Viene en su caja original naranja que dice 'ALARM', con el logo de un gallo negro alrededor de un reloj. No tiene marca visible, así que el fabricante no está confirmado; probablemente es de los años 70 u 80. Está en buen estado y la caja tiene desgaste en los bordes. Falta confirmar si anda y si suena la alarma.",
+   "fotos": [
+    "rx-119-1.jpg",
+    "rx-119-2.jpg",
+    "rx-119-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     35000,
+     50000
+    ],
+    "bueno": [
+     20000,
+     30000
+    ],
+    "regular": [
+     8000,
+     15000
+    ]
+   },
+   "factores": "Le suman la esfera infantil ilustrada, muy decorativa, el color rojo vivo y que conserva su caja original. Le restan que el fabricante no está identificado y que aún no se sabe si funciona. Probado y funcionando subiría hacia el rango Excelente.",
+   "confianza": "Media-baja"
   }
  ]
 }
