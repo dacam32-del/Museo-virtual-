@@ -416,34 +416,34 @@
   },
   {
    "id": "RX-015",
-   "nombre": "Plancha antigua de hierro fundido con asa",
+   "nombre": "Plancha antigua a carbón (brasa) de hierro fundido, con asa de madera y parrillita interior original",
    "categoria": "Hogar antiguo",
    "grupo": "Hogar y herramientas",
    "origen": "Europa/América, fines s.XIX–inicios s.XX",
    "materiales": "Hierro fundido",
    "marcas": "No visibles",
-   "estado": "Regular (óxido, asa con pintura gastada)",
-   "descripcion": "Plancha de hierro fundido con asa, utilizada calentándola sobre el fuego o la cocina antes de la llegada de la plancha eléctrica. Objeto cotidiano de fines del siglo XIX e inicios del XX, hoy muy usado en decoración rústica.",
+   "estado": "Bueno: pátina y óxido superficial propios de la edad, asa de madera con pintura roja gastada; conserva la parrillita interior original",
+   "descripcion": "Plancha a carbón de hierro fundido con asa de madera: se le ponían brasas adentro para mantenerla caliente mientras se planchaba, antes de la llegada de la plancha eléctrica. Es un objeto cotidiano de fines del siglo XIX o inicios del XX, hoy muy buscado para decoración rústica. Conserva su parrillita interior original, que muchas de estas planchas han perdido. Está en buen estado, con la pátina y el óxido superficial propios de la edad y la pintura roja del asa gastada. El precio está ajustado al mercado chileno, según ventas locales de referencia.",
    "fotos": [
     "rx-015-1.jpg"
    ],
    "tasado": true,
-   "estado_pieza": "Regular",
+   "estado_pieza": "Bueno",
    "precios": {
     "excelente": [
-     50000,
-     70000
+     55000,
+     80000
     ],
     "bueno": [
-     25000,
+     30000,
      45000
     ],
     "regular": [
-     10000,
-     20000
+     15000,
+     25000
     ]
    },
-   "factores": "Antigüedad (fines s.XIX–inicios s.XX) y demanda decorativa; el óxido y la falta de marca de fundición limitan el valor.",
+   "factores": "Plancha a carbón de fines del siglo XIX o inicios del XX, con demanda decorativa. Conserva su parrillita interior original, que muchas de estas planchas han perdido. Le resta no tener marca de fundición visible. Precio ajustado por el dueño al mercado chileno, según ventas locales de referencia.",
    "confianza": "Media"
   },
   {
