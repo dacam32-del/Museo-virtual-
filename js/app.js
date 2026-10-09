@@ -6,34 +6,52 @@ const rango=r=>r?`${clp(r[0])} – ${clp(r[1])}`:'—';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm=s=>String(s).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
 const $=id=>document.getElementById(id);
-let piezas=[],grupo='Todas';
+let piezas=[],grupo='Todas',sub='Todas',SUBS={};
 const general='Hola, me interesa una pieza del Museo Virtual RetroXplay';
 $('waFloat').href=waLink(general); $('waFoot').href=waLink(general);
 
 fetch('data/piezas.json').then(r=>r.json()).then(d=>{
   piezas=d.piezas.slice().sort((a,b)=>(b.tasado-a.tasado)||(b.tasado?(b.precios[b.estado_pieza.toLowerCase()][1]-a.precios[a.estado_pieza.toLowerCase()][1]):0)||a.id.localeCompare(b.id));
-  const grupos=[...new Set(piezas.map(p=>p.grupo))].sort((a,b)=>a.localeCompare(b,'es'));
-  $('sTotal').textContent=piezas.length; $('sCat').textContent=grupos.length; $('sTas').textContent=piezas.filter(p=>p.tasado).length;
+  SUBS=d.subcategorias||{};
+  const conPiezas=new Set(piezas.map(p=>p.grupo));
+  const grupos=[...new Set([...conPiezas,...Object.keys(SUBS)])].sort((a,b)=>a.localeCompare(b,'es'));
+  $('sTotal').textContent=piezas.length; $('sCat').textContent=conPiezas.size; $('sTas').textContent=piezas.filter(p=>p.tasado).length;
   $('chips').innerHTML=['Todas',...grupos].map(g=>`<button class="chip${g==='Todas'?' on':''}" data-g="${esc(g)}">${esc(g)}</button>`).join('');
-  $('chips').onclick=e=>{const b=e.target.closest('.chip'); if(!b)return; grupo=b.dataset.g; document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c===b)); render();};
+  $('chips').onclick=e=>{const b=e.target.closest('.chip'); if(!b)return; grupo=b.dataset.g; sub='Todas'; $('chips').querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c===b)); renderSub(); render();};
+  $('subchips').onclick=e=>{const b=e.target.closest('.chip'); if(!b)return; sub=b.dataset.s; $('subchips').querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c===b)); render();};
   $('q').oninput=render; $('soloTas').onchange=render;
   const m=piezas.filter(p=>p.tasado).concat(piezas).slice(0,16);
   $('mosaic').innerHTML=m.map(p=>`<img src="images/thumb/${p.fotos[0]}" alt="" loading="lazy">`).join('');
   render(); route();
 }).catch(()=>{$('grid').innerHTML='<p class="empty">No se pudo cargar la colección.</p>';});
 
+function renderSub(){
+  const el=$('subchips'), subs=SUBS[grupo];
+  if(!subs||!subs.length){el.hidden=true; el.innerHTML=''; return;}
+  const n=s=>piezas.filter(p=>p.grupo===grupo&&(s==='Todas'||p.subcategoria===s)).length;
+  el.innerHTML=`<span class="sublabel">Subcategorías</span>`+['Todas',...subs].map(s=>{const k=n(s);
+    return `<button class="chip${s===sub?' on':''}${k?'':' vacia'}" data-s="${esc(s)}">${esc(s)} <span class="n">${k}</span></button>`;}).join('');
+  el.hidden=false;
+}
+function proximamente(){
+  const subs=SUBS[grupo]||[], cual=sub!=='Todas'?sub:(subs.length?subs.slice(0,-1).join(', ')+(subs.length>1?' y ':'')+subs[subs.length-1]:'');
+  const msg=`Hola, busco una pieza de ${sub!=='Todas'?sub:grupo} en el Museo Virtual RetroXplay`;
+  return `<div class="soon"><span class="eyebrow">Próximamente</span><h3 class="serif">${esc(sub!=='Todas'?sub:grupo)}</h3>
+    <p>Estamos preparando esta colección${cual&&sub==='Todas'?`: ${esc(cual)}`:''}. Muy pronto verás aquí nuevas piezas.</p>
+    <p>¿Buscas un modelo en particular? <a href="${waLink(msg)}" target="_blank" rel="noopener">Escríbenos por WhatsApp</a>.</p></div>`;
+}
 function render(){
   const q=norm($('q').value.trim()), solo=$('soloTas').checked;
-  const list=piezas.filter(p=>(grupo==='Todas'||p.grupo===grupo)&&(!solo||p.tasado)&&
-    (!q||norm([p.id,p.nombre,p.categoria,p.origen,p.materiales,p.marcas,p.descripcion].join(' ')).includes(q)));
+  const list=piezas.filter(p=>(grupo==='Todas'||p.grupo===grupo)&&(sub==='Todas'||p.subcategoria===sub)&&(!solo||p.tasado)&&
+    (!q||norm([p.id,p.nombre,p.categoria,p.subcategoria||'',p.origen,p.materiales,p.marcas,p.descripcion].join(' ')).includes(q)));
   $('count').textContent=`${list.length} pieza${list.length===1?'':'s'}`;
   $('grid').innerHTML=list.length?list.map(p=>{
     const cur=p.tasado?p.precios[p.estado_pieza.toLowerCase()]:null;
     return `<article class="card" data-id="${p.id}" tabindex="0">
       <div class="ph"><img src="images/thumb/${p.fotos[0]}" alt="${esc(p.nombre)}" loading="lazy"></div>
-      <div class="bd"><span class="id">${p.id}</span><h3>${esc(p.nombre)}</h3><span class="cat">${esc(p.categoria)}</span>
+      <div class="bd"><span class="id">${p.id}</span><h3>${esc(p.nombre)}</h3><span class="cat">${esc(p.categoria)}${p.subcategoria?` · <b class="sc">${esc(p.subcategoria)}</b>`:''}</span>
       ${cur?`<span class="pr">${rango(cur)}</span>`:`<span class="pr pend">Valorización en proceso</span>`}</div></article>`;
-  }).join(''):'<p class="empty">No hay piezas que coincidan con tu búsqueda.</p>';
+  }).join(''):(SUBS[grupo]&&!q&&!solo?proximamente():'<p class="empty">No hay piezas que coincidan con tu búsqueda.</p>');
 }
 $('grid').addEventListener('click',e=>{const c=e.target.closest('.card'); if(c) location.hash=c.dataset.id;});
 $('grid').addEventListener('keydown',e=>{if(e.key==='Enter'){const c=e.target.closest('.card'); if(c) location.hash=c.dataset.id;}});
@@ -48,10 +66,10 @@ function abrir(p){
    <div class="gal"><div class="main"><img id="mImg" src="images/full/${p.fotos[0]}" alt="${esc(p.nombre)}"></div>
      ${p.fotos.length>1?`<div class="thumbs">${p.fotos.map((f,i)=>`<img src="images/thumb/${f}" data-f="${f}" class="${i?'':'on'}" alt="Foto ${i+1}">`).join('')}</div>`:''}
      ${(Array.isArray(p.video)?p.video:(p.video&&p.video.src?[p.video]:[])).map(v=>`<figure class="vid"><video src="${esc(v.src)}"${v.poster?` poster="${esc(v.poster)}"`:''} controls${v.audio?'':' muted'} playsinline preload="metadata"></video>${v.caption?`<figcaption>${esc(v.caption)}</figcaption>`:''}</figure>`).join('')}</div>
-   <div class="info"><span class="eyebrow">${p.id} · ${esc(p.grupo)}</span>
+   <div class="info"><span class="eyebrow">${p.id} · ${esc(p.grupo)}${p.subcategoria?` · ${esc(p.subcategoria)}`:''}</span>
      <h2 id="mTitle">${esc(p.nombre)}</h2>
      <p class="desc">${esc(p.descripcion)}</p>
-     <dl class="ficha"><dt>Categoría</dt><dd>${esc(p.categoria)}</dd><dt>Origen / época</dt><dd>${esc(p.origen)}</dd>
+     <dl class="ficha"><dt>Categoría</dt><dd>${esc(p.categoria)}</dd>${p.subcategoria?`<dt>Subcategoría</dt><dd>${esc(p.subcategoria)}</dd>`:''}<dt>Origen / época</dt><dd>${esc(p.origen)}</dd>
        <dt>Materiales</dt><dd>${esc(p.materiales)}</dd><dt>Marcas</dt><dd>${esc(p.marcas)}</dd><dt>Estado</dt><dd>${esc(p.estado)}</dd></dl>
      ${p.factores?`<div class="fact"><strong>Factores de valor:</strong> ${esc(p.factores)}</div>`:''}
      <h3 class="serif" style="margin:0 0 4px;font-size:1.25rem">Precio estimado según estado</h3>

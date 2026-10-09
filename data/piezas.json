@@ -1,6 +1,14 @@
 {
- "actualizado": "2026-10-08",
+ "actualizado": "2026-10-09",
  "moneda": "CLP",
+ "subcategorias": {
+  "Autos a escala de colección": [
+   "Hot Wheels",
+   "Matchbox",
+   "Tomica",
+   "Maisto"
+  ]
+ },
  "piezas": [
   {
    "id": "RX-002",
