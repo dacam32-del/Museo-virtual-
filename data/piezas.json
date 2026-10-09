@@ -3748,6 +3748,47 @@
    },
    "factores": "Es un reloj de plata 925 de marca de moda, no de alta relojería, y las piedras son circones, no diamantes. Le suman estar sin uso con la etiqueta original (precio de lista US$100), funcionando, y el bisel vistoso. Le resta que el estuche no es el suyo.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-116",
+   "nombre": "Diccionario Everest Punto – Español, diccionario escolar de bolsillo con 25 000 voces y 16 láminas a color (Editorial Everest)",
+   "categoria": "Libros y papeles",
+   "grupo": "Libros y papeles",
+   "origen": "Editorial Everest, S.A., León (España); la portadilla lista Madrid, León, Barcelona, Sevilla, Granada, Valencia, Zaragoza, Bilbao, Las Palmas de Gran Canaria, La Coruña, Palma de Mallorca, Alicante, México y Buenos Aires. Vigésimo quinta (25.ª) edición, impresa en España en 1984 por Evergráficas, S.A., León (Depósito legal LE: 378-1984)",
+   "materiales": "Libro de bolsillo de tapa blanda (rústica) con tapa plastificada texturada, papel impreso y 16 láminas a color en papel satinado",
+   "marcas": "Tapa: 'Diccionario EVEREST PUNTO ESPAÑOL'. Portadilla: 'DICCIONARIOS EVEREST – PUNTO – Diccionario Escolar Básico con 25 000 voces y 16 láminas a todo color. A cada letra preceden las reglas ortográficas de la misma. EDITORIAL EVEREST, S. A.'. Láminas con monumentos de España (Catedral de León, Alcázar de Segovia, El Escorial, Murallas de Ávila, Giralda) y obras de arte (La Gioconda, la Última Cena de Dalí, El Entierro del Conde de Orgaz, detalle del Guernica, autorretrato de Van Gogh). Página de créditos: 'VIGESIMO QUINTA EDICION – © EDITORIAL EVEREST-LEON (España) – ISBN 84-241-1010-2 (Rústica) / 84-241-1011-0 (Plástico) – DEPOSITO legal: LE: 378-1984 – Printed in Spain-1984 – EVERGRAFICAS, S. A., León'",
+   "estado": "Regular: tapa muy gastada y desteñida, con bordes deshilachados y manchas. Páginas amarillentas de forma pareja; no se ven páginas rotas ni faltantes. Nombre manuscrito de un dueño anterior en la portadilla",
+   "descripcion": "Diccionario Everest Punto de español, un diccionario escolar de bolsillo de Editorial Everest (León, España) con 25 000 voces y 16 láminas a todo color. Antes de cada letra trae sus reglas de ortografía. Las láminas muestran monumentos de España, como la Catedral de León, el Alcázar de Segovia, El Escorial, las Murallas de Ávila y la Giralda, y obras de arte como La Gioconda, la Última Cena de Dalí, El Entierro del Conde de Orgaz, un detalle del Guernica y un autorretrato de Van Gogh. Es la vigésimo quinta edición, impresa en León en 1984 (ISBN 84-241-1010-2, versión en rústica). La tapa está muy gastada, desteñida, con bordes deshilachados y manchas, y las páginas están amarillentas de forma pareja, sin páginas rotas a la vista. Tiene el nombre manuscrito de un dueño anterior en la portadilla. Es un objeto de nostalgia escolar más que una pieza de colección.",
+   "fotos": [
+    "rx-116-1.jpg",
+    "rx-116-2.jpg",
+    "rx-116-3.jpg",
+    "rx-116-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     5000,
+     8000
+    ],
+    "bueno": [
+     3000,
+     5000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Es más un objeto de nostalgia escolar que una pieza de colección: se imprimió en grandes cantidades y en muchas ediciones (esta es la 25.ª, de 1984). Le suman las láminas a color y el diseño retro de la tapa; le restan el desgaste fuerte de la tapa y el nombre escrito.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-116.mp4",
+    "poster": "video/rx-116-poster.jpg",
+    "caption": "Hojeando el diccionario: páginas y láminas a color",
+    "audio": false
+   }
   }
  ]
 }
