@@ -3565,6 +3565,77 @@
    },
    "factores": "Es una pieza decorativa de exportación hecha en serie, de tamaño chico. Le suman la caligrafía, el centro de origen identificado (Gaopi), que esté sin uso y en su caja. No es antigua.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-111",
+   "nombre": "Need for Speed Carbon: Own the City, Sony PSP (UMD), edición alemana PAL (EA, 2006), completo: caja, manual, folleto EA y UMD",
+   "categoria": "Videojuegos",
+   "grupo": "Videojuegos",
+   "origen": "Electronic Arts, 2006 (desarrollo EA / Team Fusion). Edición europea PAL para Alemania (textos de la caja en alemán, needforspeed.de). Salida en Alemania: 3 de noviembre de 2006",
+   "materiales": "Disco UMD de PSP, caja plástica original de PSP con carátula, manual de instrucciones y folleto EA",
+   "marcas": "UMD: NEED FOR SPEED CARBON OWN THE CITY, ULES-00577, EAX05805443D, 'Ohne Altersbeschränkung' (USK). Caja: código de barras 5030932052056, región 2 (PAL), 'Nicht für die Vermietung bestimmt', needforspeed.de. Folleto: 'EA Spiele im Überblick'",
+   "estado": "Excelente: completo y original (caja, manual, folleto EA y UMD). Según el dueño, el disco está impecable y sin rayas, y en las fotos se ve así; la caja y los impresos también se ven muy bien. No se probó en una consola",
+   "descripcion": "Need for Speed Carbon: Own the City para PSP, edición europea (PAL) para Alemania, de EA, 2006. Está completo: caja original con la carátula y los textos en alemán, manual, folleto 'EA Spiele im Überblick' y el UMD (código ULES-00577, clasificación USK 'Ohne Altersbeschränkung'). El disco se ve impecable, sin rayas. Aunque la caja está en alemán, el juego trae español e inglés, y como la PSP no tiene bloqueo de región funciona en cualquier PSP. No se probó en una consola.",
+   "fotos": [
+    "rx-111-1.jpg",
+    "rx-111-2.jpg",
+    "rx-111-3.jpg",
+    "rx-111-4.jpg",
+    "rx-111-5.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     10000,
+     15000
+    ],
+    "bueno": [
+     7000,
+     10000
+    ],
+    "regular": [
+     4000,
+     6000
+    ]
+   },
+   "factores": "Es un juego común de PSP y la versión europea vale menos que la de EE.UU. Le suman estar completo con folleto y en excelente estado; la caja está en alemán, pero el juego trae español e inglés y la PSP no tiene bloqueo de región. Le resta que no se probó.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-112",
+   "nombre": "Harry Potter and the Deathly Hallows: Part 2, Nintendo DS, USA (2011), completo: caja, carátula, manuales y cartucho",
+   "categoria": "Videojuegos",
+   "grupo": "Videojuegos",
+   "origen": "Electronic Arts / Warner Bros. Interactive, 2011, versión USA / NTSC (manual bilingüe inglés-francés). Lanzamiento USA: 12 de julio de 2011",
+   "materiales": "Cartucho de Nintendo DS, caja negra original de DS con carátula, manual de instrucciones, folleto de Nintendo Wi-Fi Connection y hoja de precauciones",
+   "marcas": "Cartucho: NINTENDO DS, Harry Potter and the Deathly Hallows Part 2, NTR-BU8E-USA, ESRB E10+, logos WB Games y EA, sello Official Nintendo Seal. Caja: ESRB Everyone 10+, logo EA",
+   "estado": "Bueno: completo (caja original, carátula, manual, folleto Wi-Fi, hoja de precauciones y cartucho). La caja, la carátula y la etiqueta del cartucho se ven limpias y en buen estado, con desgaste leve normal en la carátula. No se probó en una consola",
+   "descripcion": "Harry Potter and the Deathly Hallows: Part 2 para Nintendo DS, versión USA de 2011, de EA y Warner Bros. Está completo: caja negra original con la carátula, manual de instrucciones, folleto de Nintendo Wi-Fi Connection, hoja de precauciones y el cartucho (NTR-BU8E-USA, ESRB E10+). La caja y la etiqueta del cartucho se ven limpias. Funciona también en una 3DS. No se probó en una consola.",
+   "fotos": [
+    "rx-112-1.jpg",
+    "rx-112-2.jpg",
+    "rx-112-3.jpg",
+    "rx-112-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     17000,
+     22000
+    ],
+    "bueno": [
+     12000,
+     16000
+    ],
+    "regular": [
+     7000,
+     10000
+    ]
+   },
+   "factores": "Es un juego común de DS con licencia de Harry Potter. Le suma estar completo con todos los impresos y en buen estado; le resta que no se probó.",
+   "confianza": "Media"
   }
  ]
 }
