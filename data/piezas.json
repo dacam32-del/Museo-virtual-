@@ -3677,6 +3677,41 @@
    },
    "factores": "Es un clásico de lanzamiento de la Game Boy, muy buscado, pero se fabricó en grandes cantidades. El valor de un cartucho suelto depende mucho de la etiqueta; esta está muy dañada y el juego no se probó, así que vale bastante menos que uno con etiqueta limpia.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-114",
+   "nombre": "Hot Wheels Mercedes-Benz CLA HW, HW Euro 9/10, #181/250 (línea básica 2026), suelto",
+   "categoria": "Autos a escala de colección",
+   "grupo": "Autos a escala de colección",
+   "origen": "Mattel (Hot Wheels), hecho en Malasia. Línea básica (mainline) 2026, serie HW Euro 9/10, número de colección 181/250, caso H; casting nuevo de 2026, diseñado por Craig Callum a partir de la colaboración real Mercedes-Benz × Hot Wheels presentada en Los Ángeles en octubre de 2025. Código de fecha V08N: fabricado en la semana 8 de 2026 (mediados de febrero de 2026)",
+   "materiales": "Carrocería de metal fundido (diecast) pintada, base de plástico negro, ventanas de plástico rosado, ruedas de plástico. Escala aprox. 1:64",
+   "marcas": "Base: 'Mercedes-Benz CLA HW™', logo Hot Wheels, 'JJH63', 'Malaysia', '©Mattel', '1186 MJ, 1, NL', código de fecha 'V08N'. Carrocería: gráficos rosados 'Hot Wheels 68', logos de Mercedes-Benz y 'Mercedes-Benz' en el alerón",
+   "estado": "Bueno: suelto, sin blíster. Desgaste leve de uso, un pequeño roce en la pintura y polvo. Ruedas naranjas (AeroDisc) en un costado y negras (10 rayos) en el otro: así viene de fábrica en esta edición, no es un defecto ni una variante",
+   "descripcion": "Hot Wheels Mercedes-Benz CLA HW, de la línea básica 2026 (serie HW Euro 9/10, número 181/250). Es un casting nuevo, basado en la colaboración real entre Mercedes-Benz y Hot Wheels: un CLA con alerón grande y kit aerodinámico. Es azul metalizado con gráficos rosados 'Hot Wheels 68', logos de Mercedes-Benz, ventanas rosadas y guardabarros celestes. Las ruedas son naranjas en un costado y negras en el otro, así viene de fábrica. En la base dice JJH63, Malaysia, y el código V08N indica que se fabricó en la semana 8 de 2026. Suelto, sin blíster, con desgaste leve de uso, un pequeño roce en la pintura y polvo.",
+   "fotos": [
+    "rx-114-1.jpg",
+    "rx-114-2.jpg",
+    "rx-114-3.jpg"
+   ],
+   "tasado": true,
+   "subcategoria": "Hot Wheels",
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     3000,
+     4000
+    ],
+    "bueno": [
+     1500,
+     2500
+    ],
+    "regular": [
+     500,
+     1000
+    ]
+   },
+   "factores": "Es un Hot Wheels básico de 2026, recién salido y fácil de encontrar: nuevo en blíster se vende en Chile a unos $4.000–5.000. Suelto y con uso vale menos. Le suma ser un casting nuevo con licencia Mercedes-Benz y las ruedas combinadas de fábrica; no es Treasure Hunt.",
+   "confianza": "Media"
   }
  ]
 }
