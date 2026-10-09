@@ -3789,6 +3789,42 @@
     "caption": "Hojeando el diccionario: páginas y láminas a color",
     "audio": false
    }
+  },
+  {
+   "id": "RX-117",
+   "nombre": "Teléfono de mesa LM Ericsson de baquelita negra, sin disco (placa ciega), modelo sellado DBH 1605-3 – familia del 'bakelittelefon' DBH 1001",
+   "categoria": "Electrónica / Telefonía",
+   "grupo": "Electrónica retro",
+   "origen": "Telefonaktiebolaget LM Ericsson, Suecia ('MADE IN SWEDEN'). Carcasa del clásico teléfono de baquelita Ericsson diseñado por Jean Heiberg y Johan Christian Bjerknes (línea DBH 1001, producida entre 1931 y 1962). Sello de la base: 'DBH 1605-3' y '27 58', lo que apunta aparentemente a 1958 (el último dígito está parcialmente tapado por óxido)",
+   "materiales": "Carcasa y auricular de baquelita negra, placa frontal ciega de baquelita, base de chapa de acero, cordones textiles/goma",
+   "marcas": "Base metálica: logo 'Ericsson LM' en relieve y 'MADE IN SWEDEN'; sello en tinta 'DBH 1605-3' y debajo '27   58'. Auricular con logo ovalado de Ericsson al centro del mango. Porta-tarjeta frontal para el número (vacío). Sin disco: placa redonda ciega al frente. La designación DBH 1605 no aparece en el catálogo Ericsson de 1939 ni en el archivo de diagramas Ericsson de la TCI Library; según el catálogo, los DBH 1001 para batería central (CB) traían esta placa ciega, que se reemplazaba por un disco al pasar a una central automática, así que lo más probable es que sea una versión para central manual, batería central o sistema interno (sin confirmar)",
+   "estado": "Regular: mucho polvo y suciedad sobre la baquelita; placa ciega con un trozo saltado en el borde; auricular con una trizadura fina cerca de un extremo y el borde de esa copa astillado; ese extremo se ve abierto, sin tapa ni cápsula a la vista (el otro conserva la cápsula con rejilla perforada); óxido y corrosión en la base metálica. Tiene cordón. Funcionamiento no probado",
+   "descripcion": "Teléfono de mesa LM Ericsson de baquelita negra, hecho en Suecia, de la familia del clásico teléfono de baquelita Ericsson (DBH 1001) diseñado por Jean Heiberg y Christian Bjerknes. No tiene disco: al frente lleva una placa redonda ciega, como los modelos para centrales manuales o de batería central, que recibían un disco solo si la línea pasaba a ser automática. La base dice 'DBH 1605-3' y '27 58', lo que apunta aparentemente a 1958. El auricular trae el logo ovalado de Ericsson. Está en estado regular: mucho polvo, un trozo saltado en el borde de la placa, una trizadura fina y el borde astillado en un extremo del auricular, que además se ve sin tapa ni cápsula, y óxido en la base metálica. Tiene cordón; no se ha probado si funciona.",
+   "fotos": [
+    "rx-117-1.jpg",
+    "rx-117-2.jpg",
+    "rx-117-3.jpg",
+    "rx-117-4.jpg",
+    "rx-117-5.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     50000,
+     70000
+    ],
+    "bueno": [
+     30000,
+     45000
+    ],
+    "regular": [
+     12000,
+     20000
+    ]
+   },
+   "factores": "Le suman el diseño icónico del teléfono de baquelita Ericsson, la fabricación sueca y la variante poco común sin disco. Le restan el auricular astillado e incompleto, el borde saltado de la placa, el óxido de la base y que no está probado. Limpio, completo y funcionando valdría bastante más.",
+   "confianza": "Media-baja"
   }
  ]
 }
