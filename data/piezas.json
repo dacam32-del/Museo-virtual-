@@ -4433,19 +4433,19 @@
    "estado_pieza": "Bueno",
    "precios": {
     "excelente": [
-     5000,
-     8000
+     8000,
+     10000
     ],
     "bueno": [
-     3000,
-     5000
+     6000,
+     8000
     ],
     "regular": [
-     1500,
-     3000
+     5000,
+     6000
     ]
    },
-   "factores": "Ficha de casino ya fuera de uso de un hotel icónico de Las Vegas (hoy Virgin Hotels), con un lindo diseño musical. Es común y circulada, así que vale poco. Las variantes raras, como las de guitarra pintada a mano de 2002, valen mucho más, pero esta no es una de ellas.",
+   "factores": "Ficha de casino ya fuera de uso de un hotel icónico de Las Vegas (hoy Virgin Hotels), con un lindo diseño musical. Es común y circulada, así que vale poco. Las variantes raras, como las de guitarra pintada a mano de 2002, valen mucho más, pero esta no es una de ellas. Precio ajustado al mercado chileno según el dueño: en Chile estas fichas se venden en $5.000–10.000 según su estado.",
    "confianza": "Media"
   }
  ]
