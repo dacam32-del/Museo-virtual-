@@ -4335,6 +4335,40 @@
    },
    "factores": "Marca reconocida, Villeroy & Boch, con un sello de posguerra fechable y buscado (Sarre 1947–1956), y una decoración vistosa de aves y flores. Es un plato suelto de vajilla, de valor moderado; se valoran más los juegos.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-132",
+   "nombre": "Petaca de vidrio con funda de cuero negro con costuras en contraste y tapa de aluminio con corona en relieve",
+   "categoria": "Herramientas / Bar",
+   "grupo": "Hogar y herramientas",
+   "origen": "Fabricante y marca sin confirmar. La tapa tiene una corona en relieve que no lleva texto legible, así que no se puede atribuir a ninguna marca de licor (como Crown Royal o Seagram's). Probablemente de mediados del siglo XX, entre los años 50 y 70, por la tapa de aluminio con rosca y el tipo de funda, comparables con petacas vintage similares",
+   "materiales": "Botella plana de vidrio transparente con cuello de rosca; tapa de aluminio; funda de cuero o cuero sintético negro con pespunte blanco o crema y costura central",
+   "marcas": "Corona en relieve en la tapa, sin texto legible. El objeto plateado espejado que aparece en otra foto es una pieza aparte; su texto no se puede leer",
+   "estado": "Regular a bueno: el vidrio y la tapa se ven enteros, con polvo. El cuero está rayado, con bordes despegados o rotos arriba del frente y la costura deshilachada en una esquina inferior",
+   "descripcion": "Petaca de bolsillo de vidrio transparente, con cuello de rosca y tapa de aluminio con una corona en relieve. La mitad inferior va en una funda de cuero negro con pespuntes blancos y costura central. La corona no lleva texto legible, así que la marca queda sin confirmar. Probablemente de mediados del siglo XX (años 50 a 70). El vidrio y la tapa se ven enteros; el cuero está rayado, con bordes rotos arriba del frente y la costura deshilachada en una esquina.",
+   "fotos": [
+    "rx-132-1.jpg",
+    "rx-132-2.jpg",
+    "rx-132-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     18000,
+     26000
+    ],
+    "bueno": [
+     10000,
+     16000
+    ],
+    "regular": [
+     6000,
+     10000
+    ]
+   },
+   "factores": "Petaca vintage clásica y decorativa, de vidrio con funda de cuero cosida. Sin marca identificada su valor es bajo, y lo baja más el daño del cuero (bordes rotos y costura suelta). Una marca legible o una procedencia de licorera subiría su interés.",
+   "confianza": "Media-baja"
   }
  ]
 }
