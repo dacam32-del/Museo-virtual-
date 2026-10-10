@@ -4018,6 +4018,39 @@
    },
    "factores": "Porcelana japonesa de más de 100 años, pintada a mano, con dorado en relieve y sello Nippon identificado (Spoke, c. 1911–1921) en las dos piezas, que forman un juego original. Las tazas Nippon sueltas son comunes y se venden barato, sobre todo en EE. UU.; le resta el desgaste leve del dorado en el asa.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-123",
+   "nombre": "Par de tubos de vacío antiguos para demostraciones de física, de un colegio: tubo de Crookes de rueda de paletas sobre rieles de vidrio y tubo delgado con placa inclinada",
+   "categoria": "Ciencia / Instrumentos",
+   "grupo": "Ciencia e instrumentos",
+   "origen": "Material didáctico de laboratorio de física; según el dueño, provienen de un colegio antiguo. Sin marcas visibles, así que el fabricante y el año no están identificados. Por su factura (vidrio soplado con casquillos metálicos en los electrodos, sin soporte de madera) parecen del tipo escolar del siglo XX, como los que fabricaban casas alemanas como Leybold o Phywe, probablemente de mediados del siglo XX; sin confirmar",
+   "materiales": "Vidrio soplado al vacío, electrodos metálicos con casquillos, rueda de paletas con eje metálico (paletas de lámina metálica o mica) sobre rieles de vidrio",
+   "marcas": "No se ven marcas en las fotos",
+   "estado": "Bueno: el vidrio de ambos tubos se ve entero, sin trizaduras visibles, y la rueda de paletas está completa. No probados: no se sabe si conservan el vacío ni si funcionan",
+   "descripcion": "Par de tubos de vacío antiguos de un laboratorio de física escolar, que según el dueño vienen de un colegio antiguo. El grande es un tubo de Crookes de rueda de paletas: un cilindro ancho con electrodos en brazos laterales con casquillos metálicos y, adentro, una rueda de paletas sobre un eje horizontal que descansa en dos rieles de vidrio. Al aplicarle alto voltaje, los rayos catódicos golpean las paletas y hacen girar y avanzar la rueda, un experimento que William Crookes presentó en 1879. El delgado tiene un electrodo en un extremo, un brazo lateral y una placa metálica inclinada adentro; probablemente es un tubo de demostración de rayos catódicos o de rayos X, sin confirmar. No tienen marcas visibles, así que el fabricante y el año no están identificados. El vidrio se ve entero y la rueda está completa; no están probados. Precaución: son de vidrio con alto vacío y deben manipularse con cuidado; no hay que conectarlos sin conocimientos adecuados, porque al funcionar pueden emitir rayos X.",
+   "fotos": [
+    "rx-123-1.jpg",
+    "rx-123-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     120000,
+     180000
+    ],
+    "bueno": [
+     60000,
+     110000
+    ],
+    "regular": [
+     25000,
+     45000
+    ]
+   },
+   "factores": "Instrumentos históricos de enseñanza de la física, escasos en el mercado chileno; el tubo de rueda de paletas (railway tube) es el modelo más vistoso y buscado. Le suman la procedencia escolar y el vidrio entero. Le restan que no tienen marcas, ni soporte, ni fecha, y que no están probados. Precio por el par; por separado, en estado Bueno, el tubo de rueda de paletas vale aprox. $40.000–70.000 y el tubo delgado $20.000–40.000.",
+   "confianza": "Baja"
   }
  ]
 }
