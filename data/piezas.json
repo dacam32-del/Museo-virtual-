@@ -4414,6 +4414,39 @@
     "caption": "Prueba con pilas: al bajar la palanca cambia la imagen y suena un nuevo audio (voces en inglés y rugidos)",
     "audio": true
    }
+  },
+  {
+   "id": "RX-134",
+   "nombre": "Ficha de tragamonedas de 1 dólar del Hard Rock Hotel, Las Vegas (Nevada), con reverso de notas musicales",
+   "categoria": "Numismática / Joyería",
+   "grupo": "Platería y metales",
+   "origen": "Hard Rock Hotel & Casino, Las Vegas (inaugurado el 10 de marzo de 1995). Las fichas de $1 del Hard Rock Hotel aparecen catalogadas con emisiones de 1995, 1996 y 1997, y las fichas de tragamonedas se dejaron de usar a comienzos de los 2000 al llegar los tickets. Se fecha c. 1995 a comienzos de los 2000. Ceca no confirmada: tiene una pequeña marca de ceca en el reverso, ilegible en la foto",
+   "materiales": "Aleación no magnética de color plateado (tipo cuproníquel o enchapada). Unos 37–38 mm; Numista registra 37,3 mm y 21,8 g para la ficha de $1",
+   "marcas": "Anverso: 'HARD ROCK HOTEL · ONE DOLLAR', '1', logo 'Hard Rock HOTEL' y 'LAS VEGAS, NV.'. Reverso: 'HARD ROCK HOTEL · ONE DOLLAR' con una rueda radial de notas musicales y una pequeña marca de ceca, ilegible",
+   "estado": "Bueno, circulada: desgaste leve, pátina y pequeños rayones",
+   "descripcion": "Ficha de tragamonedas de 1 dólar del Hard Rock Hotel de Las Vegas, Nevada, de unos 37–38 mm y metal plateado. El anverso tiene el logo Hard Rock Hotel, el número 1 y la leyenda 'HARD ROCK HOTEL · ONE DOLLAR'; el reverso, una rueda radial de notas musicales. El hotel abrió en 1995 y las fichas de tragamonedas se dejaron de usar a comienzos de los 2000, así que se fecha en ese período. La ceca no está confirmada. Está circulada, con desgaste leve, pátina y pequeños rayones.",
+   "fotos": [
+    "rx-134-1.jpg",
+    "rx-134-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     5000,
+     8000
+    ],
+    "bueno": [
+     3000,
+     5000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Ficha de casino ya fuera de uso de un hotel icónico de Las Vegas (hoy Virgin Hotels), con un lindo diseño musical. Es común y circulada, así que vale poco. Las variantes raras, como las de guitarra pintada a mano de 2002, valen mucho más, pero esta no es una de ellas.",
+   "confianza": "Media"
   }
  ]
 }
