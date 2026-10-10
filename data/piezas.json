@@ -4743,6 +4743,41 @@
    },
    "factores": "Bandeja publicitaria de una marca italiana conocida, decorativa para un bar o una cocina. Es moderna y de plástico, por eso su valor es bajo.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-143",
+   "nombre": "Lámpara de escritorio Rewere Electric MT287-60 'Deluxe Lamp', amarilla y negra con regulador de intensidad, años 80, funcionando",
+   "categoria": "Iluminación antigua",
+   "grupo": "Hogar y herramientas",
+   "origen": "Rewere Electric (日威牌). Probablemente de los años 80, hecha en Taiwán o Hong Kong por la marca en caracteres chinos tradicionales (sin confirmar; no se encontró información de la marca)",
+   "materiales": "Plástico amarillo y negro. Cuerpo amarillo, pantalla cuadrada oscura orientable con interior color crema, base amarilla con franja negra con el logo REWERE y un módulo negro a la derecha que es el regulador de intensidad (dimmer), marcado 'SWITCH'. Cable eléctrico negro. La ampolleta puesta es LED moderna, no original",
+   "marcas": "Etiqueta en el cuerpo: '18 Q.C. PASSED', 'High Quality', 'DELUXE LAMP 60W MT287-60 50Hz 220V', 'REWERE ELECTRIC'. Etiqueta de advertencia en el interior de la pantalla: 'CAUTION', '日威牌 REWERE', 'AC 50Hz 220V', 'MAX. 60W', 'MT287-60'. 'MT287-60' también en el cuello",
+   "estado": "Bueno: PROBADA Y FUNCIONANDO, con el regulador de intensidad. Tiene polvo y algo de suciedad, más visible en la franja negra de la base y en el exterior de la pantalla. La ampolleta LED actual no es la original",
+   "descripcion": "Lámpara de escritorio de plástico amarillo y negro de la marca Rewere Electric (日威牌), modelo MT287-60 'Deluxe Lamp', de 60 W máximo y 220 V. Tiene una pantalla cuadrada oscura orientable con interior color crema y una base con el logo REWERE y un regulador de intensidad (dimmer) marcado 'SWITCH'. Conserva sus etiquetas '18 Q.C. PASSED / High Quality' y la advertencia en la pantalla. Probablemente de los años 80, hecha en Taiwán o Hong Kong. Está probada y funcionando; tiene polvo y algo de suciedad. La ampolleta LED que tiene puesta es moderna, no original.",
+   "fotos": [
+    "rx-143-1.jpg",
+    "rx-143-2.jpg",
+    "rx-143-3.jpg",
+    "rx-143-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     25000,
+     35000
+    ],
+    "bueno": [
+     15000,
+     22000
+    ],
+    "regular": [
+     8000,
+     12000
+    ]
+   },
+   "factores": "Diseño ochentero llamativo en amarillo y negro, con regulador de intensidad y probada funcionando. Es de plástico y de una marca poco conocida; el polvo baja el precio hasta que se limpie.",
+   "confianza": "Media-baja"
   }
  ]
 }
