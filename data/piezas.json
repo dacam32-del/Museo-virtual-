@@ -495,7 +495,13 @@
     ]
    },
    "factores": "Cómic moderno (2017) de tirada amplia; demanda ligada al personaje.",
-   "confianza": "Media"
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-018.mp4",
+    "poster": "video/rx-018-poster.jpg",
+    "caption": "El cómic en su bolsa: portada y contraportada (tablero de Zmart Comics)",
+    "audio": false
+   }
   },
   {
    "id": "RX-019",
@@ -2479,7 +2485,13 @@
     ]
    },
    "factores": "Cartera vintage de fabricación chilena, con etiqueta y placa de la marca, un color llamativo y la correa original. Es de material sintético y no de una marca de diseñador, y el armazón gastado y oscurecido le resta.",
-   "confianza": "Media-baja"
+   "confianza": "Media-baja",
+   "video": {
+    "src": "video/rx-079.mp4",
+    "poster": "video/rx-079-poster.jpg",
+    "caption": "Detalle: correa, cierre, armazón e interior con la etiqueta de Carteras Italianas",
+    "audio": false
+   }
   },
   {
    "id": "RX-080",
