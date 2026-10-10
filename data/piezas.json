@@ -4643,6 +4643,40 @@
    },
    "factores": "Mini Tonka de metal de los 90, una marca reconocida. Es un juguete de tirada masiva y de valor bajo; le restan valor las saltaduras de pintura y que quizás le falte el brazo del canastillo.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-140",
+   "nombre": "Camión de bomberos Buddy L a pilas con luces y sonido (SLM, 1992), 27 cm, probado y funcionando",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Buddy L, marca que en esa época era de SLM International; base '© 1992 SLM INC. MADE IN CHINA'.. Según el dueño, llegó así, tal como se ve en las fotos",
+   "materiales": "Plástico rojo, parrilla y parachoques cromados, barra de luces roja con la marca 'BUDDY L', escudo de bomberos con el '7', ruedas de goma con llantas cromadas. Funciona con pilas (compartimento con resortes en la base). Mide unos 27 cm de largo",
+   "marcas": "'BUDDY L' en la barra de luces; 'LADDER' al frente; escudo con '7'; base '© 1992 SLM INC. MADE IN CHINA'",
+   "estado": "Bueno: PROBADO Y FUNCIONANDO, con luces y sonido. Le falta solo la tapa del compartimento de pilas. Cromado del parachoques gastado, parabrisas rayado y algo de suciedad",
+   "descripcion": "Camión de bomberos Buddy L de plástico, a pilas, con luces y sonido, de 1992 (base '© 1992 SLM INC. MADE IN CHINA'), de unos 27 cm de largo. Tiene barra de luces roja con la marca 'BUDDY L', parrilla y parachoques cromados, escudo de bomberos con el '7' y la palabra 'LADDER' al frente. PROBADO Y FUNCIONANDO: encienden las luces y suena. Solo le falta la tapa de las pilas. Está en buen estado: cromado del parachoques gastado, parabrisas rayado y algo de suciedad.",
+   "fotos": [
+    "rx-140-1.jpg",
+    "rx-140-2.jpg",
+    "rx-140-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     15000,
+     22000
+    ],
+    "bueno": [
+     8000,
+     14000
+    ],
+    "regular": [
+     4000,
+     7000
+    ]
+   },
+   "factores": "Juguete Buddy L de los 90 con luces y sonido que funcionan (probado). Le restan valor que falte la tapa de las pilas y el desgaste del cromado.",
+   "confianza": "Media"
   }
  ]
 }
