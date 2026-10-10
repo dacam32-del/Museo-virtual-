@@ -4797,19 +4797,19 @@
    "estado_pieza": "Regular",
    "precios": {
     "excelente": [
+     12000,
+     16000
+    ],
+    "bueno": [
      8000,
      12000
     ],
-    "bueno": [
+    "regular": [
      5000,
      8000
-    ],
-    "regular": [
-     2500,
-     4000
     ]
    },
-   "factores": "Personaje popular de X-Men y figura de los 90, pero las Bend-Ems sueltas valen poco y esta tiene bastante pintura saltada.",
+   "factores": "Personaje popular de X-Men y figura de los 90, pero las Bend-Ems sueltas valen poco y esta tiene bastante pintura saltada. Precio ajustado al mercado local chileno para figuras de los años 90.",
    "confianza": "Media-baja"
   },
   {
@@ -4830,19 +4830,19 @@
    "estado_pieza": "Regular",
    "precios": {
     "excelente": [
+     12000,
+     16000
+    ],
+    "bueno": [
      8000,
      12000
     ],
-    "bueno": [
+    "regular": [
      5000,
      8000
-    ],
-    "regular": [
-     2000,
-     3500
     ]
    },
-   "factores": "Villano clásico de X-Men en una figura de 1991, pero suelta y con pintura saltada, una mano y los pies gastados y una grieta en la espalda, así que vale poco.",
+   "factores": "Villano clásico de X-Men en una figura de 1991, pero suelta y con pintura saltada, una mano y los pies gastados y una grieta en la espalda, así que vale poco. Precio ajustado al mercado local chileno para figuras de los años 90.",
    "confianza": "Media-baja"
   },
   {
