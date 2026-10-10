@@ -4195,6 +4195,43 @@
    },
    "factores": "Juguete de radiocontrol de gama juguete con licencia Chevrolet, de buen tamaño y vistoso. No es una pieza de colección. Se tasa sin control remoto y sin probar, como pieza decorativa o para repuestos; si se confirma que funciona, el precio sube.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-128",
+   "nombre": "Máquina de escribir portátil manual Panatronic 747TF, color crema, teclado en español con Ñ, con maletín",
+   "categoria": "Máquinas antiguas",
+   "grupo": "Hogar y herramientas",
+   "origen": "Marca Panatronic, que revendía máquinas de otros fabricantes. El modelo 747TF corresponde a la Clover 747TF de K-Mek Inc. (Corea del Sur), clon de las portátiles Silver-Seiko de Japón: Silver-Seiko vendió sus herramientas de fabricación a Corea en 1978 y K-Mek empezó a fabricar máquinas de escribir el 4 de abril de 1978. Probablemente de fines de los años 70 a los 80 (sin número de serie verificado)",
+   "materiales": "Carcasa de plástico crema, mecanismo de acero, rodillo de goma, teclas de plástico negro con una tecla TAB roja. Maletín con cierre de cremallera, forrado en tela roja",
+   "marcas": "Logo 'PANATRONIC' y '747TF' en el frente; teclado QWERTY español con Ñ, ¿, ¡ y ½; etiqueta 'H/L' al costado izquierdo; tecla TAB roja",
+   "estado": "Bueno: carcasa entera, con sus dos carretes y cinta y su maletín. Tiene polvo y restos en el hueco del teclado, suciedad y algo de óxido superficial en el carro, y manchas en el forro del maletín. PROBADA Y FUNCIONANDO: escribe bien (confirmado por el dueño)",
+   "descripcion": "Máquina de escribir portátil manual Panatronic 747TF, de carcasa color crema, con teclado QWERTY en español (Ñ, ¿, ¡), tecla TAB roja, carretes con cinta y maletín con cierre de cremallera forrado en rojo. El modelo 747TF es la Clover 747TF que fabricaba K-Mek en Corea del Sur desde 1978, un clon de las portátiles japonesas Silver-Seiko (Silver Reed) hecho con sus herramientas; Panatronic la vendía con su propia marca. Probablemente de fines de los 70 o de los 80. Está completa y en buen estado, con polvo en el teclado, algo de óxido superficial en el carro y manchas en el forro del maletín. Está probada y funcionando: escribe bien.",
+   "fotos": [
+    "rx-128-1.jpg",
+    "rx-128-2.jpg",
+    "rx-128-3.jpg",
+    "rx-128-4.jpg",
+    "rx-128-5.jpg",
+    "rx-128-6.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     55000,
+     75000
+    ],
+    "bueno": [
+     40000,
+     55000
+    ],
+    "regular": [
+     20000,
+     35000
+    ]
+   },
+   "factores": "Portátil completa con su maletín y teclado en español, de diseño setentero, derivada de una Silver-Seiko. Es una marca menor y un clon coreano, con menos demanda que Olivetti, Facit u Olympia. Está probada y funcionando, lo que la deja lista para usar.",
+   "confianza": "Media"
   }
  ]
 }
