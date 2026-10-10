@@ -4710,6 +4710,39 @@
    },
    "factores": "Recuerdo del Mundial España 82. Es una moneda muy común (se acuñaron más de 250 millones entre las tres estrellas) y de valor muy bajo; ninguna de las tres estrellas es rara. Vale algo más sin circular.",
    "confianza": "Alta"
+  },
+  {
+   "id": "RX-142",
+   "nombre": "Bandeja promocional de bar Averna (amaro italiano), plástico amarillo, 27 cm",
+   "categoria": "Publicidad / Bar",
+   "grupo": "Publicidad y souvenirs",
+   "origen": "Artículo promocional de Fratelli Averna (Caltanissetta, Italia). Moderna, probablemente de los años 2000 o 2010; no es antigua",
+   "materiales": "Plástico amarillo con estampado; base antideslizante de goma negra. Diámetro aproximado 27 cm (según el dueño)",
+   "marcas": "Cara: 'Fratelli Averna – Caltanissetta Italia', 'AVERNA' en rojo sobre franja blanca, cinco medallas de exposiciones y 'Salvatore Averna dal 1868'. Borde: 'AVERNA' repetido",
+   "estado": "Bueno: el plástico y el estampado están bien; la goma de la base tiene polvo y suciedad (se limpiará antes de la venta). La foto del reverso fue limpiada digitalmente del polvo de la goma; la foto del frente no está editada",
+   "descripcion": "Bandeja redonda promocional de bar del amaro italiano Averna, en plástico amarillo, de unos 27 cm de diámetro. En la cara tiene 'Fratelli Averna – Caltanissetta Italia', 'AVERNA' en rojo sobre una franja blanca, cinco medallas de exposiciones y 'Salvatore Averna dal 1868'; el borde repite 'AVERNA'. Por debajo tiene una base antideslizante de goma negra. Es una pieza moderna (años 2000–2010), no antigua. El plástico está en buen estado; la goma tiene polvo y se limpiará antes de la venta. La foto del reverso fue limpiada digitalmente del polvo; la del frente no está editada.",
+   "fotos": [
+    "rx-142-1.jpg",
+    "rx-142-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     10000,
+     14000
+    ],
+    "bueno": [
+     6000,
+     9000
+    ],
+    "regular": [
+     3000,
+     5000
+    ]
+   },
+   "factores": "Bandeja publicitaria de una marca italiana conocida, decorativa para un bar o una cocina. Es moderna y de plástico, por eso su valor es bajo.",
+   "confianza": "Media-baja"
   }
  ]
 }
