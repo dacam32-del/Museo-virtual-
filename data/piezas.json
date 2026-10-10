@@ -4338,18 +4338,20 @@
   },
   {
    "id": "RX-132",
-   "nombre": "Petaca de metal con forro de cuero negro con costuras en contraste y tapa de rosca con corona en relieve",
+   "nombre": "Petaca de bolsillo de vidrio transparente con funda de cuero negro removible y tapa metálica de rosca con corona en relieve",
    "categoria": "Herramientas / Bar",
    "grupo": "Hogar y herramientas",
-   "origen": "Fabricante y marca sin confirmar. La tapa tiene una corona en relieve que no lleva texto legible, así que no se puede atribuir a ninguna marca de licor (como Crown Royal o Seagram's). Probablemente de mediados del siglo XX, entre los años 50 y 70, por el estilo de la tapa de rosca y del forro de cuero cosido, comparables con petacas vintage similares",
-   "materiales": "Cuerpo plano entero de metal brillante o pulido (el metal exacto no está confirmado: puede ser aluminio, metal niquelado o cromado, acero o peltre), con cuello de rosca y tapa metálica; forro de cuero o cuero sintético negro con pespunte blanco o crema y costura central",
-   "marcas": "Corona en relieve en la tapa, sin texto legible. El objeto plateado espejado que aparece en otra foto es una pieza aparte; su texto no se puede leer",
-   "estado": "Regular a bueno: el cuerpo de metal y la tapa se ven enteros, con polvo. El cuero está rayado, con bordes despegados o rotos arriba del frente y la costura deshilachada en una esquina inferior",
-   "descripcion": "Petaca de bolsillo de metal con forro de cuero: cuerpo plano entero de metal brillante, con cuello de rosca y tapa metálica con una corona en relieve. La mitad inferior va forrada en cuero negro con pespuntes blancos y costura central. El metal exacto no está confirmado, y la corona no lleva texto legible, así que la marca tampoco. Probablemente de mediados del siglo XX (años 50 a 70). El metal y la tapa se ven enteros; el cuero está rayado, con bordes rotos arriba del frente y la costura deshilachada en una esquina.",
+   "origen": "Fabricante y marca sin confirmar. La única marca es una corona estilizada en relieve en la tapa, sin letras ni texto, así que no se puede atribuir con seguridad a ninguna marca de licor (como Crown Royal o Seagram's) ni a un fabricante. Probablemente de mediados del siglo XX, entre los años 50 y 70, por la tapa metálica de rosca y el tipo de funda, comparables con petacas vintage similares",
+   "materiales": "Botella plana de vidrio transparente con cuello de rosca; tapa metálica de rosca; funda o protector removible de cuero negro, abierta arriba, con pespunte blanco o crema y costura central. Por dentro se ve el lado de gamuza o carne del cuero y un disco claro en el fondo",
+   "marcas": "Corona estilizada en relieve en la tapa, sin texto: es la única marca. El objeto plateado espejado que aparece en otra foto es una pieza aparte; su texto no se puede leer",
+   "estado": "Regular a bueno: el vidrio está entero, con polvo, y la tapa tiene puntitos leves de óxido. La funda de cuero está rayada, con bordes despegados o rotos arriba del frente, un pequeño agujero o rotura en un costado y la costura deshilachada en una esquina inferior",
+   "descripcion": "Petaca de bolsillo de vidrio transparente, con cuello de rosca y tapa metálica de rosca con una corona estilizada en relieve, su única marca. Va dentro de una funda o protector removible de cuero negro, abierta arriba, con pespuntes blancos y costura central; por dentro se ve el lado de gamuza del cuero y un disco claro en el fondo. La corona no lleva letras, así que la marca queda sin confirmar. Probablemente de mediados del siglo XX (años 50 a 70). El vidrio está entero y la tapa tiene puntitos leves de óxido. La funda está rayada, con bordes rotos arriba del frente, un pequeño agujero en un costado y la costura deshilachada en una esquina.",
    "fotos": [
     "rx-132-1.jpg",
     "rx-132-2.jpg",
-    "rx-132-3.jpg"
+    "rx-132-3.jpg",
+    "rx-132-4.jpg",
+    "rx-132-5.jpg"
    ],
    "tasado": true,
    "estado_pieza": "Regular",
@@ -4367,7 +4369,7 @@
      10000
     ]
    },
-   "factores": "Petaca vintage clásica, de metal con forro de cuero cosido, más resistente que las de vidrio. Sin marca identificada su valor es bajo, y lo baja más el daño del cuero (bordes rotos y costura suelta). Una marca legible o una procedencia de licorera subiría su interés.",
+   "factores": "Petaca vintage clásica y decorativa, de vidrio con funda de cuero cosida y removible. Sin marca identificada su valor es bajo, y lo baja más el daño del cuero (bordes rotos, agujero en un costado y costura suelta). Una marca legible o una procedencia de licorera subiría su interés.",
    "confianza": "Media-baja"
   }
  ]
