@@ -4481,6 +4481,46 @@
    },
    "factores": "Taxímetro mecánico japonés completo con su bandera 'LIBRE' esmaltada, la parte más buscada, con su cable de transmisión original (otro punto a favor) y esfera en español para Latinoamérica: una pieza muy atractiva para coleccionistas de automovilia. Funciona según el dueño. Le restan valor el óxido, las abolladuras y el descascarado de la esfera.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-136",
+   "nombre": "Libro 'El alud' de Victor Canning (título original 'The Chasm'), Editorial Jackson, Buenos Aires, 1948",
+   "categoria": "Libros y papeles",
+   "grupo": "Libros y papeles",
+   "origen": "Editorial Jackson de Ediciones Selectas S.R.L., Buenos Aires. Primera edición en español de 1948 (copyright 1947), con traducción de Josefina Martínez Alinari. La novela original es 'The Chasm' (1947), del escritor inglés Victor Canning (1911–1986). No se encontró a qué colección de Jackson pertenece",
+   "materiales": "Tapa dura de tela o papel azul texturado con lomo de tela azul claro; papel de época. Al menos 263 páginas; otro ejemplar de la misma edición figura con 319 (por confirmar)",
+   "marcas": "Portadilla: 'VICTOR CANNING / EL ALUD / EDITORIAL JACKSON DE EDICIONES SELECTAS S. R. L. / BUENOS AIRES'. Tiene un sello de un dueño anterior en la portadilla, pixelado en la foto publicada. Hay pequeñas anotaciones numéricas a lápiz en una página",
+   "estado": "Bueno para su edad: lomo desteñido y gastado en la cabeza, papel tostado de forma pareja, encuadernación firme, sin roturas en las páginas que se ven, y un sello de un dueño anterior en la portadilla. El fondo de las fotos fue retocado digitalmente (fondo blanco); el libro no fue alterado",
+   "descripcion": "'El alud', novela de suspenso del escritor inglés Victor Canning (1911–1986), en la edición de la Editorial Jackson de Ediciones Selectas de Buenos Aires de 1948, traducida por Josefina Martínez Alinari. El original en inglés es 'The Chasm' (1947). Es de tapa dura, en tela o papel azul texturado con lomo de tela azul claro. Está en buen estado para su edad: lomo desteñido y gastado en la cabeza, papel tostado parejo, encuadernación firme y sin roturas en las páginas que se ven. Tiene en la portadilla el sello de un dueño anterior (pixelado en la foto). El fondo de las fotos fue retocado digitalmente; el libro no fue alterado.",
+   "fotos": [
+    "rx-136-1.jpg",
+    "rx-136-2.jpg",
+    "rx-136-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     10000,
+     15000
+    ],
+    "bueno": [
+     6000,
+     10000
+    ],
+    "regular": [
+     3000,
+     5000
+    ]
+   },
+   "factores": "Primera edición en español (Jackson, 1948) de un thriller de un autor inglés reconocido, ambientado en Italia en la posguerra. Las ediciones antiguas de Jackson son comunes y de valor bajo; el sello de un dueño anterior y el lomo gastado restan algo.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-136.mp4",
+    "poster": "video/rx-136-poster.jpg",
+    "caption": "Hojeando las páginas 198–200: papel parejo y encuadernación firme",
+    "audio": false
+   }
   }
  ]
 }
