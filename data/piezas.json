@@ -4267,6 +4267,41 @@
    },
    "factores": "Villano clásico de la serie animada de Spider-Man de los 90, en formato grande de 10 pulgadas, menos común que el de 5 pulgadas. Le restan valor estar suelta, sin la cola ni la bata, y el desgaste de pintura en la espalda. Excelente corresponde a una figura completa con su cola.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-130",
+   "nombre": "Muñeca de porcelana de colección moderna, pelo rubio rojizo rizado y vestido de encaje marfil (no es antigua)",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Muñeca decorativa de producción masiva, del tipo Seymour Mann, Collectible Memories o Heritage Mint, de los años 80 a 2000. Fabricante sin identificar: no se conoce marca. NO es una antigüedad",
+   "materiales": "Cabeza y manos de porcelana pintada, cuerpo de tela relleno (se presume), peluca sintética, vestido de encaje, pololos de tela y zapatos de vinilo. Alto estimado 35–40 cm según las fotos (por confirmar)",
+   "marcas": "Ninguna conocida; falta revisar la nuca",
+   "estado": "Bueno: porcelana sin quebraduras visibles. Tiene pequeñas pintas oscuras en la cara (polvo o motas de horno), manchitas claras y polvo en el encaje, y roces en los zapatos",
+   "descripcion": "Muñeca de porcelana de colección, de unos 35–40 cm (por confirmar), con cabeza y manos de porcelana, ojos azules con pestañas, peluca rizada rubio rojizo, vestido de encaje marfil con mangas abullonadas y adorno de perlitas en la cintura, pololos blancos y zapatos crema. Es una muñeca decorativa moderna de producción masiva, de los años 80 a 2000, al estilo de Seymour Mann o Heritage Mint; no es una antigüedad. Está en buen estado, con pequeñas pintas oscuras en la cara, algo de polvo y manchitas en el encaje y roces en los zapatos.",
+   "fotos": [
+    "rx-130-1.jpg",
+    "rx-130-2.jpg",
+    "rx-130-3.jpg",
+    "rx-130-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     15000,
+     22000
+    ],
+    "bueno": [
+     8000,
+     14000
+    ],
+    "regular": [
+     4000,
+     7000
+    ]
+   },
+   "factores": "Muñeca decorativa moderna y bonita, con vestido completo de encaje, pelo rizado y ojos con pestañas. Es de producción masiva y hay mucha oferta, así que vale poco; una marca o un certificado en la nuca podría subir algo el precio.",
+   "confianza": "Media"
   }
  ]
 }
