@@ -4128,6 +4128,40 @@
    },
    "factores": "Figura simpática y bien terminada de artesanía en madera, con el tema llamativo del pintor Picasso. Le restan que no se conoce el fabricante ni la función, y el desgaste leve de la pintura. Su valor es decorativo.",
    "confianza": "Baja"
+  },
+  {
+   "id": "RX-126",
+   "nombre": "Posabotellas de vino de metal fundido tipo peltre, Carson (Freeport, Pensilvania), 'A day without wine is like a day without sunshine'",
+   "categoria": "Metal / Peltre",
+   "grupo": "Platería y metales",
+   "origen": "Carson, de Freeport, Pensilvania, EE. UU. Su fundador, Harry Carson, ya tenía 'Carson Casting' en 1973 y Carson Industries Inc. figura constituida en 1978 (hoy Carson Home Accents). Probablemente de los años 70 a 90",
+   "materiales": "Metal fundido de aspecto peltre. Carson fabricaba su 'peltre' sobre todo en Statesmetal, una aleación a base de aluminio y no peltre de estaño; esta pieza no dice 'pewter', así que la aleación exacta no está confirmada",
+   "marcas": "Borde con letras en relieve: 'A DAY WITHOUT WINE IS LIKE A DAY WITHOUT SUNSHINE'. Base: '— CARSON — FREEPORT, PA.' y un logo circular (posiblemente 'CH' o similar); restos de una etiqueta de papel o cinta",
+   "estado": "Bueno: pátina opaca y desgaste leve del uso; restos de cinta o etiqueta en la base",
+   "descripcion": "Posabotellas o platito redondo de metal fundido con aspecto de peltre, de borde ancho con la frase en relieve 'A DAY WITHOUT WINE IS LIKE A DAY WITHOUT SUNSHINE' ('un día sin vino es como un día sin sol'). En la base está marcado '— CARSON — FREEPORT, PA.', con un logo circular: es de Carson, la fundición de objetos de regalo de Freeport, Pensilvania, activa desde los años 70, y probablemente de los años 70 a 90. Carson hacía su 'peltre' sobre todo en una aleación de aluminio (Statesmetal), así que probablemente no es peltre de estaño. Está en buen estado, con pátina opaca, desgaste leve y restos de una etiqueta en la base.",
+   "fotos": [
+    "rx-126-1.jpg",
+    "rx-126-2.jpg",
+    "rx-126-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     14000,
+     20000
+    ],
+    "bueno": [
+     8000,
+     14000
+    ],
+    "regular": [
+     4000,
+     7000
+    ]
+   },
+   "factores": "Objeto de regalo estadounidense de fabricante identificado, con una frase simpática sobre el vino. Es una pieza común y de producción en serie, probablemente de aleación de aluminio y no de peltre de estaño: su valor es bajo y decorativo.",
+   "confianza": "Media"
   }
  ]
 }
