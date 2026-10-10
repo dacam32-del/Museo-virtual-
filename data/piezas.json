@@ -4162,6 +4162,39 @@
    },
    "factores": "Objeto de regalo estadounidense de fabricante identificado, con una frase simpática sobre el vino. Es una pieza común y de producción en serie, probablemente de aleación de aluminio y no de peltre de estaño: su valor es bajo y decorativo.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-127",
+   "nombre": "Camioneta monster truck a radiocontrol Chevy Silverado Z71 1500 (licencia 1999), color champaña, aprox. 30 cm, probablemente EZTEC / Scientific Toys, sin control remoto",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Probablemente EZTEC (Scientific Toys Ltd., Hong Kong); el copyright del chasis está borroso. Hecha en China, con licencia de la Chevy Silverado 1999; fabricada alrededor de 1999 a 2000s",
+   "materiales": "Carrocería de plástico color champaña o dorado, chasis de plástico, resortes helicoidales metálicos, neumáticos de goma Goodyear. Largo aprox. 30 cm",
+   "marcas": "Calcomanías 'CHEVROLET' en el parabrisas, 'SILVERADO 1500' y 'Z71'. En los neumáticos: 'GOODYEAR'. En el chasis: '1999 Chevy Silverado used under license', '© ... TOYS LTD / MADE IN CHINA' (borroso, probablemente Scientific Toys Ltd.) y una tapa de pilas con la marca 'OPEN'",
+   "estado": "Bueno: completa a la vista, con barra de 3 luces, resortes y neumáticos Goodyear en buen estado. Tiene polvo, pintura gastada y suciedad con algo de óxido en el chasis y los resortes. NO TIENE CONTROL REMOTO y no se ha probado si funciona",
+   "descripcion": "Camioneta monster truck a radiocontrol, reproducción de la Chevy Silverado Z71 1500 en color champaña, de unos 30 cm de largo, con neumáticos Goodyear, barra de tres luces y suspensión de resortes. En el chasis dice '1999 Chevy Silverado used under license' y 'Made in China'; el copyright está borroso y probablemente corresponde a Scientific Toys Ltd. (marca EZTEC). Es un juguete de radiocontrol, no un modelo de colección. Se vende SIN control remoto y sin probar: el precio corresponde a pieza decorativa o para repuestos y sube si se confirma que funciona. Está completa a la vista, con polvo, desgaste y algo de óxido en el chasis.",
+   "fotos": [
+    "rx-127-1.jpg",
+    "rx-127-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     12000,
+     18000
+    ],
+    "bueno": [
+     8000,
+     12000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Juguete de radiocontrol de gama juguete con licencia Chevrolet, de buen tamaño y vistoso. No es una pieza de colección. Se tasa sin control remoto y sin probar, como pieza decorativa o para repuestos; si se confirma que funciona, el precio sube.",
+   "confianza": "Media"
   }
  ]
 }
