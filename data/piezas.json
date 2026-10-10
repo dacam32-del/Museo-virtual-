@@ -4093,6 +4093,41 @@
     "caption": "Segundo grabado a contraluz: 'EXPEDITE / J. G. BROWN OWNER / MIDNAPORE'",
     "audio": false
    }
+  },
+  {
+   "id": "RX-125",
+   "nombre": "Figura de madera torneada y pintada de un pintor, 'klein Picasso', con boina, paleta y boca abierta (función no confirmada)",
+   "categoria": "Souvenirs / Decoración",
+   "grupo": "Publicidad y souvenirs",
+   "origen": "Probablemente alemana: 'klein Picasso' significa 'pequeño Picasso' en alemán. El estilo, de madera torneada con piezas pintadas y brazos de tarugo con pasadores, es el de la artesanía en madera alemana o escandinava de los años 60–70. Fabricante y función no identificados: no encontré esta figura en catálogos ni en ventas",
+   "materiales": "Madera torneada, barnizada y pintada; brazos de tarugo con pasadores metálicos",
+   "marcas": "En la tabla abisagrada del brazo: espiral, cuadrados y la leyenda 'klein Picasso'. No se ve marca de fabricante",
+   "estado": "Bueno: pintura algo gastada en los pies verdes y pequeños saltados en la boina; una pequeña saltadura en la esquina de la tabla del brazo; la madera barnizada del cuerpo está bien conservada",
+   "descripcion": "Figura de madera torneada y pintada de un pintor, con boina azul, nariz de bolita, bigote pintado, orejas rojas y una gran boca abierta que da a su cuerpo hueco. Los brazos son tarugos que giran: en uno lleva una paleta con manchas de pintura y en el otro una tabla abisagrada decorada con una espiral, cuadrados y la leyenda 'klein Picasso' ('pequeño Picasso' en alemán). Las piernas son tarugos rojos y los pies están pintados de verde. Probablemente es una pieza alemana de los años 60 o 70; no tiene marca visible y no pude confirmar su función: podría ser un sahumador tipo Räuchermann o un dispensador. Está en buen estado, con algo de desgaste en la pintura de los pies y pequeños saltados en la boina y en la tabla.",
+   "fotos": [
+    "rx-125-1.jpg",
+    "rx-125-2.jpg",
+    "rx-125-3.jpg",
+    "rx-125-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     30000
+    ],
+    "bueno": [
+     12000,
+     20000
+    ],
+    "regular": [
+     6000,
+     10000
+    ]
+   },
+   "factores": "Figura simpática y bien terminada de artesanía en madera, con el tema llamativo del pintor Picasso. Le restan que no se conoce el fabricante ni la función, y el desgaste leve de la pintura. Su valor es decorativo.",
+   "confianza": "Baja"
   }
  ]
 }
