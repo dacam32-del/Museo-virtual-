@@ -4374,23 +4374,24 @@
   },
   {
    "id": "RX-133",
-   "nombre": "Visor Talking View-Master 3-D de Tyco (1997), edición The Lost World: Jurassic Park, con disco",
+   "nombre": "Visor Talking View-Master 3-D de Tyco (1997), edición The Lost World: Jurassic Park, con disco, probado y funcionando con sonido",
    "categoria": "Juguetes",
    "grupo": "Juguetes y coleccionables",
    "origen": "Tyco Industries Inc. (EE. UU.), hecho en China en 1997. Es el visor parlante (Talking View-Master), que reproduce audio desde el disco y funciona a pilas; trae la etiqueta de The Lost World: Jurassic Park (TM & © 1997 U.C.S. & Amblin)",
    "materiales": "Plástico rojo, blanco y negro; lentes de plástico; funciona a pilas",
    "marcas": "'Talking View-Master 3-D Viewer' en el frente; etiqueta 'THE LOST WORLD Jurassic Park' con 'TM & ©1997 U.C.S. & AMBLIN'; atrás, '© 1997 TYCO Industries Inc. Made in China' y una tapa marcada 'OPEN'",
-   "estado": "Bueno: tiene polvo, rayones leves y algo de suciedad en los botones blancos. La óptica funciona: a través del lente se ven las imágenes de dinosaurios del disco de The Lost World que trae puesto. La función parlante (sonido) NO está confirmada",
-   "descripcion": "Visor Talking View-Master 3-D de Tyco, de 1997, en rojo, blanco y negro. Es la versión parlante, a pilas, que reproduce audio desde el disco, y lleva en el frente la etiqueta de The Lost World: Jurassic Park (TM & ©1997 U.C.S. & Amblin). Atrás está marcado '© 1997 TYCO Industries Inc. Made in China'. La óptica funciona: a través del lente se ven en 3D los dinosaurios del disco de The Lost World que trae puesto, incluido un estegosaurio. La función de sonido no está confirmada. Está en buen estado, con polvo, rayones leves y algo de suciedad en los botones blancos.",
+   "estado": "Excelente en lo funcional: PROBADO Y FUNCIONANDO con pilas. La palanca avanza las imágenes y en cada bajada suena un audio nuevo, claro y fuerte, sin distorsión (voces de los personajes en inglés y rugidos de dinosaurio). La óptica funciona. El compartimento de 2 pilas está limpio, sin óxido en los resortes, y conserva el adhesivo de control de calidad 'PASSED' de fábrica. En lo estético tiene rayones leves, polvo, algo de suciedad en los botones blancos y la etiqueta de The Lost World algo desteñida y despegándose en un borde",
+   "descripcion": "Visor Talking View-Master 3-D de Tyco, de 1997, en rojo, blanco y negro, con la etiqueta de The Lost World: Jurassic Park (TM & ©1997 U.C.S. & Amblin) en el frente y la marca '© 1997 TYCO Industries Inc. Made in China' atrás. Está probado y funcionando con pilas: al bajar la palanca cambia la imagen en 3D y suena un audio nuevo, claro y fuerte, con voces de los personajes en inglés y rugidos de dinosaurio. Trae puesto un disco de The Lost World con dinosaurios, entre ellos un estegosaurio. El compartimento de 2 pilas está limpio, sin óxido, y conserva el adhesivo de fábrica 'PASSED'. En lo estético tiene rayones leves, algo de suciedad en los botones y la etiqueta de The Lost World un poco desteñida y despegándose en un borde.",
    "fotos": [
     "rx-133-1.jpg",
     "rx-133-2.jpg",
     "rx-133-3.jpg",
     "rx-133-4.jpg",
-    "rx-133-5.jpg"
+    "rx-133-5.jpg",
+    "rx-133-6.jpg"
    ],
    "tasado": true,
-   "estado_pieza": "Bueno",
+   "estado_pieza": "Excelente",
    "precios": {
     "excelente": [
      20000,
@@ -4405,8 +4406,14 @@
      10000
     ]
    },
-   "factores": "View-Master noventero de Jurassic Park, con licencia de The Lost World (1997), muy nostálgico para coleccionistas de los 90. Los discos de The Lost World suman valor. Se tasa con la óptica probada pero el sonido sin confirmar; si suena y el compartimento de pilas está limpio, el precio va hacia Excelente.",
-   "confianza": "Media"
+   "factores": "View-Master noventero de Jurassic Park, con licencia de The Lost World (1997), muy nostálgico para coleccionistas de los 90. Está probado con sonido funcionando y el compartimento de pilas está limpio, lo que es poco común en estos visores parlantes. El disco de The Lost World suma valor. Se tasa como Excelente por estar plenamente funcional, con rayones leves y la etiqueta algo gastada.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-133.mp4",
+    "poster": "video/rx-133-poster.jpg",
+    "caption": "Prueba con pilas: al bajar la palanca cambia la imagen y suena un nuevo audio (voces en inglés y rugidos)",
+    "audio": true
+   }
   }
  ]
 }
