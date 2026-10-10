@@ -4778,6 +4778,105 @@
    },
    "factores": "Diseño ochentero llamativo en amarillo y negro, con regulador de intensidad y probada funcionando. Es de plástico y de una marca poco conocida; el polvo baja el precio hasta que se limpie.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-144",
+   "nombre": "Figura flexible de Cíclope (X-Men), Just Toys 'Bend-Ems', 1993",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Just Toys (Nueva York), con licencia de Marvel, hecha en China. Línea de figuras flexibles 'Bend-Ems' de comienzos de los 90; la marca dice 1993",
+   "materiales": "PVC flexible con alambre interior. Traje azul con banda blanca en X, guantes y botas blancas, visor amarillo con franja roja. Unos 15 cm (medida típica de la línea, por confirmar)",
+   "marcas": "Espalda: 'CYCLOPS © 1993 MARVEL JUST TOYS NY LIC MADE IN CHINA'",
+   "estado": "Regular: saltaduras de pintura y marcas celeste claro en el azul, algo de suciedad",
+   "descripcion": "Figura flexible de Cíclope, de X-Men, de la línea 'Bend-Ems' de Just Toys, con licencia de Marvel. Tiene traje azul con una banda blanca en X, guantes y botas blancas y su visor amarillo. La espalda dice 'CYCLOPS © 1993 MARVEL JUST TOYS NY LIC MADE IN CHINA'. Tiene alambre por dentro, así que se puede doblar y dejar en distintas poses. Estado regular: saltaduras de pintura, marcas celestes en el azul y algo de suciedad.",
+   "fotos": [
+    "rx-144-1.jpg",
+    "rx-144-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     5000,
+     8000
+    ],
+    "regular": [
+     2500,
+     4000
+    ]
+   },
+   "factores": "Personaje popular de X-Men y figura de los 90, pero las Bend-Ems sueltas valen poco y esta tiene bastante pintura saltada.",
+   "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-145",
+   "nombre": "Figura flexible de Magneto (X-Men), Just Toys 'Bend-Ems', 1991",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Just Toys (Nueva York), con licencia de Marvel, hecha en China. Línea 'Bend-Ems' de 1991",
+   "materiales": "PVC flexible con alambre interior. Traje rojo con calzón, botas, guantes, cuello y casco morados. Unos 15 cm (medida típica de la línea, por confirmar)",
+   "marcas": "Espalda: 'MAGNETO © 1991 MARVEL JUST TOYS NY LIC MADE IN CHINA'",
+   "estado": "Regular: la pintura morada se está saltando en el calzón y las botas, pies y una mano gastados, pequeños agujeros y una grieta fina en la espalda, y suciedad",
+   "descripcion": "Figura flexible de Magneto, de X-Men, de la línea 'Bend-Ems' de Just Toys, de 1991, con licencia de Marvel. Tiene traje rojo con casco, cuello, guantes, calzón y botas morados. La espalda dice 'MAGNETO © 1991 MARVEL JUST TOYS NY LIC MADE IN CHINA'. Estado regular: la pintura morada se está saltando en el calzón y las botas, los pies y una mano están gastados, tiene pequeños agujeros y una grieta fina en la espalda, y está sucia.",
+   "fotos": [
+    "rx-145-1.jpg",
+    "rx-145-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     5000,
+     8000
+    ],
+    "regular": [
+     2000,
+     3500
+    ]
+   },
+   "factores": "Villano clásico de X-Men en una figura de 1991, pero suelta y con pintura saltada, una mano y los pies gastados y una grieta en la espalda, así que vale poco.",
+   "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-146",
+   "nombre": "Figura flexible de Batman (estilo Batman: La Serie Animada), NJ Croce, 2015",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "NJ Croce (EE.UU.), con licencia de DC Comics, hecha en China. Moderna: la marca '(s15)' indica 2015; no es antigua",
+   "materiales": "PVC flexible con alambre interior y capa de tela negra. Diseño de Batman: La Serie Animada: traje gris, capucha, guantes y botas negras, cinturón amarillo. Unos 14 cm según el catálogo",
+   "marcas": "Espalda: 'TM & © DC Comics (s15) NJCroce.com MADE IN CHINA H'",
+   "estado": "Bueno: polvo y pelusas en la capa; la pintura se ve bien",
+   "descripcion": "Figura flexible de Batman con el diseño de Batman: La Serie Animada, de NJ Croce, con capa de tela negra, traje gris y cinturón amarillo. La espalda dice 'TM & © DC Comics (s15) NJCroce.com MADE IN CHINA'. Es una figura moderna, de 2015, no antigua. Buen estado: tiene polvo y pelusas en la capa.",
+   "fotos": [
+    "rx-146-1.jpg",
+    "rx-146-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     10000,
+     14000
+    ],
+    "bueno": [
+     5000,
+     8000
+    ],
+    "regular": [
+     2500,
+     4000
+    ]
+   },
+   "factores": "Diseño muy querido de la serie animada, pero es una figura moderna que todavía se vende nueva, por unos US$13. Usada vale bastante menos.",
+   "confianza": "Media-baja"
   }
  ]
 }
