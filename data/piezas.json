@@ -4059,9 +4059,9 @@
    "grupo": "Platería y metales",
    "origen": "Trofeo de una carrera de caballos del hipódromo Northlands Park, en Edmonton, Alberta, Canadá, fechado el 25 de julio de 1968. Fabricante: Viking Plate, marca de Lipman-Levinter Industries Ltd. de Toronto (la misma de la bandeja RX-120); la marca de la base dice 'MADE IN CANADA / E.P. COPPER / LEAD MOUNTS'",
    "materiales": "Cobre con baño electrolítico de plata (E.P. COPPER: plateado, no plata maciza ni plata 925); molduras rellenas de plomo (LEAD MOUNTS)",
-   "marcas": "Base: 'VIKING PLATE / MADE IN CANADA / E.P. COPPER / LEAD MOUNTS'. Grabado en el cuello: 'KINDERGARTEN HANDICAP / FOURTEENTH RUNNING / AT / NORTHLANDS / JULY 25TH 1968'. Al otro lado, un segundo grabado muy gastado: la primera línea se lee 'EXPEDITE', probablemente el caballo ganador; la segunda parece terminar en '...P. OWN...', quizás el nombre del dueño; la tercera no se lee",
-   "estado": "Regular: rayas abundantes en todo el cuerpo, oscurecimiento (pátina) y manchas y picaduras en el pie; los grabados están gastados, sobre todo el segundo. en la base el plateado está gastado y asoma el cobre en algunas zonas. No se ven abolladuras claras en las fotos",
-   "descripcion": "Jarro trofeo plateado de una carrera de caballos, de cuerpo gallonado tipo melón, pie torneado, asa en voluta, pico ancho y protector de hielo en la boca. El grabado del cuello dice 'KINDERGARTEN HANDICAP / FOURTEENTH RUNNING / AT / NORTHLANDS / JULY 25TH 1968': la 14ª edición del Kindergarten Handicap, carrera de purasangres de 2 años del hipódromo Northlands Park de Edmonton, en Canadá, corrida el 25 de julio de 1968. Al otro lado tiene un segundo grabado muy gastado en el que se lee 'EXPEDITE', probablemente el nombre del caballo ganador; el resto no se lee. La base está marcada 'VIKING PLATE / MADE IN CANADA / E.P. COPPER / LEAD MOUNTS': es de Viking Plate, la marca de Lipman-Levinter Industries de Toronto, en cobre con baño de plata (plateado, no plata maciza) y molduras rellenas de plomo. Está en estado regular, con rayas abundantes, pátina oscura, picaduras en el pie y el plateado de la base gastado, con el cobre a la vista en algunas zonas.",
+   "marcas": "Base: 'VIKING PLATE / MADE IN CANADA / E.P. COPPER / LEAD MOUNTS'. Grabado en el cuello: 'KINDERGARTEN HANDICAP / FOURTEENTH RUNNING / AT / NORTHLANDS / JULY 25TH 1968'. Al otro lado, un segundo grabado gastado, legible a contraluz en el video: 'EXPEDITE / J. G. BROWN OWNER / MIDNAPORE' (la G podría ser una C): el caballo ganador, Expedite, y su dueño, J. G. Brown, de Midnapore, Alberta (antiguo caserío hoy parte de Calgary)",
+   "estado": "Regular: rayas abundantes en todo el cuerpo, oscurecimiento (pátina) y manchas y picaduras en el pie; los grabados están gastados, sobre todo el segundo, que se lee a contraluz. en la base el plateado está gastado y asoma el cobre en algunas zonas. No se ven abolladuras claras en las fotos",
+   "descripcion": "Jarro trofeo plateado de una carrera de caballos, de cuerpo gallonado tipo melón, pie torneado, asa en voluta, pico ancho y protector de hielo en la boca. El grabado del cuello dice 'KINDERGARTEN HANDICAP / FOURTEENTH RUNNING / AT / NORTHLANDS / JULY 25TH 1968': la 14ª edición del Kindergarten Handicap, carrera de purasangres de 2 años del hipódromo Northlands Park de Edmonton, en Canadá, corrida el 25 de julio de 1968. Al otro lado tiene un segundo grabado, gastado pero legible a contraluz: 'EXPEDITE / J. G. BROWN OWNER / MIDNAPORE', es decir, el caballo ganador, Expedite, y su dueño, J. G. Brown, de Midnapore, Alberta, un antiguo caserío que hoy es parte de Calgary. La base está marcada 'VIKING PLATE / MADE IN CANADA / E.P. COPPER / LEAD MOUNTS': es de Viking Plate, la marca de Lipman-Levinter Industries de Toronto, en cobre con baño de plata (plateado, no plata maciza) y molduras rellenas de plomo. Está en estado regular, con rayas abundantes, pátina oscura, picaduras en el pie y el plateado de la base gastado, con el cobre a la vista en algunas zonas.",
    "fotos": [
     "rx-124-1.jpg",
     "rx-124-2.jpg",
@@ -4085,8 +4085,14 @@
      30000
     ]
    },
-   "factores": "Trofeo hípico fechado de 1968, de una carrera documentada del hipódromo de Edmonton: le da historia e interés para coleccionistas de hípica. Es plateado sobre cobre de Viking Plate (Canadá), no plata maciza, así que su valor no está en el metal. Le restan las rayas abundantes, la pátina, el plateado gastado de la base, las picaduras del pie y el segundo grabado casi ilegible.",
-   "confianza": "Media-baja"
+   "factores": "Trofeo hípico fechado de 1968, de una carrera documentada del hipódromo de Edmonton: le da historia e interés para coleccionistas de hípica. Es plateado sobre cobre de Viking Plate (Canadá), no plata maciza, así que su valor no está en el metal. El segundo grabado nombra al caballo ganador y a su dueño de Alberta. Le restan las rayas abundantes, la pátina, el plateado gastado de la base y las picaduras del pie.",
+   "confianza": "Media-baja",
+   "video": {
+    "src": "video/rx-124.mp4",
+    "poster": "video/rx-124-poster.jpg",
+    "caption": "Segundo grabado a contraluz: 'EXPEDITE / J. G. BROWN OWNER / MIDNAPORE'",
+    "audio": false
+   }
   }
  ]
 }
