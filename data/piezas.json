@@ -5246,19 +5246,19 @@
    "estado_pieza": "Regular",
    "precios": {
     "excelente": [
-     8000,
-     12000
+     10000,
+     15000
     ],
     "bueno": [
-     4000,
-     7000
+     7000,
+     10000
     ],
     "regular": [
-     2000,
-     4000
+     4000,
+     7000
     ]
    },
-   "factores": "Es una miniatura de Coca-Cola común, muy buscada como adorno. Que conserve el líquido y la etiqueta de papel suma; la tapa oxidada y el sedimento restan. En Chile se suelen vender por lotes, a poco precio por unidad.",
+   "factores": "Es una miniatura de Coca-Cola común, muy buscada como adorno. Que conserve el líquido y la etiqueta de papel suma; la tapa oxidada y el sedimento restan. En Chile se suelen vender por lotes, a poco precio por unidad. Precio ajustado al mercado local.",
    "confianza": "Media-baja"
   }
  ]
