@@ -5449,19 +5449,19 @@
    "estado_pieza": "Bueno",
    "precios": {
     "excelente": [
-     8000,
-     12000
+     10000,
+     14000
     ],
     "bueno": [
-     5000,
-     8000
+     7000,
+     10000
     ],
     "regular": [
-     2000,
-     4000
+     4000,
+     6000
     ]
    },
-   "factores": "Es un VHS Disney común, de valor bajo. Le suman que sea edición chilena original (con holograma y estuche clamshell), que despierta nostalgia. Le restan que sea subtitulada y no doblada, y que no esté probada.",
+   "factores": "Es un VHS Disney común, de valor bajo. Le suman que sea edición chilena original (con holograma y estuche clamshell), que despierta nostalgia. Le restan que sea subtitulada y no doblada, y que no esté probada. Precio ajustado por el dueño al mercado local chileno.",
    "confianza": "Media"
   }
  ]
