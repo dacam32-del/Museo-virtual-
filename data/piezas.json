@@ -5463,6 +5463,42 @@
    },
    "factores": "Es un VHS Disney común, de valor bajo. Le suman que sea edición chilena original (con holograma y estuche clamshell), que despierta nostalgia. Le restan que sea subtitulada y no doblada, y que no esté probada. Precio ajustado por el dueño al mercado local chileno.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-164",
+   "nombre": "Figura Ezra Bridger de Star Wars Rebels, Hasbro, 12 pulgadas (30 cm), línea Hero Series, 2014, suelta",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Hasbro, línea Star Wars Rebels 'Hero Series' de 12 pulgadas (dentro de Saga Legends / Titan Hero Series), 2014. Hecha en China. Artículo moderno, no antiguo",
+   "materiales": "Plástico; articulada en cuello, hombros, muñecas y caderas. Pelo esculpido",
+   "marcas": "Planta del pie: '©2014 LFL HASBRO MADE IN CHINA C-3252…' (el resto del código no se lee)",
+   "estado": "Bueno: se ve completa en el cuerpo, con leves marcas de uso. La funda de la pierna se ve descolorida a color crema. Viene suelta, sin caja y sin su accesorio original (un sable de luz con hoja desmontable)",
+   "descripcion": "Figura grande de Ezra Bridger, el protagonista de la serie animada Star Wars Rebels, de Hasbro: 12 pulgadas (unos 30 cm), de la línea Hero Series de 2014. En la planta del pie dice '©2014 LFL HASBRO MADE IN CHINA'. Es una figura moderna, no una antigüedad. Viene suelta, sin caja y sin su sable de luz original. Buen estado, con leves marcas de uso; la funda de la pierna está descolorida, a color crema.",
+   "fotos": [
+    "rx-164-1.jpg",
+    "rx-164-2.jpg",
+    "rx-164-3.jpg",
+    "rx-164-4.jpg",
+    "rx-164-5.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     10000,
+     15000
+    ],
+    "bueno": [
+     5000,
+     8000
+    ],
+    "regular": [
+     2500,
+     4500
+    ]
+   },
+   "factores": "Es una figura moderna, de juguetería masiva y valor bajo. Que el personaje sea de Star Wars Rebels le da algo de interés; le restan que esté suelta, sin el sable ni la caja, y la funda descolorida.",
+   "confianza": "Media"
   }
  ]
 }
