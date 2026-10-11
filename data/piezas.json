@@ -4913,6 +4913,41 @@
    },
    "factores": "Pieza decorativa con buenos relieves, pero es metal plateado y no plata maciza, de fabricante desconocido, con el baño muy gastado.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-148",
+   "nombre": "Azucarera con tapa Russel Wright 'American Modern', Steubenville Pottery (EE.UU.), probable color Chartreuse Curry",
+   "categoria": "Cerámica",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Diseño de Russel Wright (1904–1976), fabricada por Steubenville Pottery (Ohio, EE.UU.) entre 1939 y 1959. Línea 'American Modern'",
+   "materiales": "Loza vidriada (earthenware). Cuerpo redondeado y aplanado, de forma orgánica, con una gran asa en curva a un lado y tapa hundida con perilla pequeña. Esmalte brillante amarillo mostaza; el color probable es 'Chartreuse Curry', aunque se ve más mostaza que en las fotos de referencia, quizás por la luz. Los museos dan unos 7–8 cm de alto y 16 cm de largo para esta forma (por confirmar)",
+   "marcas": "Marca incisa en la base: 'Russel Wright / MFG BY STEUBENVILLE', la misma que registran los museos para esta línea",
+   "estado": "Bueno: esmalte brillante con algunas marcas y roces leves en la superficie, más visibles cerca de la base del asa. No se ven saltaduras en las fotos. Tiene su tapa",
+   "descripcion": "Azucarera con tapa de la línea 'American Modern', diseñada por Russel Wright y fabricada por Steubenville Pottery en Ohio, EE.UU., entre 1939 y 1959. Tiene un cuerpo redondeado y aplanado, una gran asa en curva y una tapa hundida con perilla. El esmalte es amarillo mostaza, probablemente el color 'Chartreuse Curry'. La base tiene la marca incisa 'Russel Wright / MFG BY STEUBENVILLE'. Russel Wright (1904–1976) fue uno de los diseñadores industriales más influyentes de Estados Unidos. Con American Modern propuso una vajilla de formas orgánicas y suaves, pensada para el uso diario, y colores para combinar libremente entre piezas. Fue la vajilla estadounidense más vendida de su época, con cientos de millones de piezas, y hoy es un clásico del diseño de mitad de siglo (mid-century modern), presente en museos como LACMA y Cooper Hewitt. Buen estado: esmalte brillante con roces leves, sin saltaduras visibles en las fotos y con su tapa.",
+   "fotos": [
+    "rx-148-1.jpg",
+    "rx-148-2.jpg",
+    "rx-148-3.jpg",
+    "rx-148-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     40000,
+     55000
+    ],
+    "bueno": [
+     22000,
+     32000
+    ],
+    "regular": [
+     10000,
+     16000
+    ]
+   },
+   "factores": "Pieza de diseño de mitad de siglo, firmada, de una línea icónica que está en museos como LACMA y Cooper Hewitt. Es una pieza común de la vajilla y tiene roces leves; en Chile hay poca demanda conocida.",
+   "confianza": "Media"
   }
  ]
 }
