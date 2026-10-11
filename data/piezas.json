@@ -4877,6 +4877,42 @@
    },
    "factores": "Diseño muy querido de la serie animada, pero es una figura moderna que todavía se vende nueva, por unos US$13. Usada vale bastante menos.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-147",
+   "nombre": "Azucarera o copa de dos asas con pie, metal plateado, borde ondulado y relieves",
+   "categoria": "Platería / Metal",
+   "grupo": "Platería y metales",
+   "origen": "Fabricante no identificado. Probablemente de mediados del siglo XX, europea o sudamericana, en metal plateado (tipo alpaca o EPNS). No es plata maciza: no tiene ninguna marca que lo indique",
+   "materiales": "Metal plateado; donde el baño está gastado se ve el metal base, de color cobre o latón. Borde ondulado con una línea grabada, palmetas o conchas y volutas en relieve, cuerpo inferior gallonado (con lóbulos), dos asas y pie redondo escalonado. Alto aproximado 8–10 cm, sin medir (por confirmar)",
+   "marcas": "Bajo el pie, al centro, hay una marca estampada pequeña, borrosa e ilegible: se ve un contorno irregular, como un escudo o cartucho, con una figura poco clara adentro y sin letras legibles, aun ampliando y mejorando la foto. Pendiente de identificar",
+   "estado": "Regular: el plateado está muy gastado y deja ver el metal base en varias partes; tiene rayas, manchas de oxidación y suciedad",
+   "descripcion": "Pequeña azucarera o copa de dos asas con pie, de metal plateado, que cabe en una mano (unos 8–10 cm de alto, sin medir). Tiene el borde ondulado con una línea grabada, palmetas o conchas y volutas en relieve, la parte baja gallonada (con lóbulos) y un pie redondo escalonado. Probablemente de mediados del siglo XX, en metal plateado tipo alpaca o EPNS; no es plata maciza. Bajo el pie tiene una pequeña marca estampada, ilegible. Estado regular: el plateado está muy gastado y deja ver el metal de color cobre o latón, con rayas, oxidación y suciedad.",
+   "fotos": [
+    "rx-147-1.jpg",
+    "rx-147-2.jpg",
+    "rx-147-3.jpg",
+    "rx-147-4.jpg",
+    "rx-147-5.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     15000,
+     22000
+    ],
+    "bueno": [
+     9000,
+     14000
+    ],
+    "regular": [
+     5000,
+     8000
+    ]
+   },
+   "factores": "Pieza decorativa con buenos relieves, pero es metal plateado y no plata maciza, de fabricante desconocido, con el baño muy gastado.",
+   "confianza": "Media-baja"
   }
  ]
 }
