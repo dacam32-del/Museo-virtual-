@@ -4948,6 +4948,41 @@
    },
    "factores": "Pieza de diseño de mitad de siglo, firmada, de una línea icónica que está en museos como LACMA y Cooper Hewitt. Es una pieza común de la vajilla y tiene roces leves; en Chile hay poca demanda conocida.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-149",
+   "nombre": "Radio cassette Sony CFM-255 'FM/MW/SW1/SW2 Cassette-Corder', importado por Cantolla (Chile), radio funcionando",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Sony (Japón). Importado y garantizado en Chile por Cantolla y Cía. (Arica), representante de Sony en Chile hasta 1985, así que es anterior a 1986. Probablemente de fines de los 70 o comienzos de los 80, por su parecido con los CFM-31S (c.1977) y CFM-33L (c.1980); no se encontró el año exacto del CFM-255",
+   "materiales": "Plástico plateado y negro. Radio de 4 bandas (FM, MW, SW1, SW2) con casetera, '2 Way Speaker System', antena telescópica, controles deslizantes de tono y volumen, selectores FUNCTION (TAPE/RADIO) y BAND SELECT, indicador 'BATT/OPERATION'. Funciona con corriente (220V/50Hz, trae cable) y tiene compartimento de pilas",
+   "marcas": "Frente: 'SONY', '2WAY SPEAKER SYSTEM', 'FM/MW/SW1/SW2 CASSETTE-CORDER CFM-255'. Etiqueta trasera: 'IMPORTADO Y GARANTIZADO POR Cantolla – SERVICIO TÉCNICO EN TODO EL PAÍS 220V/50Hz'",
+   "estado": "Regular: la RADIO enciende y funciona; la CASETERA NO funciona (lo más probable es una correa cortada, una reparación común y barata, sin confirmar). Tiene polvo, suciedad y algunos roces",
+   "descripcion": "Radio cassette portátil Sony CFM-255, 'FM/MW/SW1/SW2 Cassette-Corder', con '2 Way Speaker System', en plateado y negro. Tiene radio de 4 bandas (FM, onda media y dos de onda corta), antena telescópica, controles deslizantes de tono y volumen, y selectores de función (cinta/radio) y de banda. Funciona con corriente (trae cable) o con pilas. Atrás tiene la etiqueta 'Importado y garantizado por Cantolla – Servicio técnico en todo el país 220V/50Hz'. Cantolla y Cía., de Arica, fue el representante y armador de Sony en Chile desde los años 60 hasta 1985, así que este equipo se vendió oficialmente en Chile antes de 1986, probablemente a fines de los 70 o comienzos de los 80. La RADIO funciona; la CASETERA NO funciona (lo más probable es una correa cortada, una reparación común). Tiene polvo, suciedad y algunos roces. El precio considera que la casetera no funciona.",
+   "fotos": [
+    "rx-149-1.jpg",
+    "rx-149-2.jpg",
+    "rx-149-3.jpg",
+    "rx-149-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     60000,
+     80000
+    ],
+    "bueno": [
+     40000,
+     55000
+    ],
+    "regular": [
+     20000,
+     30000
+    ]
+   },
+   "factores": "Sony de época, vendido oficialmente en Chile por Cantolla, con radio de 4 bandas funcionando. El precio considera que la casetera no funciona, además del polvo y los roces.",
+   "confianza": "Media-baja"
   }
  ]
 }
