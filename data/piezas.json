@@ -5327,6 +5327,39 @@
    },
    "factores": "Es una serie de culto: la única temporada, y es la única edición oficial en DVD. Le restan que sea región 1, que no traiga español y que sea un artículo moderno, de valor modesto. El precio es por unidad (hay 2 copias).",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-160",
+   "nombre": "DVD 'Scooby-Doo! Double Feature': Winter WonderDog + Scooby-Doo! and the Snow Creatures (Warner Home Video), región 1, nuevo y sellado",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Warner Home Video (EE.UU.), programación de Hanna-Barbera. Es una edición doble moderna (hay catálogos que fechan esta doble función hacia 2017)",
+   "materiales": "Caja de DVD estándar con dos títulos (Winter WonderDog, 90 min, y Scooby-Doo! and the Snow Creatures, 65 min), sellada en su plástico original",
+   "marcas": "Código de barras 883929813117 (se lee en la foto); 'Not authorized for sale or rental outside the USA and Canada' (región 1); idiomas inglés, francés y español; subtítulos en inglés y español (en Winter WonderDog, algunos episodios y extras pueden no tener subtítulos); 'Standard version'. En el frente hay un sticker amarillo de precio de EE.UU. que dice '$8.00 SDS'",
+   "estado": "Excelente: nuevo y sellado en su plástico original. El frente tiene un sticker de precio de EE.UU. '$8.00 SDS'",
+   "descripcion": "DVD 'Scooby-Doo! Double Feature' de Warner Home Video, con dos títulos invernales: 'Scooby-Doo! Winter WonderDog' (90 min) y 'Scooby-Doo! and the Snow Creatures' (65 min). Es región 1 (EE.UU. y Canadá), con idiomas inglés, francés y español. Nuevo y sellado en su plástico, con un sticker de precio de EE.UU. '$8.00 SDS' en el frente. Es un artículo moderno y de bajo valor, no una antigüedad; en Chile necesita un reproductor multizona.",
+   "fotos": [
+    "rx-160-1.jpg",
+    "rx-160-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     5000,
+     8000
+    ],
+    "bueno": [
+     3000,
+     5000
+    ],
+    "regular": [
+     1500,
+     3000
+    ]
+   },
+   "factores": "Es un artículo moderno y de bajo valor; no es una antigüedad. Que esté sellado y traiga audio en español suma, pero es región 1, y en Chile solo se ve en reproductores multizona.",
+   "confianza": "Media"
   }
  ]
 }
