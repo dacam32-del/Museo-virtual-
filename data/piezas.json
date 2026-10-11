@@ -5091,6 +5091,42 @@
    },
    "factores": "Juguete ochentero nuevo, sin uso y completo en su caja, algo poco común de encontrar. Es de marca desconocida y la caja tiene desgaste.",
    "confianza": "Baja"
+  },
+  {
+   "id": "RX-153",
+   "nombre": "Seis adornos navideños de soldaditos de madera, Gorham 'Six Wooden Toy Soldier Ornaments', en su caja original",
+   "categoria": "Hogar / Navidad",
+   "grupo": "Hogar y herramientas",
+   "origen": "Gorham ('The Gift World of Gorham', logo GW), EE.UU.; hecho en Taiwán según la caja. Probablemente de los años 80",
+   "materiales": "Seis soldaditos de juguete de madera pintada con cordones dorados para colgar: un tamborilero, guardias con rifles, uno de azul y uno de amarillo. Los seis están, en su caja roja original con ventana",
+   "marcas": "Frente: logo 'GW', 'Six Wooden Toy Soldier Ornaments – A Christmas Tradition from the Gift World of Gorham'. Reverso: texto que menciona 'Christmas Traditions in Wood', 'HSA-1' y 'MADE IN TAIWAN' (letra pequeña, en el borde de la caja, pero legible)",
+   "estado": "Bueno: los seis adornos completos; la caja tiene etiquetas de precio antiguas escritas a mano, desgaste leve y un pequeño pliegue en el reverso. La ventana está intacta",
+   "descripcion": "Set de seis adornos navideños de madera pintada en forma de soldaditos de juguete, 'Six Wooden Toy Soldier Ornaments – A Christmas Tradition from the Gift World of Gorham' (Gorham, EE.UU.). Incluye un tamborilero, guardias con rifles, uno de azul y uno de amarillo, todos con cordón dorado para colgar en el árbol. Los seis vienen en su caja roja original con ventana; en el reverso se lee 'Made in Taiwan'. Probablemente de los años 80. Buen estado: la caja tiene etiquetas de precio antiguas escritas a mano, desgaste leve y un pequeño pliegue en el reverso, y la ventana está intacta.",
+   "fotos": [
+    "rx-153-1.jpg",
+    "rx-153-2.jpg",
+    "rx-153-3.jpg",
+    "rx-153-4.jpg",
+    "rx-153-5.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     30000
+    ],
+    "bueno": [
+     12000,
+     18000
+    ],
+    "regular": [
+     6000,
+     10000
+    ]
+   },
+   "factores": "Set completo en su caja original, de una marca conocida (Gorham) y con encanto navideño ochentero. Son adornos de madera producidos en serie en Taiwán, de valor modesto.",
+   "confianza": "Media-baja"
   }
  ]
 }
