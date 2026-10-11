@@ -5058,6 +5058,39 @@
    },
    "factores": "Edición exclusiva de Target que brilla en la oscuridad, de un villano conocido de The Mandalorian. Es un coleccionable moderno y fácil de conseguir, y el desgaste leve de la caja baja algo su precio.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-152",
+   "nombre": "Juguete a pilas 'Super Rider – Action BMX', muñeca en bicicleta BMX, hecho en Hong Kong, nuevo sin uso en su caja",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Hecho en Hong Kong, probablemente de fines de los años 80. Fabricante desconocido: la caja tiene un logo rojo cortado en la esquina inferior izquierda que no se alcanza a leer y el número de artículo 'NO. 6569'. Es un juguete parecido a 'Randy Rider' de Illco (1977), pero no es el mismo",
+   "materiales": "Plástico. Muñeca de pelo oscuro con buzo rojo y polera blanca, sobre una bicicleta BMX amarilla con ruedas de apoyo y un bolso azul 'BMX' (donde van las pilas). Funciona con dos pilas tipo lápiz (no incluidas)",
+   "marcas": "Caja: 'SUPER RIDER', 'ACTION BMX', 'Real pedaling action', 'Steerable front wheel', 'Rides on real wheel', 'Battery operated', 'Uses two penlight batteries (not included)', 'For ages 3 and up', 'Made in Hong Kong', 'NO. 6569'",
+   "estado": "Excelente el juguete: según el dueño, nunca usado y completo. La caja original muestra desgaste de estantería, pliegues y roces, y tiene las solapas abiertas",
+   "descripcion": "Juguete a pilas 'Super Rider – Action BMX': una muñeca de pelo oscuro con buzo rojo que anda en una bicicleta BMX amarilla con ruedas de apoyo y un bolso azul 'BMX'. Según la caja, pedalea de verdad, la rueda delantera se puede girar y avanza sobre sus ruedas; usa dos pilas tipo lápiz (no incluidas). Hecho en Hong Kong, probablemente a fines de los años 80; fabricante desconocido (número de artículo 6569). Según el dueño está nuevo, nunca usado y completo, en su caja original. La caja tiene desgaste de estantería, pliegues, roces y las solapas abiertas.",
+   "fotos": [
+    "rx-152-1.jpg",
+    "rx-152-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     30000,
+     45000
+    ],
+    "bueno": [
+     18000,
+     28000
+    ],
+    "regular": [
+     8000,
+     15000
+    ]
+   },
+   "factores": "Juguete ochentero nuevo, sin uso y completo en su caja, algo poco común de encontrar. Es de marca desconocida y la caja tiene desgaste.",
+   "confianza": "Baja"
   }
  ]
 }
