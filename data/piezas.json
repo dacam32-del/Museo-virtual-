@@ -4977,12 +4977,53 @@
      55000
     ],
     "regular": [
-     20000,
-     30000
+     25000,
+     35000
     ]
    },
-   "factores": "Sony de época, vendido oficialmente en Chile por Cantolla, con radio de 4 bandas funcionando. El precio considera que la casetera no funciona, además del polvo y los roces.",
+   "factores": "Sony de época, vendido oficialmente en Chile por Cantolla, con radio de 4 bandas funcionando. El precio considera que la casetera no funciona, además del polvo y los roces. Precio ajustado al mercado local.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-150",
+   "nombre": "Tocadiscos maleta estéreo IRT Stereovox 'Solid State', hecho en Chile, años 70, funcionando",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "IRT, Industria de Radio y Televisión S.A. (Chile), la continuadora de RCA Victor Chile, nacionalizada en 1971; casa matriz en Santiago y planta en Arica. Por eso es de 1971 o posterior, probablemente de los años 70 (un aviso de Yapo fecha un Stereovox en 1976). Fecha exacta sin confirmar",
+   "materiales": "Maleta de madera forrada en vinilo imitación madera, con manilla y dos tapas-parlante desmontables (rejilla café por fuera; por dentro, rejilla crema perforada, conos blancos redondos y cables en espiral guardados en ganchos). Plato negro estriado, brazo de aluminio, selector de velocidades 16/33/45/78 y panel plateado con perillas Balance, Treble (agudos), Bass (graves) y Volume/Off",
+   "marcas": "Panel: logo rojo 'IRT', 'Stereovox', 'Balance', 'Treble', 'Bass', 'Volume / Off', 'Solid State'",
+   "estado": "Bueno: PROBADO Y FUNCIONANDO, según el dueño toca los discos impecablemente. Desgaste en la maleta: bordes con roces y algo de despegue en el borde del forro",
+   "descripcion": "Tocadiscos portátil estéreo tipo maleta IRT Stereovox 'Solid State', hecho en Chile. La maleta está forrada en vinilo imitación madera, con manilla y dos tapas que son parlantes desmontables, con rejillas crema perforadas, conos blancos y cables en espiral guardados en ganchos. Tiene plato negro estriado, brazo de aluminio, selector de 16/33/45/78 rpm y un panel plateado con perillas de balance, agudos, graves y volumen. IRT (Industria de Radio y Televisión S.A.) nació en 1971 como continuadora de RCA Victor Chile, con casa matriz en Santiago y planta en Arica, y durante los años 70 fabricó radios, tocadiscos y televisores, entre ellos el famoso televisor Antú. Probado y funcionando: según el dueño toca los discos impecablemente. Tiene roces en los bordes y algo de forro despegado en el borde de la maleta.",
+   "fotos": [
+    "rx-150-1.jpg",
+    "rx-150-2.jpg",
+    "rx-150-3.jpg",
+    "rx-150-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     80000,
+     110000
+    ],
+    "bueno": [
+     50000,
+     70000
+    ],
+    "regular": [
+     25000,
+     40000
+    ]
+   },
+   "factores": "Tocadiscos estéreo hecho en Chile por IRT, una marca con mucha historia local, completo con sus dos parlantes y probado funcionando. Los roces y el forro despegado en los bordes bajan algo el precio.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-102.mp4",
+    "poster": "video/rx-102-poster.jpg",
+    "caption": "Funcionando: este mismo tocadiscos IRT Stereovox tocando un LP (al final se ve el panel)",
+    "audio": true
+   }
   }
  ]
 }
