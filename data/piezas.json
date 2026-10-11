@@ -5362,6 +5362,40 @@
    },
    "factores": "Es un artículo moderno y de bajo valor; no es una antigüedad. Que esté sellado y traiga audio en español suma, pero es región 1, y en Chile solo se ve en reproductores multizona.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-161",
+   "nombre": "Plato de postre o pan de porcelana fina de hueso Debonair (Staffordshire, Inglaterra), pintado a mano con frambuesas, firmado 'Barbara Wilkinson '91'",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Marca 'Debonair', Made in Staffordshire, England; no se pudo identificar qué fábrica está detrás de la marca. La decoración está firmada y fechada en 1991",
+   "materiales": "Porcelana fina de hueso (fine bone china). Decoración pintada a mano en tonos rojo y rosa: ramas con frambuesas y hojas, con un sombreado de aerógrafo en el borde",
+   "marcas": "Reverso: corona impresa con 'Debonair – Fine Bone China – Made in Staffordshire England'. Firma manuscrita en rojo: 'Handpainted by Barbara Wilkinson '91'",
+   "estado": "Excelente: impecable, sin saltaduras, grietas ni desgaste de la pintura (confirmado por el dueño). El reverso solo tiene manchitas leves de suciedad, que se limpian",
+   "descripcion": "Plato pequeño de postre o pan de porcelana fina de hueso inglesa, marca Debonair (corona impresa, 'Fine Bone China – Made in Staffordshire England'). Está pintado a mano en rojo y rosa con ramas de frambuesas y hojas, y el borde tiene un sombreado de aerógrafo. En el reverso lleva la firma manuscrita 'Handpainted by Barbara Wilkinson '91', es decir, pintado en 1991. No se encontró información documentada sobre la pintora. Está impecable, sin ningún daño. Diámetro aproximado de 16–20 cm, por confirmar.",
+   "fotos": [
+    "rx-161-1.jpg",
+    "rx-161-2.jpg",
+    "rx-161-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     18000,
+     25000
+    ],
+    "bueno": [
+     12000,
+     18000
+    ],
+    "regular": [
+     5000,
+     9000
+    ]
+   },
+   "factores": "Es porcelana fina inglesa pintada a mano, firmada y fechada, y por eso es una pieza única. Le resta que Debonair es una marca menor, que la pintora no está documentada y que es un plato suelto.",
+   "confianza": "Media-baja"
   }
  ]
 }
