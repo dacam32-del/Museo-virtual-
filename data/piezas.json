@@ -5293,6 +5293,40 @@
    },
    "factores": "Es un artículo moderno y de bajo valor; no es una antigüedad. Que esté sellado suma, pero es región 1, y en Chile (región 4) solo se ve en reproductores multizona.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-159",
+   "nombre": "DVD 'Playmakers: The Complete Series' (ESPN, 3 discos, 11 episodios), región 1. Cantidad: 2 copias (precio por unidad)",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Buena Vista Home Entertainment (EE.UU.), edición de 2004 ('2004 Release'). Es la serie original de ESPN de 2003, con una sola temporada",
+   "materiales": "Set de 3 DVD en estuche desplegable (digipack) con funda de cartón. Cada copia trae sus 3 discos (1, 2 y 3)",
+   "marcas": "ISBN 0-7888-5329-5; UPC 786936238884; región 1, NTSC; Dolby Digital 5.1; pantalla ancha 1.78:1; 'Printed in U.S.A.', 'J4445'. Sin idioma ni subtítulos en español: audio en inglés y subtítulos en inglés para sordos (SDH)",
+   "estado": "Bueno (las dos copias): cada una trae sus 3 discos, que se ven limpios en la foto interior. La funda de cartón de una de ellas tiene un rasguño, con el papel levantado, sobre el título y algo de desgaste en los bordes",
+   "descripcion": "'Playmakers: The Complete Series', la serie dramática original de ESPN (2003) sobre un equipo ficticio de fútbol americano, los Cougars. Es una serie de culto que ESPN canceló después de una sola temporada; según se informó, por presión de la NFL. Set de 3 DVD con los 11 episodios, de Buena Vista Home Entertainment (2004), región 1 NTSC, ISBN 0-7888-5329-5. Solo trae audio en inglés y subtítulos en inglés. Hay 2 copias disponibles y el precio es por unidad. Ambas están en buen estado y con sus 3 discos limpios; la funda de cartón de una tiene un rasguño en el título y algo de desgaste en los bordes.",
+   "fotos": [
+    "rx-159-1.jpg",
+    "rx-159-2.jpg",
+    "rx-159-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     14000,
+     20000
+    ],
+    "bueno": [
+     8000,
+     12000
+    ],
+    "regular": [
+     4000,
+     7000
+    ]
+   },
+   "factores": "Es una serie de culto: la única temporada, y es la única edición oficial en DVD. Le restan que sea región 1, que no traiga español y que sea un artículo moderno, de valor modesto. El precio es por unidad (hay 2 copias).",
+   "confianza": "Media-baja"
   }
  ]
 }
