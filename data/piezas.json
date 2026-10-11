@@ -5226,6 +5226,40 @@
    },
    "factores": "Es una figura vintage original de los 80, buscada por coleccionistas de MOTU. Se tasa como figura suelta incompleta: no trae maza ni otros accesorios, y la pintura tiene desgaste leve.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-157",
+   "nombre": "Botellita miniatura de Coca-Cola de vidrio contour, con líquido, etiqueta de papel y tapa corona",
+   "categoria": "Publicidad / Coca-Cola",
+   "grupo": "Publicidad y souvenirs",
+   "origen": "Miniatura promocional o de recuerdo de Coca-Cola; no se pudo confirmar el país ni el fabricante. Hay miniaturas parecidas, con líquido y tapa corona, que se vendieron en México y en EE.UU. entre los años 70 y 90. La época es probable, no confirmada",
+   "materiales": "Vidrio con forma contour (la botella clásica de Coca-Cola), con líquido oscuro adentro, etiqueta de papel roja 'Coca-Cola' y tapa corona metálica con el logo",
+   "marcas": "Etiqueta de papel 'Coca-Cola'; tapa corona con el logo 'Coca-Cola' y una línea de texto pequeña que no se lee. La base tiene un relieve con lo que parecen dos letras o signos, pero no se leen con seguridad en la foto, así que no se transcriben",
+   "estado": "Regular: la pintura de la tapa está gastada y la tapa tiene óxido en el borde. El líquido tiene sedimento y bajó de nivel (hay aire en el cuello). La etiqueta está completa, pero con algo de suciedad. No se ven roturas en el vidrio",
+   "descripcion": "Botellita miniatura de Coca-Cola con la clásica forma contour, de vidrio, mide unos 8–9 cm (sin confirmar). Conserva su líquido, la etiqueta de papel roja 'Coca-Cola' y la tapa corona con el logo. Es una miniatura promocional o de recuerdo, probablemente de los años 70–90; no se confirmó el país de origen. La base tiene un relieve que no se lee con seguridad en la foto. Estado regular: la tapa tiene la pintura gastada y algo de óxido, y el líquido tiene sedimento y bajó de nivel.",
+   "fotos": [
+    "rx-157-1.jpg",
+    "rx-157-2.jpg",
+    "rx-157-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     4000,
+     7000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Es una miniatura de Coca-Cola común, muy buscada como adorno. Que conserve el líquido y la etiqueta de papel suma; la tapa oxidada y el sedimento restan. En Chile se suelen vender por lotes, a poco precio por unidad.",
+   "confianza": "Media-baja"
   }
  ]
 }
