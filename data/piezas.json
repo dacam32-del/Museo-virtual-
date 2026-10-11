@@ -5260,6 +5260,39 @@
    },
    "factores": "Es una miniatura de Coca-Cola común, muy buscada como adorno. Que conserve el líquido y la etiqueta de papel suma; la tapa oxidada y el sedimento restan. En Chile se suelen vender por lotes, a poco precio por unidad. Precio ajustado al mercado local.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-158",
+   "nombre": "DVD 'Happy Feet 1 & 2 Collection' (Warner Bros.), región 1, nuevo y sellado",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Warner Bros. Home Entertainment (EE.UU.), con diseño de empaque de 2017. Las películas son de 2006 y 2011. Disco hecho en México",
+   "materiales": "Caja de DVD estándar con sus dos películas (Happy Feet y Happy Feet Two), sellada en su plástico original",
+   "marcas": "Código de barras 883929790340; 'Not authorized for sale or rental outside the USA and Canada' (región 1, NTSC); idiomas y subtítulos en inglés, francés (doblaje de Quebec) y español; '© 2017 Package Design'; sello 'Disc Made in Mexico'; clasificación PG. En el frente hay un sticker amarillo de precio 'SDS'",
+   "estado": "Excelente: nuevo y sellado en su plástico original. El frente tiene un sticker amarillo de precio 'SDS'",
+   "descripcion": "DVD 'Happy Feet 1 & 2 Collection' de Warner Bros. Home Entertainment: trae Happy Feet (2006) y Happy Feet Two (2011), con diseño de empaque de 2017. Es región 1 (EE.UU. y Canadá), con idiomas y subtítulos en inglés, francés y español; el disco está hecho en México. Nuevo y sellado en su plástico, con un sticker amarillo de precio en el frente. Es un artículo moderno y de bajo valor, no una antigüedad; en Chile necesita un reproductor multizona.",
+   "fotos": [
+    "rx-158-1.jpg",
+    "rx-158-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     6000,
+     9000
+    ],
+    "bueno": [
+     4000,
+     6000
+    ],
+    "regular": [
+     2000,
+     3500
+    ]
+   },
+   "factores": "Es un artículo moderno y de bajo valor; no es una antigüedad. Que esté sellado suma, pero es región 1, y en Chile (región 4) solo se ve en reproductores multizona.",
+   "confianza": "Media"
   }
  ]
 }
