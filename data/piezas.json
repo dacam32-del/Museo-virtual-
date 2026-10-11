@@ -5430,6 +5430,39 @@
    },
    "factores": "Es una herramienta de oficio auténtica, con pátina de uso y atractivo decorativo. Le restan que no tenga marca, su tamaño pequeño y que haya pocos coleccionistas de gramiles en Chile.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-163",
+   "nombre": "VHS 'The Lion King II: Simba's Pride' / 'El Rey León II: El Reino de Simba' (Walt Disney Home Video, 1998), edición chilena subtitulada",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Walt Disney Home Video / Buena Vista Home Entertainment, 1998. Edición chilena, 'Hecho en Chile', con la dirección del distribuidor en Las Condes, Santiago",
+   "materiales": "Cinta VHS en estuche plástico tipo clamshell con carátula impresa",
+   "marcas": "'Versión en Inglés Subtitulada en Español'; VHS NTSC; 85 min; color; 'Hecho en Chile'; código de barras 7808219000797; holograma en el lomo; logos de Disney Videos, Walt Disney Home Video y Buena Vista Home Entertainment. Reverso en español",
+   "estado": "Bueno: la carátula está en buen estado y el estuche plástico tiene algo de desgaste y rayas. No se sabe si se probó en un reproductor",
+   "descripcion": "VHS original de 'El Rey León II: El Reino de Simba' ('The Lion King II: Simba's Pride'), de Walt Disney Home Video y Buena Vista Home Entertainment, 1998. Es la edición chilena, 'Hecho en Chile', en versión en inglés subtitulada en español: NTSC, 85 minutos, en color. El reverso está en español. Viene en su estuche clamshell de plástico con carátula y holograma en el lomo. Buen estado: la carátula está bien y el plástico tiene algo de desgaste. No se ha probado en un reproductor.",
+   "fotos": [
+    "rx-163-1.jpg",
+    "rx-163-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     5000,
+     8000
+    ],
+    "regular": [
+     2000,
+     4000
+    ]
+   },
+   "factores": "Es un VHS Disney común, de valor bajo. Le suman que sea edición chilena original (con holograma y estuche clamshell), que despierta nostalgia. Le restan que sea subtitulada y no doblada, y que no esté probada.",
+   "confianza": "Media"
   }
  ]
 }
