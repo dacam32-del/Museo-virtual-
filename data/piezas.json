@@ -5602,6 +5602,45 @@
    },
    "factores": "Es una réplica china de bajo costo: un Star nuevo se vende a unos $7.000 en Chile. Su valor depende del diseño y del uso; le restan el reverso muy rayado (está probado y funciona, sin caja original).",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-168",
+   "nombre": "Muñeca de trapo musical con caja de música a cuerda, pelo de lana blanca rizada y vestido rosado con encaje, probablemente Faratak (Los Ángeles), hecha en Taiwán, fines de los 80. Probada y funcionando",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "La etiqueta está cortada y se lee '…ARATA… / …S ANGELES / …% POLYESTER / …% NYLON / …DE IN TAIWAN'. Probablemente es FARATAK, Inc. (Alhambra, zona de Los Ángeles, California), que vendía muñecas de trapo musicales a cuerda con pelo de lana. La CPSC documenta sus 'Musical Dolls' vendidas entre 1989 y 1990. 'Arata' no aparece como marca; se lee la parte central de 'Faratak'. Probable fin de los años 80, sin confirmar el modelo",
+   "materiales": "Cuerpo de tela, pelo de lana blanca rizada, ojos negros de botón y mejillas rosadas pintadas. Vestido rosado de capas con encaje y piernas negras. Caja de música a cuerda con llave metálica en la espalda",
+   "marcas": "Etiqueta de tela (parcial): '…ARATA… / …S ANGELES / …% POLYESTER / …% NYLON / …DE IN TAIWAN'",
+   "estado": "Bueno: tiene una pequeña mancha en el pecho del vestido, una leve marca en la mejilla y el encaje algo amarillento. La caja de música está probada y funciona: toca una melodía tipo vals (se escucha en el video)",
+   "descripcion": "Muñeca de trapo musical de fines de los años 80, con pelo de lana blanca rizada, ojos negros, mejillas rosadas, vestido rosado de capas con encaje y piernas negras. En la espalda tiene una caja de música a cuerda con su llave; está probada y toca una melodía tipo vals, que se escucha en el video. La etiqueta, cortada, dice '…ARATA… Los Angeles… Made in Taiwan'; probablemente es de Faratak, Inc., de la zona de Los Ángeles. Tiene una pequeña mancha en el pecho, una leve marca en la mejilla y el encaje algo amarillento.",
+   "fotos": [
+    "rx-168-1.jpg",
+    "rx-168-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     18000,
+     25000
+    ],
+    "bueno": [
+     10000,
+     16000
+    ],
+    "regular": [
+     5000,
+     8000
+    ]
+   },
+   "factores": "Es una muñeca musical de los 80 con caja de música funcionando y un encanto nostálgico. Le restan las manchas leves, el encaje amarillento y que la marca sea de regalo, no de colección.",
+   "confianza": "Baja",
+   "video": {
+    "src": "video/rx-168.mp4",
+    "poster": "video/rx-168-poster.jpg",
+    "caption": "Funcionando: su caja de música toca una melodía tipo vals (audio original)",
+    "audio": true
+   }
   }
  ]
 }
