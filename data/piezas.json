@@ -5919,6 +5919,41 @@
    },
    "factores": "Es un juego numeroso con un decorado vintage atractivo y buscado para mesas retro. Le restan que el juego esté incompleto (solo 3 cucharitas y una sopera distinta), las manchas y que no tenga marca identificada.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-177",
+   "nombre": "Cocinilla a parafina (kerosene) de dos platos, de fierro enlozado blanco con borde azul marino, tipo años 50–70. Probada y funcionando",
+   "categoria": "Hogar antiguo",
+   "grupo": "Hogar y herramientas",
+   "origen": "Fabricante no identificado: no se ve ninguna marca, solo 'PAT' estampado en la bandeja inferior. Es una cocinilla a parafina de mecha, del tipo que se usó mucho en Chile y Argentina entre los años 50 y 70. No se confirmó ninguna marca",
+   "materiales": "Cuerpo de fierro enlozado blanco con borde azul marino; parrillas de fierro de 5 brazos; dos quemadores de mecha con camisa de fierro; dos palancas que suben y bajan las mechas; frontal con ranuras de ventilación; bandeja inferior",
+   "marcas": "'PAT' estampado en la bandeja inferior",
+   "estado": "Regular: tiene óxido (sobre todo en las palancas, la bandeja y los bordes), saltaduras del enlozado en los bordes y una mancha en la cubierta. Está probada y funciona, según el dueño",
+   "descripcion": "Cocinilla a parafina (kerosene) de dos platos, de fierro enlozado blanco con borde azul marino, tipo años 50–70. Tiene quemadores de mecha, palancas que regulan las mechas, parrillas de fierro de 5 brazos y un frontal con ranuras de ventilación. La bandeja inferior tiene 'PAT' estampado; no se identificó la marca. Está probada y funciona. Tiene óxido, saltaduras del enlozado en los bordes y una mancha en la cubierta.",
+   "fotos": [
+    "rx-177-1.jpg",
+    "rx-177-2.jpg",
+    "rx-177-3.jpg",
+    "rx-177-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     50000,
+     70000
+    ],
+    "bueno": [
+     35000,
+     50000
+    ],
+    "regular": [
+     20000,
+     30000
+    ]
+   },
+   "factores": "Es una cocinilla a parafina funcionando, con encanto retro: enlozado blanco y azul y construcción robusta de fierro. Sirve para usar o para decorar cocinas y quinchos. Le restan el óxido, las saltaduras y que no tenga marca.",
+   "confianza": "Baja"
   }
  ]
 }
