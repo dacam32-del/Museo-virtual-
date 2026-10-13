@@ -5954,6 +5954,72 @@
    },
    "factores": "Es una cocinilla a parafina funcionando, con encanto retro: enlozado blanco y azul y construcción robusta de fierro. Sirve para usar o para decorar cocinas y quinchos. Le restan el óxido, las saltaduras y que no tenga marca. Precio ajustado por el dueño al mercado local.",
    "confianza": "Baja"
+  },
+  {
+   "id": "RX-178",
+   "nombre": "Platillo inglés Ridgways, patrón 'Josephine', Royal Semi Porcelain, transferware verde con borde de rosas y toques dorados, c. 1905–1930",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Ridgways, Stoke-on-Trent, Inglaterra. La marca de arco y carcaj con 'England' y 'Royal Semi Porcelain' se usó desde fines del siglo XIX y, según la guía de marcas de Godden, desde c. 1905. Época probable: c. 1905–1930. No se ve una marca de fecha impresa que la precise",
+   "materiales": "Loza semiporcelana (semi porcelain) con decoración por transferencia verde y toques dorados a mano",
+   "marcas": "Marca verde: 'JOSEPHINE', arco y carcaj con 'RIDGWAYS ENGLAND', 'ROYAL SEMI PORCELAIN'; bajo ella un número o marca de decorador pintado ('t2' o similar)",
+   "estado": "Regular: tiene craquelado general del esmalte en todo el platillo (frente y reverso) y desgaste del dorado. No se ven saltaduras en las fotos",
+   "descripcion": "Platillo inglés de Ridgways (Stoke-on-Trent), patrón 'Josephine', en loza Royal Semi Porcelain con transferware verde: un borde de rosas y follaje con toques dorados a mano. La marca verde muestra el arco y carcaj de Ridgways con 'England' y bajo ella un número pintado ('t2' o similar). Época probable: c. 1905–1930. Tiene craquelado general del esmalte y desgaste del dorado.",
+   "fotos": [
+    "rx-178-1.jpg",
+    "rx-178-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     16000,
+     24000
+    ],
+    "bueno": [
+     10000,
+     16000
+    ],
+    "regular": [
+     6000,
+     10000
+    ]
+   },
+   "factores": "Suman la marca inglesa reconocida, el patrón Josephine con nombre y la antigüedad de unos 100 años. Le restan el craquelado general, el desgaste del dorado y que sea una pieza suelta (platillo sin taza).",
+   "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-179",
+   "nombre": "Jarro tipo tarro lechero de cerámica blanca con dos asas y calcomanía de vaca con corazones, estilo 'country' años 80–90",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Fabricante no identificado: no tiene marca visible. Es del estilo decorativo 'country' de los años 80–90, de origen probablemente asiático. No es antiguo; es decoración vintage de valor modesto",
+   "materiales": "Cerámica blanca esmaltada con calcomanía de color (vaca con manchas en forma de corazón, cerca, nubes, flores y borde de cuadros con corazones en salmón y celeste)",
+   "marcas": "Sin marcas visibles",
+   "estado": "Bueno: esmalte y calcomanía en buen estado; tiene algo de suciedad en el interior, que se limpia",
+   "descripcion": "Jarro o florero de cerámica blanca con forma de tarro lechero y dos asas, con una calcomanía de vaca con manchas en forma de corazón, cerca y un borde de cuadros con corazones en salmón y celeste. Es decoración 'country' de los años 80–90, sin marca visible: una pieza vintage decorativa de valor modesto. Está en buen estado, con algo de suciedad en el interior.",
+   "fotos": [
+    "rx-179-1.jpg",
+    "rx-179-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     5000,
+     8000
+    ],
+    "regular": [
+     3000,
+     5000
+    ]
+   },
+   "factores": "Tiene un encanto nostálgico de decoración country de los 80–90, útil como florero o adorno de cocina. Le restan que no tenga marca y que sea una pieza decorativa común, sin valor de colección.",
+   "confianza": "Media"
   }
  ]
 }
