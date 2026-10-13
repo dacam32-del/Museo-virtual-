@@ -6123,14 +6123,14 @@
   },
   {
    "id": "RX-183",
-   "nombre": "Mascota virtual Littlest Pet Shop 'Digital Pet' de Hasbro, con charm de llavero, c. 2005–2008. Enciende",
+   "nombre": "Mascota virtual Littlest Pet Shop 'Digital Pet' de Hasbro, con charm de llavero, c. 2005–2008. Probado, funciona completamente",
    "categoria": "Juguetes",
    "grupo": "Juguetes y coleccionables",
    "origen": "Hasbro, línea Littlest Pet Shop 'Digital Pet', c. 2005–2008 (época de los LPS de segunda generación). Moderno, no antiguo",
    "materiales": "Plástico rosado y celeste transparente con decoración de palmeras; pantalla LCD; charm de figura LPS verde en el llavero; cordón verde",
    "marcas": "'LPS' en el frente",
-   "estado": "Bueno: enciende y muestra la mascota en pantalla. No se han confirmado los botones. Tiene rayas y desgaste leve en el plástico",
-   "descripcion": "Mascota virtual Littlest Pet Shop 'Digital Pet' de Hasbro, de c. 2005–2008, con charm de llavero LPS y cordón. Enciende y muestra la mascota en pantalla; no se han confirmado los botones. Es un juguete moderno de la nostalgia de los 2000, en buen estado con uso leve.",
+   "estado": "Bueno: probado, funciona completamente (enciende, muestra la mascota y todos los botones responden). Tiene rayas y desgaste leve en el plástico",
+   "descripcion": "Mascota virtual Littlest Pet Shop 'Digital Pet' de Hasbro, de c. 2005–2008, con charm de llavero LPS y cordón. Está probado y funciona completamente: enciende, muestra la mascota y todos los botones responden. Es un juguete moderno de la nostalgia de los 2000, en buen estado con uso leve.",
    "fotos": [
     "rx-183-1.jpg",
     "rx-183-2.jpg"
@@ -6143,15 +6143,15 @@
      30000
     ],
     "bueno": [
-     12000,
-     20000
+     15000,
+     22000
     ],
     "regular": [
      6000,
      10000
     ]
    },
-   "factores": "Suman la nostalgia de los 2000, que esté encendiendo y el charm incluido. Le restan que no se hayan probado los botones, el uso y que no tenga caja.",
+   "factores": "Suman la nostalgia de los 2000, que esté probado y funcionando completamente, y el charm incluido. Le restan el uso y que no tenga caja.",
    "confianza": "Media-baja"
   }
  ]
