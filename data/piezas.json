@@ -6227,6 +6227,40 @@
    },
    "factores": "Nueve modelos distintos, nuevos en sus cajas ilustradas originales y la mayoría sellados, muy decorativos. Por unidad: unos $5.000–7.800 en Excelente. Le restan que sean piezas de souvenir producidas en masa y el desgaste de las cajas.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-186",
+   "nombre": "Microscopio Tasco 'Discovery Workshop' 750 Power con Discovery Kit de 25 piezas (75X/300X/750X), rojo, en su caja original con ventana. Sin probar",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Tasco (EE.UU., fabricado en Asia). El kit '750 Power Microscope with Discovery Kit' se vendió desde mediados de los 80 (hay ejemplares fechados en 1984, UPC 046162478134). Esta caja, con el logo 'Discovery Workshop', la marca CE y 'Meets ASTM and CE standards', corresponde a una edición posterior, probablemente de mediados de los 90 a los 2000; el año exacto no se confirmó. El número de modelo de la caja no se lee en las fotos (¿50750?), así que queda sin verificar",
+   "materiales": "Microscopio de plástico rojo con óptica y espejo/luz; kit de 25 piezas con preparaciones, contenedores, filtros de color, etiquetas y mariposa de muestra; caja de cartón con ventana",
+   "marcas": "'TASCO Discovery Workshop', '750 Power Microscope', 'Choose from 3 powers: 75X, 300X, 750X', '25 Pieces', 'CE', 'Meets ASTM and CE standards'; usa 2 pilas AA (no incluidas)",
+   "estado": "Bueno: se ve completo en su caja original, con las piezas en sus alvéolos. La caja tiene desgaste, roturas y esquinas gastadas. Sin probar (no se ha probado la luz ni la óptica)",
+   "descripcion": "Microscopio Tasco 'Discovery Workshop' 750 Power con Discovery Kit de 25 piezas, rojo, con tres aumentos (75X, 300X y 750X). Se ve completo en su caja original con ventana. La marca CE indica una edición de mediados de los 90 a los 2000; el modelo se vendía desde los 80. La caja tiene desgaste y roturas. Sin probar.",
+   "fotos": [
+    "rx-186-1.jpg",
+    "rx-186-2.jpg",
+    "rx-186-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     40000,
+     60000
+    ],
+    "bueno": [
+     25000,
+     40000
+    ],
+    "regular": [
+     15000,
+     25000
+    ]
+   },
+   "factores": "Suman la marca Tasco, conocida por sus telescopios y microscopios, que se vea completo en su caja original con ventana y el atractivo nostálgico de los kits de ciencia. Le restan el desgaste y las roturas de la caja, que no esté probado y que sea un juguete educativo de producción masiva.",
+   "confianza": "Media-baja"
   }
  ]
 }
