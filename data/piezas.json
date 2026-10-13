@@ -5784,6 +5784,39 @@
    },
    "factores": "Es un lote homogéneo de 12 títulos del ídolo mexicano, con portadas ilustradas y probado. Pero los VHS tienen valor bajo por unidad y las películas existen en DVD. Precio referencial por unidad: Excelente $4.000–6.000, Bueno $3.000–5.000, Regular $1.500–2.500.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-173",
+   "nombre": "VHS 'Shadow Conspiracy' (1997), de George P. Cosmatos, con Charlie Sheen, Donald Sutherland y Linda Hamilton; edición de EE.UU. de Cinergi / Buena Vista Home Video. Probado y funcionando",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Cinergi Pictures; distribuido en video por Buena Vista Home Video, Burbank, California, EE.UU. Edición de 1997, NTSC, en inglés, sin subtítulos en español",
+   "materiales": "Videocasete VHS en estuche de cartón con carátula a color",
+   "marcas": "ISBN 0-7888-0439-1; logos de Cinergi y de la clasificación R; 'Running Time: 104 Minutes / Color / Hi-Fi Stereo / Digitally Mastered'",
+   "estado": "Bueno: probado y funcionando, según el dueño; el estuche de cartón tiene algo de desgaste en los bordes",
+   "descripcion": "VHS 'Shadow Conspiracy' (1997), un thriller de acción dirigido por George P. Cosmatos, con Charlie Sheen, Donald Sutherland y Linda Hamilton. Es la edición de EE.UU. de Cinergi / Buena Vista Home Video: NTSC, en inglés, clasificación R, 104 minutos (ISBN 0-7888-0439-1). Está probado y funciona; el estuche de cartón tiene algo de desgaste en los bordes. Es una película poco buscada, de valor modesto.",
+   "fotos": [
+    "rx-173-1.jpg",
+    "rx-173-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     4000,
+     6000
+    ],
+    "bueno": [
+     2500,
+     4000
+    ],
+    "regular": [
+     1000,
+     2000
+    ]
+   },
+   "factores": "Es una película poco buscada, en inglés y sin subtítulos, así que su valor es bajo. Le suma que esté probado y tenga un reparto conocido.",
+   "confianza": "Media"
   }
  ]
 }
