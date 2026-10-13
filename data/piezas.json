@@ -5817,6 +5817,73 @@
    },
    "factores": "Es una película poco buscada, en inglés y sin subtítulos, así que su valor es bajo. Le suma que esté probado y tenga un reparto conocido.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-174",
+   "nombre": "Micrófono parlante Yaesu MH-18A2B (speaker microphone) para handies Yaesu de los años 80 y 90, hecho en Japón. No probado",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Yaesu Musen, Japón; fabricado en los años 80 y 90 (descontinuado). Según RigPix y el manual del FT-411, es compatible con FT-23R, FT-411/411E, FT-415, FT-416, FT-470, FT-73R, FT-33R, FT-26, FT-76, FT-530, FT-11R, FT-41R y otros. Se conecta a los jacks EAR (3,5 mm) y MIC (2,5 mm) del equipo",
+   "materiales": "Carcasa plástica gris con rejilla de parlante, botón PTT lateral, clip trasero, cable en espiral y plug doble de dos pines tipo Yaesu",
+   "marcas": "Placa frontal: 'YAESU SPEAKER MICROPHONE MH-18A2B'",
+   "estado": "Bueno: tiene polvo y marcas de uso, sin daños visibles. No se ha probado si funciona",
+   "descripcion": "Micrófono parlante original Yaesu MH-18A2B, hecho en Japón, gris, con cable en espiral, plug doble tipo Yaesu y clip trasero. Sirve para handies Yaesu de los años 80 y 90 como el FT-23R, FT-411, FT-470 y FT-73R. Tiene polvo y marcas de uso; no se ha probado.",
+   "fotos": [
+    "rx-174-1.jpg",
+    "rx-174-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     18000,
+     25000
+    ],
+    "bueno": [
+     10000,
+     16000
+    ],
+    "regular": [
+     5000,
+     8000
+    ]
+   },
+   "factores": "Es un accesorio original Yaesu japonés para handies clásicos, buscado por radioaficionados que mantienen equipos FT-23/FT-411. Le resta que no esté probado.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-175",
+   "nombre": "Figura Rescue Heroes Rip Rockefeller (Fisher-Price) en excavadora oruga amarilla, probablemente del set 'Rip Rockefeller and Excavator' (2004–2007)",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Fisher-Price (Mattel). El personaje es Rip Rockefeller, el obrero de construcción de Rescue Heroes: casco naranja, lentes oscuros y micrófono de casco. El vehículo calza con la 'Mini Excavator' de cuchara a resorte del set 'Rip Rockefeller and Excavator' (#G6546, 2004; reeditado como Mobile Force Rip Rockefeller #J3991, 2005–2007). El chaleco verde metálico corresponde a una versión posterior a la original de 1998, que tenía chaleco naranja. No se confirmó si figura y vehículo vienen del mismo set. Es distinta de RX-095 (policía Kenny Ride, 2001)",
+   "materiales": "Figura de plástico articulada; excavadora de plástico amarilla con orugas negras y pala",
+   "marcas": "Suela de la bota: código moldeado '0906HR' o similar (posible código de fecha o molde, no confirmado)",
+   "estado": "Bueno: tiene desgaste leve y rayas en la pintura",
+   "descripcion": "Figura Rescue Heroes de Fisher-Price: Rip Rockefeller, el obrero de construcción, con casco naranja, lentes oscuros, chaleco verde metálico y micrófono de casco, montado en una excavadora oruga amarilla con pala. Probablemente es del set 'Rip Rockefeller and Excavator' (2004–2007). Tiene desgaste leve y rayas en la pintura.",
+   "fotos": [
+    "rx-175-1.jpg",
+    "rx-175-2.jpg",
+    "rx-175-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     12000,
+     18000
+    ],
+    "bueno": [
+     7000,
+     12000
+    ],
+    "regular": [
+     4000,
+     6000
+    ]
+   },
+   "factores": "Es un personaje clásico de Rescue Heroes con su vehículo, más completo que una figura suelta. Le resta el desgaste de pintura.",
+   "confianza": "Media"
   }
  ]
 }
