@@ -5884,6 +5884,41 @@
    },
    "factores": "Es un personaje clásico de Rescue Heroes con su vehículo, más completo que una figura suelta. Le resta el desgaste de pintura.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-176",
+   "nombre": "Juego de 24 cubiertos de acero inoxidable con mango de rosas en relieve sobre fondo oscurecido, estilo años 60–70 (probablemente Japón o Corea)",
+   "categoria": "Platería / Cubiertos",
+   "grupo": "Platería y metales",
+   "origen": "Fabricante y patrón no identificados: la marca grabada en la hoja de un cuchillo no se puede leer. Es del mismo estilo que los patrones de rosas en acero inoxidable de los años 60–70 hechos en Japón y Corea, como 'Rose & Leaf' de National (Japón), la rosa trepadora (Rose Vine) de Interpur (Japón) o 'Precious Rose' de Stanley Roberts/Rogers (Corea). No se confirmó cuál es",
+   "materiales": "Acero inoxidable con mangos estampados de rosas y hojas en relieve, con el fondo oscurecido para dar contraste",
+   "marcas": "Marca grabada en la hoja de un cuchillo, ilegible en las fotos",
+   "estado": "Bueno: uso normal y algunas manchas. Composición: 3 cucharitas, 7 cucharas soperas, 7 tenedores y 7 cuchillos (24 piezas). Una de las cucharas soperas tiene un mango distinto (diseño geométrico de corazones o tréboles) y no es del juego",
+   "descripcion": "Juego de cubiertos de acero inoxidable con mangos de rosas en relieve sobre fondo oscurecido, al estilo de los años 60–70 (probablemente Japón o Corea; marca y patrón sin identificar). Son 24 piezas: 3 cucharitas, 7 cucharas soperas, 7 tenedores y 7 cuchillos. Una de las soperas tiene otro mango, con diseño geométrico, y no es del juego. Tiene uso normal y algunas manchas.",
+   "fotos": [
+    "rx-176-1.jpg",
+    "rx-176-2.jpg",
+    "rx-176-3.jpg",
+    "rx-176-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     35000,
+     50000
+    ],
+    "bueno": [
+     22000,
+     35000
+    ],
+    "regular": [
+     12000,
+     18000
+    ]
+   },
+   "factores": "Es un juego numeroso con un decorado vintage atractivo y buscado para mesas retro. Le restan que el juego esté incompleto (solo 3 cucharitas y una sopera distinta), las manchas y que no tenga marca identificada.",
+   "confianza": "Media"
   }
  ]
 }
