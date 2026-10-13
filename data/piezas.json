@@ -6153,6 +6153,39 @@
    },
    "factores": "Suman la nostalgia de los 2000, que esté probado y funcionando completamente, y que incluye su mini tortuga LPS original tipo llavero. Le restan el uso y que no tenga caja. Precio ajustado por el dueño al mercado local.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-184",
+   "nombre": "Moneda de 1/2 Sol de Oro de Perú, 1962, latón, escudo nacional (KM# 220.5). Circulada, con oxidación y cardenillo",
+   "categoria": "Numismática / Joyería",
+   "grupo": "Platería y metales",
+   "origen": "Perú, Banco Central de Reserva del Perú, Casa de Moneda de Lima, 1962. KM# 220.5 (Numista N# 5310); tirada de 1962: 3.540.000 piezas",
+   "materiales": "Latón, 7,4 g, 27 mm, canto estriado",
+   "marcas": "Anverso: escudo nacional del Perú con palma y laurel. Reverso: 'EL BANCO CENTRAL DE RESERVA DEL PERÚ PAGARÁ AL PORTADOR 1/2 SOL DE ORO 1962'",
+   "estado": "Regular: circulada, con desgaste, manchas de oxidación y cardenillo (verdín) en ambas caras",
+   "descripcion": "Moneda de 1/2 Sol de Oro de Perú de 1962 (KM# 220.5), de latón, acuñada en Lima: 3.540.000 piezas. En el anverso lleva el escudo nacional y en el reverso 'El Banco Central de Reserva del Perú pagará al portador'. Está circulada, con manchas de oxidación y cardenillo. Es una moneda común y de bajo valor.",
+   "fotos": [
+    "rx-184-1.jpg",
+    "rx-184-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     3000,
+     6000
+    ],
+    "bueno": [
+     1000,
+     2000
+    ],
+    "regular": [
+     500,
+     1000
+    ]
+   },
+   "factores": "Es una moneda común (más de 3,5 millones acuñadas) y de bajo valor. Le restan la oxidación y el cardenillo. Solo un ejemplar sin circular tendría valor de colección.",
+   "confianza": "Alta"
   }
  ]
 }
