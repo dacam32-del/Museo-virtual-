@@ -7029,6 +7029,294 @@
    },
    "factores": "Celular icónico de los 2000, famoso por su resistencia y por el Snake. Vale más con cargador, batería y caja.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-211",
+   "nombre": "Botella de vidrio soplado ámbar oscuro con forma de calabaza, posiblemente del s. XIX",
+   "categoria": "Hogar antiguo",
+   "grupo": "Hogar y herramientas",
+   "origen": "Origen desconocido, posiblemente s. XIX (según la app; por confirmar)",
+   "materiales": "Vidrio soplado",
+   "marcas": "No visibles",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Botella de vidrio soplado ámbar oscuro con forma de calabaza, posiblemente del s. XIX. Origen desconocido, posiblemente s. XIX (según la app; por confirmar). Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-211-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     150000,
+     250000
+    ],
+    "bueno": [
+     40000,
+     120000
+    ],
+    "regular": [
+     20000,
+     40000
+    ]
+   },
+   "factores": "El vidrio soplado antiguo, con pontil y burbujas, es muy buscado. Hay que confirmar la antigüedad: las reproducciones valen poco.",
+   "confianza": "Baja"
+  },
+  {
+   "id": "RX-212",
+   "nombre": "Jarra-licorera de cristal prensado con diseño de cesta tejida, con tapón de vidrio",
+   "categoria": "Hogar antiguo",
+   "grupo": "Hogar y herramientas",
+   "origen": "Origen desconocido, fines del s. XIX o comienzos del s. XX (estimado)",
+   "materiales": "Cristal prensado",
+   "marcas": "No visibles",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Jarra-licorera de cristal prensado con diseño de cesta tejida, con tapón de vidrio. Origen desconocido, fines del s. XIX o comienzos del s. XX (estimado). Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-212-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     40000,
+     60000
+    ],
+    "bueno": [
+     20000,
+     40000
+    ],
+    "regular": [
+     10000,
+     20000
+    ]
+   },
+   "factores": "Diseño de cesta tejida decorativo y tapón original. Al ser prensado (no tallado) vale menos.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-213",
+   "nombre": "Jarrón de porcelana Rosenthal con faisán pintado a mano",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Rosenthal, Selb (Alemania), s. XX",
+   "materiales": "Porcelana pintada a mano",
+   "marcas": "Marca Rosenthal (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Jarrón de porcelana Rosenthal con faisán pintado a mano. Rosenthal, Selb (Alemania), s. XX. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-213-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     70000,
+     110000
+    ],
+    "bueno": [
+     40000,
+     80000
+    ],
+    "regular": [
+     20000,
+     40000
+    ]
+   },
+   "factores": "Fabricante alemán de prestigio y decoración pintada a mano. Hay que confirmar el sello y revisar que no tenga desportilladuras.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-214",
+   "nombre": "Taza y platillo de porcelana fina Paragon con escudos de las provincias de Canadá",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Paragon, Inglaterra, años 60 (estimado)",
+   "materiales": "Bone china, filo dorado",
+   "marcas": "Marca Paragon (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Taza y platillo de porcelana fina Paragon con escudos de las provincias de Canadá. Paragon, Inglaterra, años 60 (estimado). Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-214-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     30000,
+     45000
+    ],
+    "bueno": [
+     15000,
+     30000
+    ],
+    "regular": [
+     8000,
+     15000
+    ]
+   },
+   "factores": "Porcelana inglesa con sello real y un diseño conmemorativo de Canadá. Es distinta de la Paragon de la ficha RX-169.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-215",
+   "nombre": "Jarra cervecera (stein) de cerámica con perro Dachshund, Reinbold",
+   "categoria": "Coleccionables",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Reinbold, Alemania, fines del s. XX (estimado)",
+   "materiales": "Cerámica (gres), tapa de peltre si la tiene",
+   "marcas": "Marca Reinbold (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Jarra cervecera (stein) de cerámica con perro Dachshund, Reinbold. Reinbold, Alemania, fines del s. XX (estimado). Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-215-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     90000,
+     140000
+    ],
+    "bueno": [
+     50000,
+     90000
+    ],
+    "regular": [
+     25000,
+     50000
+    ]
+   },
+   "factores": "Stein alemán con relieve de Dachshund, ya descontinuado y buscado por quienes coleccionan perros salchicha.",
+   "confianza": "Baja"
+  },
+  {
+   "id": "RX-216",
+   "nombre": "Réplica de la nave USS Enterprise NCC-1701-E de Star Trek, Eaglemoss / Hero Collector",
+   "categoria": "Coleccionables",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Eaglemoss (Hero Collector), Reino Unido, años 2010",
+   "materiales": "Metal fundido y plástico",
+   "marcas": "'Eaglemoss' en la base (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Réplica de la nave USS Enterprise NCC-1701-E de Star Trek, Eaglemoss / Hero Collector. Eaglemoss (Hero Collector), Reino Unido, años 2010. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-216-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     60000,
+     85000
+    ],
+    "bueno": [
+     35000,
+     60000
+    ],
+    "regular": [
+     18000,
+     35000
+    ]
+   },
+   "factores": "Nave insignia de Star Trek de la colección oficial; Eaglemoss quebró en 2022 y sus piezas se revalorizan. Vale más con base, caja y fascículo.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-217",
+   "nombre": "Camión Budgie Toys Scammell Scarab, librea British Railways, metal fundido",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Budgie Toys, Inglaterra, años 60",
+   "materiales": "Metal fundido, pintura",
+   "marcas": "'Budgie' (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Camión Budgie Toys Scammell Scarab, librea British Railways, metal fundido. Budgie Toys, Inglaterra, años 60. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-217-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     40000,
+     55000
+    ],
+    "bueno": [
+     20000,
+     40000
+    ],
+    "regular": [
+     10000,
+     20000
+    ]
+   },
+   "factores": "Juguete inglés de los 60 que reproduce un clásico tractor ferroviario de British Railways. Sin caja.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-218",
+   "nombre": "Camión portaautos Matchbox Super Kings K-10, metal fundido",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Lesney / Matchbox, Inglaterra, 1976–1981",
+   "materiales": "Metal fundido, plástico",
+   "marcas": "'Matchbox Super Kings K-10' (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Camión portaautos Matchbox Super Kings K-10, metal fundido. Lesney / Matchbox, Inglaterra, 1976–1981. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-218-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     30000,
+     40000
+    ],
+    "bueno": [
+     15000,
+     25000
+    ],
+    "regular": [
+     8000,
+     15000
+    ]
+   },
+   "factores": "Juguete grande de la serie Super Kings, hecho en Inglaterra. Vale más si conserva la rampa y la caja.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-219",
+   "nombre": "Tamagotchi Nano Star Wars R2-D2, Bandai",
+   "categoria": "Videojuegos",
+   "grupo": "Videojuegos",
+   "origen": "Bandai, Japón, 2021",
+   "materiales": "Plástico, electrónica",
+   "marcas": "'Tamagotchi', 'Star Wars'",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Tamagotchi Nano Star Wars R2-D2, Bandai. Bandai, Japón, 2021. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-219-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     28000
+    ],
+    "bueno": [
+     12000,
+     20000
+    ],
+    "regular": [
+     6000,
+     12000
+    ]
+   },
+   "factores": "Edición especial de Star Wars, coleccionable para fans de Tamagotchi y Star Wars. Es moderno y todavía se consigue nuevo.",
+   "confianza": "Media"
   }
  ]
 }
