@@ -6261,6 +6261,390 @@
    },
    "factores": "Suman la marca Tasco, conocida por sus telescopios y microscopios, que se vea completo en su caja original con ventana y el atractivo nostálgico de los kits de ciencia. Le restan el desgaste y las roturas de la caja, que no esté probado y que sea un juguete educativo de producción masiva.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-187",
+   "nombre": "Reloj de pulsera Vulcain 'Grand Prix' con caja chapada en oro, esfera plateada, correa de cuero",
+   "categoria": "Relojes",
+   "grupo": "Electrónica retro",
+   "origen": "Vulcain (Suiza), línea Grand Prix, probablemente años 50–70 (sin confirmar)",
+   "materiales": "Caja chapada en oro (según la app, no oro macizo), esfera plateada con índices, correa de cuero negra",
+   "marcas": "'Vulcain' en la esfera (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Reloj de pulsera Vulcain 'Grand Prix' con caja chapada en oro, esfera plateada, correa de cuero. Vulcain (Suiza), línea Grand Prix, probablemente años 50–70 (sin confirmar). Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-187-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     250000,
+     350000
+    ],
+    "bueno": [
+     150000,
+     250000
+    ],
+    "regular": [
+     80000,
+     150000
+    ]
+   },
+   "factores": "Marca suiza histórica (el 'reloj de los presidentes' fue su Cricket). Le restan que sea chapado y no oro, y que no esté confirmado su funcionamiento.",
+   "confianza": "Baja"
+  },
+  {
+   "id": "RX-188",
+   "nombre": "Reloj de pulsera Elgin estilo militar con caja de acero y esfera blanca con números arábigos",
+   "categoria": "Relojes",
+   "grupo": "Electrónica retro",
+   "origen": "Elgin (EE.UU.), estilo militar, probablemente años 40–60 (sin confirmar)",
+   "materiales": "Caja de acero inoxidable, esfera blanca con números arábigos y segundero pequeño, correa de cuero",
+   "marcas": "'Elgin' en la esfera (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Reloj de pulsera Elgin estilo militar con caja de acero y esfera blanca con números arábigos. Elgin (EE.UU.), estilo militar, probablemente años 40–60 (sin confirmar). Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-188-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     150000,
+     250000
+    ],
+    "bueno": [
+     80000,
+     150000
+    ],
+    "regular": [
+     40000,
+     80000
+    ]
+   },
+   "factores": "Marca estadounidense clásica y estilo militar muy buscado. Le restan que no se conozca el calibre ni si funciona.",
+   "confianza": "Baja"
+  },
+  {
+   "id": "RX-189",
+   "nombre": "Videojuego 'Night Stalker' para Intellivision (Mattel Electronics, 1982), sellado de fábrica",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Mattel Electronics (EE.UU.), 1982",
+   "materiales": "Cartucho en caja de cartón, sellado",
+   "marcas": "Caja 'Intellivision', 'Night Stalker'",
+   "estado": "Excelente: sellado de fábrica según la app. Sin probar.",
+   "descripcion": "Videojuego 'Night Stalker' para Intellivision (Mattel Electronics, 1982), sellado de fábrica. Mattel Electronics (EE.UU.), 1982. Excelente: sellado de fábrica según la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-189-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     12000,
+     20000
+    ],
+    "bueno": [
+     8000,
+     12000
+    ],
+    "regular": [
+     4000,
+     8000
+    ]
+   },
+   "factores": "Sellado de fábrica y título clásico de Intellivision. Le resta que sea un título común.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-190",
+   "nombre": "Videojuego 'Space Armada' para Intellivision (Mattel, 1981), sellado de fábrica",
+   "categoria": "Videojuegos / Electrónica retro",
+   "grupo": "Electrónica retro",
+   "origen": "Mattel Electronics (EE.UU.), 1981, n.º 3759",
+   "materiales": "Cartucho en caja de cartón, sellado",
+   "marcas": "Caja 'Intellivision', 'Space Armada'",
+   "estado": "Excelente: sellado de fábrica según la app. Sin probar.",
+   "descripcion": "Videojuego 'Space Armada' para Intellivision (Mattel, 1981), sellado de fábrica. Mattel Electronics (EE.UU.), 1981, n.º 3759. Excelente: sellado de fábrica según la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-190-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Excelente",
+   "precios": {
+    "excelente": [
+     10000,
+     18000
+    ],
+    "bueno": [
+     7000,
+     10000
+    ],
+    "regular": [
+     3000,
+     6000
+    ]
+   },
+   "factores": "Sellado de fábrica. Le resta que sea un título común.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-191",
+   "nombre": "Medalla estatal de plata de Israel 'Masada Shall Not Fall Again' (Casa de la Moneda de Israel)",
+   "categoria": "Numismática / Joyería",
+   "grupo": "Platería y metales",
+   "origen": "Israel Government Coins and Medals Corp. Hay emisiones de 1960, 1977 y otras, en varios tamaños (45 mm, 59 mm); la de esta pieza no está confirmada",
+   "materiales": "Plata (según la app; la ley y el peso dependen de la emisión)",
+   "marcas": "Fortaleza de Masada y leyenda 'We shall remain free men' (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Medalla estatal de plata de Israel 'Masada Shall Not Fall Again' (Casa de la Moneda de Israel). Israel Government Coins and Medals Corp. Hay emisiones de 1960, 1977 y otras, en varios tamaños (45 mm, 59 mm); la de esta pieza no está confirmada. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-191-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     120000,
+     180000
+    ],
+    "bueno": [
+     60000,
+     120000
+    ],
+    "regular": [
+     40000,
+     60000
+    ]
+   },
+   "factores": "Medalla estatal de plata con tema histórico. El valor depende mucho del tamaño y del peso en plata, que faltan por confirmar.",
+   "confianza": "Baja"
+  },
+  {
+   "id": "RX-192",
+   "nombre": "Reloj de bolsillo mecánico de cuerda E. Ingraham Co. con caja de esmalte negro",
+   "categoria": "Relojes",
+   "grupo": "Electrónica retro",
+   "origen": "E. Ingraham Company, Bristol, Connecticut (EE.UU.), probablemente años 30–50",
+   "materiales": "Caja metálica con esmalte negro, esfera crema",
+   "marcas": "'Ingraham' (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Reloj de bolsillo mecánico de cuerda E. Ingraham Co. con caja de esmalte negro. E. Ingraham Company, Bristol, Connecticut (EE.UU.), probablemente años 30–50. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-192-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     60000,
+     100000
+    ],
+    "bueno": [
+     30000,
+     60000
+    ],
+    "regular": [
+     15000,
+     30000
+    ]
+   },
+   "factores": "Los 'dollar watches' de Ingraham con caja esmaltada son decorativos y buscados. Le restan que fueran relojes económicos y que no esté confirmado si funciona.",
+   "confianza": "Baja"
+  },
+  {
+   "id": "RX-193",
+   "nombre": "Reloj automático de dama Bulova, enchapado en oro de 10k, años 70, con brazalete metálico",
+   "categoria": "Relojes",
+   "grupo": "Electrónica retro",
+   "origen": "Bulova, años 70 (según la app)",
+   "materiales": "Caja enchapada en oro de 10k (gold filled), brazalete metálico",
+   "marcas": "'Bulova' en la esfera",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Reloj automático de dama Bulova, enchapado en oro de 10k, años 70, con brazalete metálico. Bulova, años 70 (según la app). Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-193-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     140000,
+     220000
+    ],
+    "bueno": [
+     80000,
+     140000
+    ],
+    "regular": [
+     40000,
+     80000
+    ]
+   },
+   "factores": "Marca reconocida y enchapado de 10k. Le restan que sea un reloj de dama (menos demandado) y que no esté confirmado si funciona.",
+   "confianza": "Baja"
+  },
+  {
+   "id": "RX-194",
+   "nombre": "Jarra de metal Britannia (peltre) de James Dixon & Sons, Sheffield",
+   "categoria": "Metal / Peltre",
+   "grupo": "Platería y metales",
+   "origen": "James Dixon & Sons, Sheffield (Inglaterra), probablemente fines del siglo XIX",
+   "materiales": "Metal Britannia (aleación tipo peltre)",
+   "marcas": "Marca de James Dixon & Sons (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Jarra de metal Britannia (peltre) de James Dixon & Sons, Sheffield. James Dixon & Sons, Sheffield (Inglaterra), probablemente fines del siglo XIX. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-194-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     80000,
+     120000
+    ],
+    "bueno": [
+     40000,
+     80000
+    ],
+    "regular": [
+     20000,
+     40000
+    ]
+   },
+   "factores": "Fabricante histórico de Sheffield y antigüedad. Le restan el desgaste y que el metal Britannia valga menos que la plata.",
+   "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-195",
+   "nombre": "Tanque de juguete Marx 'Fighting Tank' de hojalata y plástico, a cuerda",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Louis Marx & Co. (EE.UU.), años 40–50",
+   "materiales": "Hojalata litografiada y plástico, mecanismo a cuerda",
+   "marcas": "Marx (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Tanque de juguete Marx 'Fighting Tank' de hojalata y plástico, a cuerda. Louis Marx & Co. (EE.UU.), años 40–50. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-195-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     50000,
+     90000
+    ],
+    "bueno": [
+     25000,
+     50000
+    ],
+    "regular": [
+     12000,
+     25000
+    ]
+   },
+   "factores": "Juguete clásico de hojalata de Marx. Le restan que no tenga caja y que no esté confirmado si funciona la cuerda.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-196",
+   "nombre": "Taza y platillo de porcelana fina de hueso Royal Albert 'Petit Point'",
+   "categoria": "Porcelana",
+   "grupo": "Porcelana y cerámica",
+   "origen": "Royal Albert (Inglaterra), patrón Petit Point, mediados del siglo XX",
+   "materiales": "Porcelana fina de hueso (bone china) con decoración floral tipo bordado",
+   "marcas": "Royal Albert 'Petit Point' (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Taza y platillo de porcelana fina de hueso Royal Albert 'Petit Point'. Royal Albert (Inglaterra), patrón Petit Point, mediados del siglo XX. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-196-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     20000,
+     30000
+    ],
+    "bueno": [
+     12000,
+     20000
+    ],
+    "regular": [
+     6000,
+     10000
+    ]
+   },
+   "factores": "Marca inglesa conocida, patrón clásico. Le resta que sea un patrón común.",
+   "confianza": "Media"
+  },
+  {
+   "id": "RX-197",
+   "nombre": "Lancha de carreras de hojalata litografiada 'New Ocean Speed Boat', hecha en Japón",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Japón, probablemente años 50–60 (sin confirmar)",
+   "materiales": "Hojalata litografiada",
+   "marcas": "'New Ocean Speed Boat', 'Made in Japan' (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Lancha de carreras de hojalata litografiada 'New Ocean Speed Boat', hecha en Japón. Japón, probablemente años 50–60 (sin confirmar). Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-197-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     80000,
+     120000
+    ],
+    "bueno": [
+     40000,
+     80000
+    ],
+    "regular": [
+     20000,
+     40000
+    ]
+   },
+   "factores": "Juguete de hojalata japonés de posguerra, muy decorativo. Le restan que no se conozca el fabricante ni el estado del mecanismo.",
+   "confianza": "Baja"
+  },
+  {
+   "id": "RX-198",
+   "nombre": "Sonajero de plástico de Porky Pig, Warner Bros., 1975",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Warner Bros. (licencia), 1975",
+   "materiales": "Plástico",
+   "marcas": "'Warner Bros. 1975' (según la app)",
+   "estado": "Bueno, estimado desde la foto pequeña de la app. Sin probar.",
+   "descripcion": "Sonajero de plástico de Porky Pig, Warner Bros., 1975. Warner Bros. (licencia), 1975. Bueno, estimado desde la foto pequeña de la app. Sin probar. Ficha creada desde la exportación de la app de colección; la foto es pequeña y el estado está por confirmar.",
+   "fotos": [
+    "rx-198-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     16000,
+     24000
+    ],
+    "bueno": [
+     10000,
+     16000
+    ],
+    "regular": [
+     5000,
+     10000
+    ]
+   },
+   "factores": "Personaje clásico de Looney Tunes y fecha de los 70. Le resta que sea un artículo infantil común.",
+   "confianza": "Media"
   }
  ]
 }
