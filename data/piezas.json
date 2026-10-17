@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-09",
+ "actualizado": "2026-10-17",
  "moneda": "CLP",
  "subcategorias": {
   "Autos a escala de colección": [
@@ -467,16 +467,18 @@
   },
   {
    "id": "RX-018",
-   "nombre": "Cómic Marvel 'Deadpool Kills the Marvel Universe Again'",
+   "nombre": "Cómic Marvel 'Deadpool Kills the Marvel Universe Again' #4 (2017)",
    "categoria": "Cómics",
    "grupo": "Juguetes y coleccionables",
-   "origen": "Marvel, EE.UU., 2017",
+   "origen": "Marvel, EE.UU., 2017 (All-New Marvel Now! / Deadpool kills the Marvel Universe Again #4)",
    "materiales": "Papel",
-   "marcas": "Marvel",
-   "estado": "Bueno",
-   "descripcion": "Cómic de Marvel 'Deadpool Kills the Marvel Universe Again' (2017), secuela de la popular miniserie en la que Deadpool enfrenta a todo el universo Marvel.",
+   "marcas": "Marvel; #4; Bunn, Talajić, Sudžuka, Mrva; Parental Advisory; Bonus Digital Content; código de barras 759606087662",
+   "estado": "Bueno: en bolsa protectora tipo Zmart; brillo y reflejos, desgaste leve de estante en bordes; sin roturas visibles",
+   "descripcion": "Cómic Marvel 'Deadpool Kills the Marvel Universe Again' número 4 (2017), en inglés, dentro de bolsa protectora con publicidad de Zmart Comics al reverso. Portada verde con Deadpool en silla de director gritando 'CUT!' sobre héroes vencidos. Créditos Bunn / Talajić / Sudžuka / Mrva; Parental Advisory. Single moderno de tirada amplia; el número quedó confirmado con video del dueño (sep 2026).",
    "fotos": [
-    "rx-018-1.jpg"
+    "rx-018-1.jpg",
+    "rx-018-2.jpg",
+    "rx-018-3.jpg"
    ],
    "tasado": true,
    "estado_pieza": "Bueno",
@@ -496,12 +498,20 @@
    },
    "factores": "Cómic moderno (2017) de tirada amplia; demanda ligada al personaje.",
    "confianza": "Media",
-   "video": {
-    "src": "video/rx-018.mp4",
-    "poster": "video/rx-018-poster.jpg",
-    "caption": "El cómic en su bolsa: portada y contraportada (tablero de Zmart Comics)",
-    "audio": false
-   }
+   "video": [
+    {
+     "src": "video/rx-018.mp4",
+     "poster": "video/rx-018-poster.jpg",
+     "caption": "El cómic en su bolsa: portada y contraportada (tablero de Zmart Comics)",
+     "audio": false
+    },
+    {
+     "src": "video/rx-018b.mp4",
+     "poster": "video/rx-018b-poster.jpg",
+     "caption": "Detalle confirmado: número #4 y contraportada con publicidad de Zmart Comics",
+     "audio": false
+    }
+   ]
   },
   {
    "id": "RX-019",
@@ -7317,6 +7327,124 @@
    },
    "factores": "Edición especial de Star Wars, coleccionable para fans de Tamagotchi y Star Wars. Es moderno y todavía se consigue nuevo.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-220",
+   "nombre": "Cómic Marvel She-Hulk #4 (All-New Marvel Now!, 2014), Soule / Pulido / Vicente",
+   "categoria": "Cómics",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Marvel Comics, EE.UU., julio 2014 (All-New Marvel Now!). Escritor Charles Soule; dibujo Javier Pulido; color Muntsa Vicente; portada Kevin Wada",
+   "materiales": "Papel, en bolsa protectora transparente",
+   "marcas": "SHE-HULK; Marvel NOW!; 004; Soule, Pulido, Vicente; UPC 75960607996400411",
+   "estado": "Bueno: en bolsa protectora; sin roturas ni pliegues graves visibles en portada; reflejos de la bolsa",
+   "descripcion": "Número 4 de She-Hulk (All-New Marvel Now!, Marvel, 2014), con guion de Charles Soule, dibujo de Javier Pulido y color de Muntsa Vicente. En esta etapa Jennifer Walters retoma la abogacía con tono más light; este número incluye su encuentro con Matt Murdock (Daredevil), lo que después cobró interés por la serie de Disney+. Edición en inglés, en bolsa protectora. Single moderno de tirada amplia.",
+   "fotos": [
+    "rx-220-1.jpg",
+    "rx-220-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     8000,
+     12000
+    ],
+    "bueno": [
+     3000,
+     6000
+    ],
+    "regular": [
+     1000,
+     2000
+    ]
+   },
+   "factores": "Número moderno de la corrida Soule/Pulido (MCU She-Hulk). Tirada amplia; demanda de coleccionistas casuales. En Chile los singles modernos se venden baratos, al nivel del Deadpool #4 del mismo dueño.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-220.mp4",
+    "poster": "video/rx-220-poster.jpg",
+    "caption": "She-Hulk #4 (All-New Marvel Now!) en bolsa protectora, junto al Green Lantern",
+    "audio": false
+   }
+  },
+  {
+   "id": "RX-221",
+   "nombre": "Cómic DC Green Lantern Corps: Edge of Oblivion #4 (2016), portada Ethan Van Sciver",
+   "categoria": "Cómics",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "DC Comics, EE.UU., junio 2016. Serie limitada Green Lantern Corps: Edge of Oblivion. Portada Ethan Van Sciver; créditos visibles Taylor, Syaf, Glapion, Wright",
+   "materiales": "Papel, en bolsa protectora transparente; sticker de precio en la bolsa",
+   "marcas": "DC Comics; GREEN LANTERN CORPS: EDGE OF OBLIVION; #4; GUY GARDNER: MUZZLED (FINALLY!); Rated T Teen; $2.99",
+   "estado": "Bueno: en bolsa; sticker de precio sobre la frente de Guy Gardner; sin daños graves visibles",
+   "descripcion": "Green Lantern Corps: Edge of Oblivion #4 (DC, 2016), serie limitada de seis números. Portada de Ethan Van Sciver con Guy Gardner amordazado ('Guy Gardner: Muzzled (Finally!)'). Guion asociado a Tom Taylor; equipo de interiores Taylor / Syaf / Glapion / Wright según la portada. Edición en inglés, Rated T, precio de tapa US$2,99, en bolsa protectora con sticker de precio. Single moderno de demanda acotada a fans de Linterna Verde.",
+   "fotos": [
+    "rx-221-1.jpg",
+    "rx-221-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     7000,
+     10000
+    ],
+    "bueno": [
+     2500,
+     5000
+    ],
+    "regular": [
+     1000,
+     2000
+    ]
+   },
+   "factores": "Single moderno de DC de serie limitada corta. Valor bajo en raw; coleccionable para fans de Green Lantern / Guy Gardner.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-221.mp4",
+    "poster": "video/rx-221-poster.jpg",
+    "caption": "Green Lantern Corps: Edge of Oblivion #4 en bolsa protectora",
+    "audio": false
+   }
+  },
+  {
+   "id": "RX-222",
+   "nombre": "Muñeca fashion 'Sally'/'Salla' sellada en blister (Made in China), con raquetas, guitarra y patines",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Marca genérica Sally/Salla (texto en blister: Recommended for over 3 years / Made in China). Probable años 80–90 o 2000; estilo fashion doll tipo Barbie de bazar",
+   "materiales": "Plástico, pelo sintético naranja/amarillo, blister de PVC y cartón rosa; accesorios: 2 raquetas, guitarra eléctrica amarilla, patines y zapatos blancos",
+   "marcas": "Logo 'Sally'/'Salla' en el cabezal; 'RECOMMENDED FOR OVER 3 YEARS'; 'MADE IN CHINA'; gráfica SURFER en la polera",
+   "estado": "Bueno (pieza sellada): doll y accesorios sin abrir. El cartón del blister está curvado, con pliegues y borde superior dañado; el plástico está arrugado y con rayones. Estado del empaque Regular–Bueno",
+   "descripcion": "Muñeca fashion genérica de la marca Sally/Salla, hecha en China, todavía sellada en su blister original rosa. Trae polera con gráfica 'SURFER', buzo gris, y accesorios de plástico: dos raquetas de tenis, una guitarra eléctrica amarilla, patines y zapatos. Eran juguetes de bazar muy comunes en Latinoamérica en los 80–2000, imitaciones de Barbie. El empaque muestra desgaste de estante (cartón curvado y plástico arrugado), pero la muñeca no se abrió.",
+   "fotos": [
+    "rx-222-1.jpg",
+    "rx-222-2.jpg",
+    "rx-222-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     12000,
+     18000
+    ],
+    "bueno": [
+     6000,
+     10000
+    ],
+    "regular": [
+     3000,
+     6000
+    ]
+   },
+   "factores": "NOS sellada con varios accesorios; nostalgia de bazar 80s/90s. Marca genérica (no Mattel/Barbie), empaque gastado: baja la banda. En Chile juguetes sellados genéricos similares se piden ~$4.000–10.000.",
+   "confianza": "Baja",
+   "video": {
+    "src": "video/rx-222.mp4",
+    "poster": "video/rx-222-poster.jpg",
+    "caption": "Muñeca Sally/Salla sellada en blister, con accesorios (raquetas, guitarra, patines)",
+    "audio": false
+   }
   }
  ]
 }
