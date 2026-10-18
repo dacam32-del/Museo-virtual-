@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17",
+ "actualizado": "2026-10-09",
  "moneda": "CLP",
  "subcategorias": {
   "Autos a escala de colección": [
@@ -7445,6 +7445,75 @@
     "caption": "Muñeca Sally/Salla sellada en blister, con accesorios (raquetas, guitarra, patines)",
     "audio": false
    }
+  },
+  {
+   "id": "RX-223",
+   "nombre": "Esmeril manual antiguo de manivela, de fierro fundido verde, con prensa de sujeción a la mesa y piedra de afilar",
+   "categoria": "Herramientas",
+   "grupo": "Hogar y herramientas",
+   "origen": "Fabricante no identificado: no se ve marca en el video. Por el diseño (carcasa redonda de engranajes, prensa de tornillo y manilla de madera) es del tipo de esmeriles de banco a manivela fabricados en EE.UU. y Europa entre fines del siglo XIX y mediados del XX; época y origen sin confirmar",
+   "materiales": "Cuerpo de fierro fundido pintado verde, carcasa redonda de engranajes, prensa de tornillo con perilla estrellada, apoyo para herramienta de fierro, piedra de esmeril gris con arandela de bronce/cobre y tuerca, manivela de fierro con manilla de madera pintada roja",
+   "marcas": "Sin marcas visibles en el video",
+   "estado": "Regular: pintura verde gastada con óxido superficial y polvo; la manilla roja tiene la pintura saltada. La piedra se ve entera y con buen material. No se ve en el video si la manivela gira bien",
+   "descripcion": "Esmeril de banco a manivela, de fierro fundido pintado verde, con prensa de tornillo para fijarlo al borde de una mesa o banco. Al girar la manilla de madera, los engranajes de la carcasa redonda multiplican la velocidad y hacen girar la piedra, con la que se afilaban cuchillos, formones, tijeras y herramientas de campo. Fue una herramienta común en talleres y casas antes de que los esmeriles eléctricos se volvieran baratos; hoy se busca como pieza de taller antiguo y de decoración rústica. No se ve marca. Está completo con su piedra y apoyo, pero tiene óxido superficial y la pintura gastada.",
+   "fotos": [
+    "rx-223-1.jpg",
+    "rx-223-2.jpg",
+    "rx-223-3.jpg",
+    "rx-223-4.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     45000,
+     65000
+    ],
+    "bueno": [
+     28000,
+     40000
+    ],
+    "regular": [
+     15000,
+     25000
+    ]
+   },
+   "factores": "Herramienta de taller antigua y decorativa, completa con su piedra y su prensa; sin marca visible y con óxido y pintura gastada, lo que la deja en la banda baja.",
+   "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-224",
+   "nombre": "Sacacorchos publicitario con forma de botella de whisky 'Black & White' (Buchanan's), con la espiral guardada dentro",
+   "categoria": "Herramientas / Bar",
+   "grupo": "Hogar y herramientas",
+   "origen": "Objeto publicitario del whisky escocés Black & White de James Buchanan & Co. Fabricante no identificado; piezas iguales se venden como de mediados del siglo XX (años 50–60), varias hechas en Japón. Época y origen de esta pieza sin confirmar",
+   "materiales": "Cuerpo de madera torneada con forma de botella, pintado café; la tapa se desenrosca y deja a la vista la espiral de acero que se guarda dentro; etiqueta de papel",
+   "marcas": "Etiqueta: 'PRODUCT OF SCOTLAND', '\"BLACK & WHITE\"', 'SPECIAL BLEND OF BUCHANAN'S CHOICE OLD SCOTCH WHISKY', firma de James Buchanan & Co., 'SCOTCH WHISKY DISTILLERS GLASGOW & LONDON'",
+   "estado": "Bueno: la etiqueta está completa y legible, con algo de amarillo y manchas; la madera tiene rayas y saltaduras de pintura, sobre todo en la base. La espiral está entera y sin óxido visible",
+   "descripcion": "Sacacorchos publicitario con forma de botella de whisky Black & White, la marca de James Buchanan & Co. famosa por sus dos terriers, uno negro y uno blanco. La tapa de la botellita se desenrosca y deja ver la espiral de acero, que queda guardada dentro del cuerpo de madera. Este tipo de objetos se regalaba en bares y tiendas como publicidad a mediados del siglo XX, y hoy lo buscan los coleccionistas de sacacorchos y de artículos de bar. Conserva su etiqueta original, con desgaste y saltaduras de pintura en la madera.",
+   "fotos": [
+    "rx-224-1.jpg",
+    "rx-224-2.jpg",
+    "rx-224-3.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     22000,
+     32000
+    ],
+    "bueno": [
+     14000,
+     22000
+    ],
+    "regular": [
+     7000,
+     12000
+    ]
+   },
+   "factores": "Publicidad de whisky de mediados del siglo XX, con la etiqueta original completa y buscada por coleccionistas de sacacorchos y de artículos de bar; el desgaste de la pintura le resta.",
+   "confianza": "Media-baja"
   }
  ]
 }
