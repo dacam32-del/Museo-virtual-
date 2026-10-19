@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-09",
+ "actualizado": "2026-10-19",
  "moneda": "CLP",
  "subcategorias": {
   "Autos a escala de colección": [
@@ -7514,6 +7514,39 @@
    },
    "factores": "Publicidad de whisky de mediados del siglo XX, con la etiqueta original completa y buscada por coleccionistas de sacacorchos y de artículos de bar; el desgaste de la pintura le resta.",
    "confianza": "Media-baja"
+  },
+  {
+   "id": "RX-225",
+   "nombre": "Auto de policía a batería Chain Fong 'Polarcop' (años 80), rojo, ~30 cm, con barra de luces",
+   "categoria": "Juguetes",
+   "grupo": "Juguetes y coleccionables",
+   "origen": "Chain Fong (China), años 80. Línea de autos de policía a batería con luces y sonidos; variantes Polarcop / Cosmocop. Made in China.",
+   "materiales": "Plástico rojo moldeado, stickers, ruedas de goma/plástico negro, compartimento de baterías en la base, interruptor ON/OFF",
+   "marcas": "Sticker parabrisas 'SOLARCOP' (desgaste; la línea comercial es Polarcop de Chain Fong); sticker espacial Saturno; franja 'COP' con estrellas; base: logo Chain Fong, 'CHAIN FONG', 'MADE IN CHINA', 'PAT. P.', flecha OPEN del compartimento de baterías",
+   "estado": "Regular: plástico con rayas y polvo; sticker del capó muy levantado/partido; stickers laterales incompletos; no se probó si luces, sonidos o tracción funcionan",
+   "descripcion": "Auto de policía a batería Chain Fong Polarcop de los años 80, de plástico rojo y unos 30 cm. Trae barra de luces en el techo, stickers de policía y un compartimento de baterías en la base marcado Chain Fong Made in China. Era un juguete de acción con luces y sonidos que avanzaba solo; hoy se busca por nostalgia de los 80. Este ejemplar tiene el sticker del capó muy dañado y aún no se probó si funciona.",
+   "fotos": [
+    "rx-225-1.jpg",
+    "rx-225-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     28000,
+     40000
+    ],
+    "bueno": [
+     18000,
+     28000
+    ],
+    "regular": [
+     10000,
+     18000
+    ]
+   },
+   "factores": "Juguete nostalgia 80s a batería, tamaño grande (~12\"); stickers dañados y función sin probar bajan a banda Regular. Con luces/sonidos OK sube a Bueno.",
+   "confianza": "Media"
   }
  ]
 }
