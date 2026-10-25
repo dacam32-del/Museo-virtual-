@@ -7547,6 +7547,39 @@
    },
    "factores": "Juguete nostalgia 80s a batería, tamaño grande (~12\"); stickers dañados y función sin probar bajan a banda Regular. Con luces/sonidos OK sube a Bueno.",
    "confianza": "Media"
+  },
+  {
+   "id": "RX-226",
+   "nombre": "Tijera de costura y modista antigua de acero forjado niquelado con punzón circular UK (Reino Unido, c. 1950–1975)",
+   "categoria": "Herramientas",
+   "grupo": "Hogar y herramientas",
+   "origen": "Reino Unido (probablemente Sheffield, Inglaterra), mediados del siglo XX (c. 1950–1975); punzón circular UK y monograma estilizado del cuchillero junto al tornillo central",
+   "materiales": "Acero al carbono forjado en caliente (drop-forged steel) con baño de níquel/cromo y tornillo pivote plano regulable de acero",
+   "marcas": "Dos punzones circulares estampados junto al tornillo central: sello circular \"UK\" y punzón circular con monograma estilizado de tres lazos / trébol",
+   "estado": "Bueno: conserva gran parte de su baño niquelado original en mangos y hojas, puntas rectas y alineadas, y tornillo central funcional con leve óxido superficial en la ranura",
+   "descripcion": "Tijera antigua de costura, modista y sastrería fina fabricada en el Reino Unido a mediados del siglo XX (c. 1950–1975), forjada en acero al carbono con baño de níquel y equipada con tornillo pivote plano regulable. Junto al eje central lleva estampados en frío dos punzones circulares: el sello UK y el monograma estilizado de tres lazos del taller cuchillero británico. Sus hojas largas y rectas permitían dar cortes limpios y precisos en telas y patrones, y gracias a su construcción atornillada puede regularse y afilarse de por vida.",
+   "fotos": [
+    "rx-226-1.jpg",
+    "rx-226-2.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Bueno",
+   "precios": {
+    "excelente": [
+     22000,
+     32000
+    ],
+    "bueno": [
+     15000,
+     25000
+    ],
+    "regular": [
+     8000,
+     14000
+    ]
+   },
+   "factores": "Tijera británica de acero al carbono forjado con tornillo pivote regulable y doble punzón circular junto al eje; muy buscada tanto por costureras/sastres por su retención de filo como para coleccionismo de herramientas y costura antigua.",
+   "confianza": "Media"
   }
  ]
 }
