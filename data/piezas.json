@@ -7588,9 +7588,9 @@
    "grupo": "Juguetes y coleccionables",
    "origen": "Fisher-Price Toys, East Aurora, Nueva York (EE.UU.), producida desde 1968 hasta comienzos de los 80 (año exacto por confirmar)",
    "materiales": "Plástico, calcomanías de papel, mecanismo de caja de música",
-   "marcas": "'Fisher-Price', 'Music Box Movie Camera', '919', 'Picture Disc Storage Area'",
-   "estado": "Regular: plástico íntegro, calcomanías gastadas y rasgadas; no se ven los discos de imágenes. Sin probar.",
-   "descripcion": "Cámara de cine de juguete con caja de música Fisher-Price 'Music Box Movie Camera' n.º 919. Fisher-Price lanzó esta cámara en 1968: al girar la manivela suena una caja de música y por el visor se ven las imágenes de discos intercambiables, que se guardaban en un compartimento lateral. Fue uno de sus juguetes preescolares más populares hasta comienzos de los 80. Regular: calcomanías gastadas, sin discos y sin probar.",
+   "marcas": "'Fisher-Price', 'Music Box Movie Camera', '919', 'Picture Disc Storage Area', etiqueta 'Musical movement made in Japan', etiqueta trasera 'Picture Story Viewer 40 scenes' (muy dañada)",
+   "estado": "Regular: plástico íntegro, calcomanías gastadas y rasgadas; no se ven los discos de imágenes. Probado: la cajita musical a manivela toca su melodía y el gatillo funciona.",
+   "descripcion": "Cámara de cine de juguete con caja de música Fisher-Price 'Music Box Movie Camera' n.º 919. Fisher-Price lanzó esta cámara en 1968: al girar la manivela suena una caja de música y por el visor se ven las imágenes de discos intercambiables, que se guardaban en un compartimento lateral. Fue uno de sus juguetes preescolares más populares hasta comienzos de los 80. Lleva la etiqueta 'Musical movement made in Japan' y, atrás, la etiqueta 'Picture Story Viewer 40 scenes', muy dañada. Regular: calcomanías gastadas y sin discos. Probado: la cajita musical a manivela toca su melodía y el gatillo funciona.",
    "fotos": [
     "rx-227-1.jpg",
     "rx-227-2.jpg",
@@ -7614,8 +7614,14 @@
      20000
     ]
    },
-   "factores": "Juguete clásico de Fisher-Price con manivela que hace sonar una melodía mientras se ven imágenes en el visor. Le restan las calcomanías dañadas y que no tenga discos.",
-   "confianza": "Media"
+   "factores": "Juguete clásico de Fisher-Price con manivela que hace sonar una melodía mientras se ven imágenes en el visor. Le restan las calcomanías dañadas y que no tenga discos. Funciona: probado en video con su melodía original. Mecanismo musical hecho en Japón.",
+   "confianza": "Media",
+   "video": {
+    "src": "video/rx-227.mp4",
+    "poster": "video/rx-227-poster.jpg",
+    "caption": "Probado: la cajita musical a manivela toca su melodía y el gatillo funciona (audio original)",
+    "audio": true
+   }
   }
  ]
 }
