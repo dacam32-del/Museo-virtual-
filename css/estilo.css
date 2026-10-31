@@ -88,4 +88,4 @@ section{padding:40px 0}
 .estados div:nth-child(2){border-top-color:var(--yel2)}.estados div:nth-child(3){border-top-color:var(--red)}
 .estados b{font-family:'Playfair Display';font-size:1.2rem}
 @media (max-width:760px){.estados{grid-template-columns:1fr}.box{padding:16px}.ph img{height:230px}}
-@media (max-width:520px){.grid{grid-template-columns:repeat(2,1fr);gap:12px;padding:0 10px}.cb{padding:9px}.cb .t{font-size:.92em}.prices{grid-template-columns:1fr}.stat{min-width:0;flex:1 1 30%;padding:8px}.stat b{font-size:1.15em}.filters{margin:16px 10px 10px;grid-template-columns:1fr 1fr}.filters .full{grid-column:1/-1}td:first-child{width:38%}.brand small{display:none}}
+@media (max-width:520px){.grid{grid-template-columns:1fr;gap:18px;padding:0 12px}.cb{padding:12px}.cb .t{font-size:1.08em}.prices{grid-template-columns:1fr}.stat{min-width:0;flex:1 1 30%;padding:8px}.stat b{font-size:1.15em}.filters{margin:16px 10px 10px;grid-template-columns:1fr 1fr}.filters .full{grid-column:1/-1}td:first-child{width:38%}.brand small{display:none}}
