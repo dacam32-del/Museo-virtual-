@@ -1,6 +1,9 @@
 # Museo-virtual-
 exposición y venta de todo tipo de antigüedades 
 
+## 🛒 Tienda web
+**[https://dacam32-del.github.io/Museo-virtual-/](https://dacam32-del.github.io/Museo-virtual-/)**
+
 ## RetroXplay · Museo Virtual de Antigüedades
 
 Sitio web estático (HTML/CSS/JS, sin compilación) con la colección de antigüedades, objetos vintage y coleccionables de **RetroXplay**: galería con filtros y buscador, ficha de cada pieza con fotos, reseña histórica y valorización referencial por estado (excelente / bueno / regular), botón de consulta por WhatsApp y una guía educativa sobre cómo se valoran las antigüedades.
