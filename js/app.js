@@ -2,7 +2,7 @@
 const WA='56956592453';
 const waLink=t=>`https://wa.me/${WA}?text=${encodeURIComponent(t)}`;
 const clp=n=>'$'+Number(n).toLocaleString('es-CL');
-const rango=r=>r?`${clp(r[0])} – ${clp(r[1])}`:'—';
+const rango=r=>!r?'—':(r[0]===r[1]?clp(r[0]):`${clp(r[0])} – ${clp(r[1])}`);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm=s=>String(s).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
 const $=id=>document.getElementById(id);
