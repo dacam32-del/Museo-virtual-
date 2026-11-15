@@ -7623,6 +7623,38 @@
    },
    "factores": "Vaso promocional reutilizable chileno de Free MR (CCU), fabricado por Fosko, completo con tapa y bombilla, y con la serigrafía veraniega nítida. Hay 4 unidades en existencia; el precio es por unidad. Precio ajustado por el dueño al mercado local.",
    "confianza": "Alta"
+  },
+  {
+   "id": "RX-229",
+   "nombre": "Minicajón Coca-Cola de plástico rojo con 6 minibotellitas de vidrio internacionales, años 80",
+   "categoria": "Publicidad / Coca-Cola",
+   "grupo": "Publicidad y souvenirs",
+   "origen": "Coca-Cola, años 80 (estimado). Set internacional de minibotellitas de distintos países e idiomas (rótulos visibles: Koka-Kola, コカ・コーラ en japonés, Coke y Coca-Cola). Al incluir el rótulo japonés, probablemente es un set internacional distinto de la promoción chilena de 1987; eso no está confirmado.",
+   "materiales": "Cajón de plástico rojo; 6 botellitas de vidrio de unos 8 cm con chapita metálica y rótulos de papel",
+   "marcas": "Cajón: 'Coca-Cola' en relieve. Rótulos visibles en las botellas: 'Koka-Kola', 'コカ・コーラ' (japonés), 'Coke' y 'Coca-Cola'.",
+   "estado": "Regular: chapitas con óxido, residuos en el interior de varias botellas, una chapita oscura distinta y una botella con líquido. El cajón está en buen estado.",
+   "descripcion": "Minicajón Coca-Cola de plástico rojo con 6 minibotellitas de vidrio internacionales, años 80. Seis minibotellitas de vidrio de unos 8 cm, con chapita metálica, en un minicajón de plástico rojo con el logo Coca-Cola. En los rótulos se leen Koka-Kola, コカ・コーラ (japonés), Coke y Coca-Cola: son versiones de distintos países e idiomas, de los años 80. Como incluye el rótulo japonés, es probable que sea un set internacional y no la promoción chilena de 1987, aunque eso no está confirmado. Es un conjunto distinto de la minibotella suelta RX-157. Regular: las chapitas tienen óxido, varias botellas conservan residuos en el interior, una chapita es oscura y distinta, y una botella todavía tiene líquido; el cajón está en buen estado.",
+   "fotos": [
+    "rx-229-1.jpg"
+   ],
+   "tasado": true,
+   "estado_pieza": "Regular",
+   "precios": {
+    "excelente": [
+     40000,
+     55000
+    ],
+    "bueno": [
+     28000,
+     40000
+    ],
+    "regular": [
+     16000,
+     28000
+    ]
+   },
+   "factores": "Es un set de botellitas de distintos países e idiomas, más completo al conservar el minicajón. Le restan el óxido de las chapitas, los residuos interiores y que una chapita sea distinta. Es distinto de la minibotella suelta RX-157. Precio ajustado por el dueño al mercado local.",
+   "confianza": "Media-baja"
   }
  ]
 }
